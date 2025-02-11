@@ -1,0 +1,1791 @@
+Date,Metric,Region,Product Category,Customer Segment,Marketing Channel,Product Seasonality,customer_segment,Value,YearMonth
+2024-01-01,Product Affinity Score,North,Beer,High-Value,Email,Summer,Mid Value,87.45,2024-01
+2024-01-02,Product Affinity Score,North,Beer,High-Value,Social Media,Spring,High Value,123.2,2024-01
+2024-01-03,Product Affinity Score,North,Beer,High-Value,SMS,Winter,High Value,65.6,2024-01
+2024-01-04,Product Affinity Score,North,Beer,High-Value,Direct Mail,Fall,Mid Value,55.81,2024-01
+2024-01-05,Product Affinity Score,North,Beer,Medium-Value,Email,Spring,Low Value,110.11,2024-01
+2024-01-06,Product Affinity Score,North,Beer,Medium-Value,Social Media,Winter,Low Value,52.06,2024-01
+2024-01-07,Product Affinity Score,North,Beer,Medium-Value,SMS,Winter,Low Value,133.24,2024-01
+2024-01-08,Product Affinity Score,North,Beer,Medium-Value,Direct Mail,Fall,High Value,68.18,2024-01
+2024-01-09,Product Affinity Score,North,Beer,Low-Value,Email,Summer,High Value,80.42,2024-01
+2024-01-10,Product Affinity Score,North,Beer,Low-Value,Social Media,Summer,High Value,93.19,2024-01
+2024-01-11,Product Affinity Score,North,Beer,Low-Value,SMS,Spring,Low Value,111.19,2024-01
+2024-01-12,Product Affinity Score,North,Beer,Low-Value,Direct Mail,Winter,Mid Value,79.21,2024-01
+2024-01-13,Product Affinity Score,North,Wine,High-Value,Email,Fall,Low Value,95.61,2024-01
+2024-01-14,Product Affinity Score,North,Wine,High-Value,Social Media,Winter,Mid Value,69.97,2024-01
+2024-01-15,Product Affinity Score,North,Wine,High-Value,SMS,Winter,Low Value,230.23,2024-01
+2024-01-16,Product Affinity Score,North,Wine,High-Value,Direct Mail,Winter,High Value,67.05,2024-01
+2024-01-17,Product Affinity Score,North,Wine,Medium-Value,Email,Winter,Low Value,144.89,2024-01
+2024-01-18,Product Affinity Score,North,Wine,Medium-Value,Social Media,Spring,Mid Value,130.84,2024-01
+2024-01-19,Product Affinity Score,North,Wine,Medium-Value,SMS,Fall,High Value,59.77,2024-01
+2024-01-20,Product Affinity Score,North,Wine,Medium-Value,Direct Mail,Spring,Low Value,94.02,2024-01
+2024-01-21,Product Affinity Score,North,Wine,Low-Value,Email,Spring,High Value,239.77,2024-01
+2024-01-22,Product Affinity Score,North,Wine,Low-Value,Social Media,Fall,Low Value,75.88,2024-01
+2024-01-23,Product Affinity Score,North,Wine,Low-Value,SMS,Fall,Low Value,81.17,2024-01
+2024-01-24,Product Affinity Score,North,Wine,Low-Value,Direct Mail,Fall,High Value,104.67,2024-01
+2024-01-25,Product Affinity Score,North,Spirits,High-Value,Email,Winter,Low Value,146.96,2024-01
+2024-01-26,Product Affinity Score,North,Spirits,High-Value,Social Media,Fall,Low Value,143.95,2024-01
+2024-01-27,Product Affinity Score,North,Spirits,High-Value,SMS,Summer,High Value,109.79,2024-01
+2024-01-28,Product Affinity Score,North,Spirits,High-Value,Direct Mail,Spring,Mid Value,58.85,2024-01
+2024-01-29,Product Affinity Score,North,Spirits,Medium-Value,Email,Winter,High Value,54.52,2024-01
+2024-01-30,Product Affinity Score,North,Spirits,Medium-Value,Social Media,Fall,Low Value,88.87,2024-01
+2024-01-01,Customer Engagement Score,North,Beer,High-Value,Email,Fall,Mid Value,92.9,2024-01
+2024-01-02,Customer Engagement Score,North,Beer,High-Value,Social Media,Fall,Low Value,125.45,2024-01
+2024-01-03,Customer Engagement Score,North,Beer,High-Value,SMS,Spring,High Value,140.26,2024-01
+2024-01-04,Customer Engagement Score,North,Beer,High-Value,Direct Mail,Summer,High Value,132.65,2024-01
+2024-01-05,Customer Engagement Score,North,Beer,Medium-Value,Email,Summer,High Value,139.55,2024-01
+2024-01-06,Customer Engagement Score,North,Beer,Medium-Value,Social Media,Winter,Mid Value,51.08,2024-01
+2024-01-07,Customer Engagement Score,North,Beer,Medium-Value,SMS,Fall,High Value,59.13,2024-01
+2024-01-08,Customer Engagement Score,North,Beer,Medium-Value,Direct Mail,Spring,Mid Value,145.01,2024-01
+2024-01-09,Customer Engagement Score,North,Beer,Low-Value,Email,Spring,Mid Value,107.34,2024-01
+2024-01-10,Customer Engagement Score,North,Beer,Low-Value,Social Media,Fall,Low Value,94.84,2024-01
+2024-01-11,Customer Engagement Score,North,Beer,Low-Value,SMS,Fall,High Value,82.87,2024-01
+2024-01-12,Customer Engagement Score,North,Beer,Low-Value,Direct Mail,Fall,High Value,125.24,2024-01
+2024-01-13,Customer Engagement Score,North,Wine,High-Value,Email,Summer,Mid Value,128.96,2024-01
+2024-01-14,Customer Engagement Score,North,Wine,High-Value,Social Media,Summer,Mid Value,99.44,2024-01
+2024-01-15,Customer Engagement Score,North,Wine,High-Value,SMS,Summer,Mid Value,104.95,2024-01
+2024-01-16,Customer Engagement Score,North,Wine,High-Value,Direct Mail,Winter,High Value,138.77,2024-01
+2024-01-17,Customer Engagement Score,North,Wine,Medium-Value,Email,Winter,Mid Value,61.71,2024-01
+2024-01-18,Customer Engagement Score,North,Wine,Medium-Value,Social Media,Fall,Low Value,126.15,2024-01
+2024-01-19,Customer Engagement Score,North,Wine,Medium-Value,SMS,Summer,Low Value,60.11,2024-01
+2024-01-20,Customer Engagement Score,North,Wine,Medium-Value,Direct Mail,Spring,Mid Value,120.1,2024-01
+2024-01-21,Customer Engagement Score,North,Wine,Low-Value,Email,Fall,High Value,132.19,2024-01
+2024-01-22,Customer Engagement Score,North,Wine,Low-Value,Social Media,Summer,Mid Value,58.13,2024-01
+2024-01-23,Customer Engagement Score,North,Wine,Low-Value,SMS,Fall,Mid Value,148.66,2024-01
+2024-01-24,Customer Engagement Score,North,Wine,Low-Value,Direct Mail,Fall,High Value,87.06,2024-01
+2024-01-25,Customer Engagement Score,North,Spirits,High-Value,Email,Fall,High Value,144.72,2024-01
+2024-01-26,Customer Engagement Score,North,Spirits,High-Value,Social Media,Spring,High Value,125.34,2024-01
+2024-01-27,Customer Engagement Score,North,Spirits,High-Value,SMS,Spring,High Value,58.35,2024-01
+2024-01-28,Customer Engagement Score,North,Spirits,High-Value,Direct Mail,Summer,Mid Value,105.84,2024-01
+2024-01-29,Customer Engagement Score,North,Spirits,Medium-Value,Email,Fall,High Value,140.64,2024-01
+2024-01-30,Customer Engagement Score,North,Spirits,Medium-Value,Social Media,Spring,Low Value,195.41,2024-01
+2024-01-01,CLV,North,Beer,High-Value,Email,Summer,High Value,68.16,2024-01
+2024-01-02,CLV,North,Beer,High-Value,Social Media,Summer,Low Value,108.34,2024-01
+2024-01-03,CLV,North,Beer,High-Value,SMS,Summer,Low Value,96.2,2024-01
+2024-01-04,CLV,North,Beer,High-Value,Direct Mail,Spring,Low Value,65.34,2024-01
+2024-01-05,CLV,North,Beer,Medium-Value,Email,Fall,Mid Value,100.59,2024-01
+2024-01-06,CLV,North,Beer,Medium-Value,Social Media,Summer,Low Value,51.81,2024-01
+2024-01-07,CLV,North,Beer,Medium-Value,SMS,Winter,Mid Value,143.21,2024-01
+2024-01-08,CLV,North,Beer,Medium-Value,Direct Mail,Fall,Low Value,119.67,2024-01
+2024-01-09,CLV,North,Beer,Low-Value,Email,Winter,High Value,120.72,2024-01
+2024-01-10,CLV,North,Beer,Low-Value,Social Media,Winter,Mid Value,107.63,2024-01
+2024-01-11,CLV,North,Beer,Low-Value,SMS,Spring,High Value,92.41,2024-01
+2024-01-12,CLV,North,Beer,Low-Value,Direct Mail,Winter,Mid Value,143.44,2024-01
+2024-01-13,CLV,North,Wine,High-Value,Email,Summer,Low Value,95.08,2024-01
+2024-01-14,CLV,North,Wine,High-Value,Social Media,Fall,Mid Value,148.48,2024-01
+2024-01-15,CLV,North,Wine,High-Value,SMS,Summer,Low Value,62.47,2024-01
+2024-01-16,CLV,North,Wine,High-Value,Direct Mail,Spring,Mid Value,136.99,2024-01
+2024-01-17,CLV,North,Wine,Medium-Value,Email,Summer,Low Value,109.13,2024-01
+2024-01-18,CLV,North,Wine,Medium-Value,Social Media,Winter,Low Value,55.48,2024-01
+2024-01-19,CLV,North,Wine,Medium-Value,SMS,Summer,High Value,238.88,2024-01
+2024-01-20,CLV,North,Wine,Medium-Value,Direct Mail,Summer,High Value,89.82,2024-01
+2024-01-21,CLV,North,Wine,Low-Value,Email,Summer,Low Value,141.99,2024-01
+2024-01-22,CLV,North,Wine,Low-Value,Social Media,Winter,Mid Value,84.7,2024-01
+2024-01-23,CLV,North,Wine,Low-Value,SMS,Spring,High Value,95.22,2024-01
+2024-01-24,CLV,North,Wine,Low-Value,Direct Mail,Fall,High Value,95.24,2024-01
+2024-01-25,CLV,North,Spirits,High-Value,Email,Winter,Low Value,67.64,2024-01
+2024-01-26,CLV,North,Spirits,High-Value,Social Media,Summer,Low Value,91.89,2024-01
+2024-01-27,CLV,North,Spirits,High-Value,SMS,Fall,High Value,86.24,2024-01
+2024-01-28,CLV,North,Spirits,High-Value,Direct Mail,Winter,Low Value,244.97,2024-01
+2024-01-29,CLV,North,Spirits,Medium-Value,Email,Fall,Low Value,67.8,2024-01
+2024-01-30,CLV,North,Spirits,Medium-Value,Social Media,Summer,High Value,64.87,2024-01
+2024-01-01,Repeat Purchase Rate,North,Beer,High-Value,Email,Spring,Mid Value,146.3,2024-01
+2024-01-02,Repeat Purchase Rate,North,Beer,High-Value,Social Media,Winter,High Value,113.26,2024-01
+2024-01-03,Repeat Purchase Rate,North,Beer,High-Value,SMS,Spring,Mid Value,60.25,2024-01
+2024-01-04,Repeat Purchase Rate,North,Beer,High-Value,Direct Mail,Summer,Low Value,118.79,2024-01
+2024-01-05,Repeat Purchase Rate,North,Beer,Medium-Value,Email,Winter,High Value,80.1,2024-01
+2024-01-06,Repeat Purchase Rate,North,Beer,Medium-Value,Social Media,Summer,High Value,56.74,2024-01
+2024-01-07,Repeat Purchase Rate,North,Beer,Medium-Value,SMS,Summer,Low Value,84.59,2024-01
+2024-01-08,Repeat Purchase Rate,North,Beer,Medium-Value,Direct Mail,Spring,Mid Value,54.57,2024-01
+2024-01-09,Repeat Purchase Rate,North,Beer,Low-Value,Email,Fall,Low Value,147.35,2024-01
+2024-01-10,Repeat Purchase Rate,North,Beer,Low-Value,Social Media,Winter,Low Value,124.97,2024-01
+2024-01-11,Repeat Purchase Rate,North,Beer,Low-Value,SMS,Spring,Mid Value,191.52,2024-01
+2024-01-12,Repeat Purchase Rate,North,Beer,Low-Value,Direct Mail,Summer,High Value,82.36,2024-01
+2024-01-13,Repeat Purchase Rate,North,Wine,High-Value,Email,Summer,Mid Value,127.04,2024-01
+2024-01-14,Repeat Purchase Rate,North,Wine,High-Value,Social Media,Fall,Mid Value,94.59,2024-01
+2024-01-15,Repeat Purchase Rate,North,Wine,High-Value,SMS,Spring,High Value,149.71,2024-01
+2024-01-16,Repeat Purchase Rate,North,Wine,High-Value,Direct Mail,Winter,Low Value,95.14,2024-01
+2024-01-17,Repeat Purchase Rate,North,Wine,Medium-Value,Email,Winter,High Value,129.48,2024-01
+2024-01-18,Repeat Purchase Rate,North,Wine,Medium-Value,Social Media,Winter,High Value,72.08,2024-01
+2024-01-19,Repeat Purchase Rate,North,Wine,Medium-Value,SMS,Summer,High Value,118.05,2024-01
+2024-01-20,Repeat Purchase Rate,North,Wine,Medium-Value,Direct Mail,Spring,Low Value,77.33,2024-01
+2024-01-21,Repeat Purchase Rate,North,Wine,Low-Value,Email,Summer,Mid Value,65.11,2024-01
+2024-01-22,Repeat Purchase Rate,North,Wine,Low-Value,Social Media,Spring,Mid Value,144.36,2024-01
+2024-01-23,Repeat Purchase Rate,North,Wine,Low-Value,SMS,Winter,Mid Value,113.85,2024-01
+2024-01-24,Repeat Purchase Rate,North,Wine,Low-Value,Direct Mail,Summer,Mid Value,77.42,2024-01
+2024-01-25,Repeat Purchase Rate,North,Spirits,High-Value,Email,Spring,High Value,90.93,2024-01
+2024-01-26,Repeat Purchase Rate,North,Spirits,High-Value,Social Media,Summer,Mid Value,73,2024-01
+2024-01-27,Repeat Purchase Rate,North,Spirits,High-Value,SMS,Summer,Low Value,53.11,2024-01
+2024-01-28,Repeat Purchase Rate,North,Spirits,High-Value,Direct Mail,Summer,High Value,86.85,2024-01
+2024-01-29,Repeat Purchase Rate,North,Spirits,Medium-Value,Email,Fall,Low Value,97.32,2024-01
+2024-01-30,Repeat Purchase Rate,North,Spirits,Medium-Value,Social Media,Summer,High Value,68.55,2024-01
+2024-01-01,Campaign Conversion Rate,North,Beer,High-Value,Email,Winter,High Value,52.36,2024-01
+2024-01-02,Campaign Conversion Rate,North,Beer,High-Value,Social Media,Summer,Low Value,110.71,2024-01
+2024-01-03,Campaign Conversion Rate,North,Beer,High-Value,SMS,Winter,High Value,73.19,2024-01
+2024-01-04,Campaign Conversion Rate,North,Beer,High-Value,Direct Mail,Summer,High Value,109.45,2024-01
+2024-01-05,Campaign Conversion Rate,North,Beer,Medium-Value,Email,Winter,Low Value,148.78,2024-01
+2024-01-06,Campaign Conversion Rate,North,Beer,Medium-Value,Social Media,Fall,Mid Value,119.51,2024-01
+2024-01-07,Campaign Conversion Rate,North,Beer,Medium-Value,SMS,Summer,High Value,92.82,2024-01
+2024-01-08,Campaign Conversion Rate,North,Beer,Medium-Value,Direct Mail,Winter,High Value,119.24,2024-01
+2024-01-09,Campaign Conversion Rate,North,Beer,Low-Value,Email,Summer,High Value,62.84,2024-01
+2024-01-10,Campaign Conversion Rate,North,Beer,Low-Value,Social Media,Fall,Low Value,122.43,2024-01
+2024-01-11,Campaign Conversion Rate,North,Beer,Low-Value,SMS,Spring,High Value,77.42,2024-01
+2024-01-12,Campaign Conversion Rate,North,Beer,Low-Value,Direct Mail,Summer,Low Value,58.57,2024-01
+2024-01-13,Campaign Conversion Rate,North,Wine,High-Value,Email,Winter,Mid Value,69.19,2024-01
+2024-01-14,Campaign Conversion Rate,North,Wine,High-Value,Social Media,Spring,Low Value,72.67,2024-01
+2024-01-15,Campaign Conversion Rate,North,Wine,High-Value,SMS,Winter,Low Value,56.94,2024-01
+2024-01-16,Campaign Conversion Rate,North,Wine,High-Value,Direct Mail,Spring,Mid Value,56.76,2024-01
+2024-01-17,Campaign Conversion Rate,North,Wine,Medium-Value,Email,Fall,Mid Value,73.37,2024-01
+2024-01-18,Campaign Conversion Rate,North,Wine,Medium-Value,Social Media,Winter,High Value,138.01,2024-01
+2024-01-19,Campaign Conversion Rate,North,Wine,Medium-Value,SMS,Summer,Low Value,103.3,2024-01
+2024-01-20,Campaign Conversion Rate,North,Wine,Medium-Value,Direct Mail,Winter,Mid Value,83.3,2024-01
+2024-01-21,Campaign Conversion Rate,North,Wine,Low-Value,Email,Spring,Mid Value,149.41,2024-01
+2024-01-22,Campaign Conversion Rate,North,Wine,Low-Value,Social Media,Fall,High Value,105.78,2024-01
+2024-01-23,Campaign Conversion Rate,North,Wine,Low-Value,SMS,Fall,High Value,96.52,2024-01
+2024-01-24,Campaign Conversion Rate,North,Wine,Low-Value,Direct Mail,Winter,Low Value,106.23,2024-01
+2024-01-25,Campaign Conversion Rate,North,Spirits,High-Value,Email,Winter,Mid Value,67.53,2024-01
+2024-01-26,Campaign Conversion Rate,North,Spirits,High-Value,Social Media,Fall,Mid Value,70.09,2024-01
+2024-01-27,Campaign Conversion Rate,North,Spirits,High-Value,SMS,Winter,Low Value,59.67,2024-01
+2024-01-28,Campaign Conversion Rate,North,Spirits,High-Value,Direct Mail,Fall,Mid Value,125.62,2024-01
+2024-01-29,Campaign Conversion Rate,North,Spirits,Medium-Value,Email,Fall,Mid Value,116.49,2024-01
+2024-01-30,Campaign Conversion Rate,North,Spirits,Medium-Value,Social Media,Summer,Low Value,142.72,2024-01
+2024-02-01,Product Affinity Score,North,Beer,High-Value,Email,Spring,Low Value,108.78,2024-02
+2024-02-02,Product Affinity Score,North,Beer,High-Value,Social Media,Spring,Mid Value,86.22,2024-02
+2024-02-03,Product Affinity Score,North,Beer,High-Value,SMS,Spring,Mid Value,122.69,2024-02
+2024-02-04,Product Affinity Score,North,Beer,High-Value,Direct Mail,Fall,High Value,77.31,2024-02
+2024-02-05,Product Affinity Score,North,Beer,Medium-Value,Email,Spring,Low Value,79.87,2024-02
+2024-02-06,Product Affinity Score,North,Beer,Medium-Value,Social Media,Winter,High Value,75.93,2024-02
+2024-02-07,Product Affinity Score,North,Beer,Medium-Value,SMS,Summer,Mid Value,137.27,2024-02
+2024-02-08,Product Affinity Score,North,Beer,Medium-Value,Direct Mail,Summer,High Value,68.61,2024-02
+2024-02-09,Product Affinity Score,North,Beer,Low-Value,Email,Fall,Low Value,95.82,2024-02
+2024-02-10,Product Affinity Score,North,Beer,Low-Value,Social Media,Fall,High Value,63.35,2024-02
+2024-02-11,Product Affinity Score,North,Beer,Low-Value,SMS,Summer,High Value,122.79,2024-02
+2024-02-12,Product Affinity Score,North,Beer,Low-Value,Direct Mail,Spring,Mid Value,93.69,2024-02
+2024-02-13,Product Affinity Score,North,Wine,High-Value,Email,Winter,High Value,126.55,2024-02
+2024-02-14,Product Affinity Score,North,Wine,High-Value,Social Media,Winter,Mid Value,111.02,2024-02
+2024-02-15,Product Affinity Score,North,Wine,High-Value,SMS,Winter,Mid Value,125.14,2024-02
+2024-02-16,Product Affinity Score,North,Wine,High-Value,Direct Mail,Summer,Mid Value,145.66,2024-02
+2024-02-17,Product Affinity Score,North,Wine,Medium-Value,Email,Summer,Mid Value,55.71,2024-02
+2024-02-18,Product Affinity Score,North,Wine,Medium-Value,Social Media,Spring,Low Value,76.17,2024-02
+2024-02-19,Product Affinity Score,North,Wine,Medium-Value,SMS,Spring,Mid Value,140.63,2024-02
+2024-02-20,Product Affinity Score,North,Wine,Medium-Value,Direct Mail,Summer,Mid Value,77.19,2024-02
+2024-02-21,Product Affinity Score,North,Wine,Low-Value,Email,Fall,High Value,94.97,2024-02
+2024-02-22,Product Affinity Score,North,Wine,Low-Value,Social Media,Fall,Mid Value,56.54,2024-02
+2024-02-23,Product Affinity Score,North,Wine,Low-Value,SMS,Fall,Low Value,53.36,2024-02
+2024-02-24,Product Affinity Score,North,Wine,Low-Value,Direct Mail,Winter,Low Value,140.64,2024-02
+2024-02-25,Product Affinity Score,North,Spirits,High-Value,Email,Fall,High Value,103.24,2024-02
+2024-02-26,Product Affinity Score,North,Spirits,High-Value,Social Media,Fall,Mid Value,84.73,2024-02
+2024-02-27,Product Affinity Score,North,Spirits,High-Value,SMS,Spring,High Value,52.18,2024-02
+2024-02-28,Product Affinity Score,North,Spirits,High-Value,Direct Mail,Fall,Mid Value,146.34,2024-02
+2024-02-01,Customer Engagement Score,North,Beer,High-Value,Email,Summer,Low Value,56.64,2024-02
+2024-02-02,Customer Engagement Score,North,Beer,High-Value,Social Media,Summer,Mid Value,123.42,2024-02
+2024-02-03,Customer Engagement Score,North,Beer,High-Value,SMS,Spring,Low Value,79.5,2024-02
+2024-02-04,Customer Engagement Score,North,Beer,High-Value,Direct Mail,Summer,High Value,174.83,2024-02
+2024-02-05,Customer Engagement Score,North,Beer,Medium-Value,Email,Winter,Mid Value,105.86,2024-02
+2024-02-06,Customer Engagement Score,North,Beer,Medium-Value,Social Media,Winter,Low Value,122.92,2024-02
+2024-02-07,Customer Engagement Score,North,Beer,Medium-Value,SMS,Fall,Low Value,134.56,2024-02
+2024-02-08,Customer Engagement Score,North,Beer,Medium-Value,Direct Mail,Summer,High Value,92.99,2024-02
+2024-02-09,Customer Engagement Score,North,Beer,Low-Value,Email,Fall,Low Value,77.54,2024-02
+2024-02-10,Customer Engagement Score,North,Beer,Low-Value,Social Media,Spring,Low Value,128.9,2024-02
+2024-02-11,Customer Engagement Score,North,Beer,Low-Value,SMS,Winter,Mid Value,129.84,2024-02
+2024-02-12,Customer Engagement Score,North,Beer,Low-Value,Direct Mail,Spring,Mid Value,135.76,2024-02
+2024-02-13,Customer Engagement Score,North,Wine,High-Value,Email,Fall,Mid Value,93.1,2024-02
+2024-02-14,Customer Engagement Score,North,Wine,High-Value,Social Media,Winter,Mid Value,108.22,2024-02
+2024-02-15,Customer Engagement Score,North,Wine,High-Value,SMS,Fall,Mid Value,110.11,2024-02
+2024-02-16,Customer Engagement Score,North,Wine,High-Value,Direct Mail,Winter,High Value,118.84,2024-02
+2024-02-17,Customer Engagement Score,North,Wine,Medium-Value,Email,Spring,Low Value,66.69,2024-02
+2024-02-18,Customer Engagement Score,North,Wine,Medium-Value,Social Media,Spring,High Value,64.26,2024-02
+2024-02-19,Customer Engagement Score,North,Wine,Medium-Value,SMS,Winter,High Value,84.59,2024-02
+2024-02-20,Customer Engagement Score,North,Wine,Medium-Value,Direct Mail,Fall,Mid Value,52.54,2024-02
+2024-02-21,Customer Engagement Score,North,Wine,Low-Value,Email,Spring,Mid Value,113.69,2024-02
+2024-02-22,Customer Engagement Score,North,Wine,Low-Value,Social Media,Winter,High Value,57.17,2024-02
+2024-02-23,Customer Engagement Score,North,Wine,Low-Value,SMS,Summer,Mid Value,81.12,2024-02
+2024-02-24,Customer Engagement Score,North,Wine,Low-Value,Direct Mail,Summer,High Value,110.58,2024-02
+2024-02-25,Customer Engagement Score,North,Spirits,High-Value,Email,Fall,High Value,71.79,2024-02
+2024-02-26,Customer Engagement Score,North,Spirits,High-Value,Social Media,Spring,High Value,95.4,2024-02
+2024-02-27,Customer Engagement Score,North,Spirits,High-Value,SMS,Summer,Low Value,64.06,2024-02
+2024-02-28,Customer Engagement Score,North,Spirits,High-Value,Direct Mail,Summer,Mid Value,52.75,2024-02
+2024-02-01,CLV,North,Beer,High-Value,Email,Summer,Mid Value,79.05,2024-02
+2024-02-02,CLV,North,Beer,High-Value,Social Media,Summer,Mid Value,139.01,2024-02
+2024-02-03,CLV,North,Beer,High-Value,SMS,Spring,Mid Value,56.22,2024-02
+2024-02-04,CLV,North,Beer,High-Value,Direct Mail,Fall,Low Value,50.78,2024-02
+2024-02-05,CLV,North,Beer,Medium-Value,Email,Fall,Mid Value,94.77,2024-02
+2024-02-06,CLV,North,Beer,Medium-Value,Social Media,Fall,Low Value,145.79,2024-02
+2024-02-07,CLV,North,Beer,Medium-Value,SMS,Fall,Mid Value,74.19,2024-02
+2024-02-08,CLV,North,Beer,Medium-Value,Direct Mail,Summer,Mid Value,117.96,2024-02
+2024-02-09,CLV,North,Beer,Low-Value,Email,Winter,High Value,77.47,2024-02
+2024-02-10,CLV,North,Beer,Low-Value,Social Media,Spring,Low Value,95.97,2024-02
+2024-02-11,CLV,North,Beer,Low-Value,SMS,Summer,Low Value,155.38,2024-02
+2024-02-12,CLV,North,Beer,Low-Value,Direct Mail,Fall,Low Value,94.55,2024-02
+2024-02-13,CLV,North,Wine,High-Value,Email,Fall,High Value,55,2024-02
+2024-02-14,CLV,North,Wine,High-Value,Social Media,Summer,Mid Value,148.12,2024-02
+2024-02-15,CLV,North,Wine,High-Value,SMS,Summer,Low Value,135.38,2024-02
+2024-02-16,CLV,North,Wine,High-Value,Direct Mail,Winter,Low Value,146.06,2024-02
+2024-02-17,CLV,North,Wine,Medium-Value,Email,Winter,Mid Value,145.14,2024-02
+2024-02-18,CLV,North,Wine,Medium-Value,Social Media,Winter,Mid Value,121.17,2024-02
+2024-02-19,CLV,North,Wine,Medium-Value,SMS,Winter,Low Value,106.95,2024-02
+2024-02-20,CLV,North,Wine,Medium-Value,Direct Mail,Summer,Low Value,93.7,2024-02
+2024-02-21,CLV,North,Wine,Low-Value,Email,Winter,High Value,57.31,2024-02
+2024-02-22,CLV,North,Wine,Low-Value,Social Media,Fall,High Value,148.12,2024-02
+2024-02-23,CLV,North,Wine,Low-Value,SMS,Spring,Mid Value,129.26,2024-02
+2024-02-24,CLV,North,Wine,Low-Value,Direct Mail,Summer,High Value,144.37,2024-02
+2024-02-25,CLV,North,Spirits,High-Value,Email,Fall,Low Value,102.15,2024-02
+2024-02-26,CLV,North,Spirits,High-Value,Social Media,Spring,High Value,125.73,2024-02
+2024-02-27,CLV,North,Spirits,High-Value,SMS,Fall,Low Value,97.69,2024-02
+2024-02-28,CLV,North,Spirits,High-Value,Direct Mail,Winter,Mid Value,74.73,2024-02
+2024-02-01,Repeat Purchase Rate,North,Beer,High-Value,Email,Summer,High Value,95.43,2024-02
+2024-02-02,Repeat Purchase Rate,North,Beer,High-Value,Social Media,Fall,Mid Value,74.84,2024-02
+2024-02-03,Repeat Purchase Rate,North,Beer,High-Value,SMS,Winter,High Value,92.76,2024-02
+2024-02-04,Repeat Purchase Rate,North,Beer,High-Value,Direct Mail,Winter,Mid Value,114.93,2024-02
+2024-02-05,Repeat Purchase Rate,North,Beer,Medium-Value,Email,Summer,High Value,56.4,2024-02
+2024-02-06,Repeat Purchase Rate,North,Beer,Medium-Value,Social Media,Fall,Low Value,79.24,2024-02
+2024-02-07,Repeat Purchase Rate,North,Beer,Medium-Value,SMS,Fall,Mid Value,52.19,2024-02
+2024-02-08,Repeat Purchase Rate,North,Beer,Medium-Value,Direct Mail,Winter,Mid Value,100.26,2024-02
+2024-02-09,Repeat Purchase Rate,North,Beer,Low-Value,Email,Winter,Mid Value,99.11,2024-02
+2024-02-10,Repeat Purchase Rate,North,Beer,Low-Value,Social Media,Summer,Mid Value,60.54,2024-02
+2024-02-11,Repeat Purchase Rate,North,Beer,Low-Value,SMS,Fall,High Value,90.97,2024-02
+2024-02-12,Repeat Purchase Rate,North,Beer,Low-Value,Direct Mail,Winter,Low Value,76.02,2024-02
+2024-02-13,Repeat Purchase Rate,North,Wine,High-Value,Email,Spring,Mid Value,66.05,2024-02
+2024-02-14,Repeat Purchase Rate,North,Wine,High-Value,Social Media,Summer,Low Value,68.56,2024-02
+2024-02-15,Repeat Purchase Rate,North,Wine,High-Value,SMS,Winter,High Value,138.17,2024-02
+2024-02-16,Repeat Purchase Rate,North,Wine,High-Value,Direct Mail,Winter,Low Value,118.51,2024-02
+2024-02-17,Repeat Purchase Rate,North,Wine,Medium-Value,Email,Fall,High Value,78.92,2024-02
+2024-02-18,Repeat Purchase Rate,North,Wine,Medium-Value,Social Media,Fall,Mid Value,75,2024-02
+2024-02-19,Repeat Purchase Rate,North,Wine,Medium-Value,SMS,Fall,High Value,103.56,2024-02
+2024-02-20,Repeat Purchase Rate,North,Wine,Medium-Value,Direct Mail,Fall,High Value,85.38,2024-02
+2024-02-21,Repeat Purchase Rate,North,Wine,Low-Value,Email,Fall,Mid Value,128.93,2024-02
+2024-02-22,Repeat Purchase Rate,North,Wine,Low-Value,Social Media,Spring,Low Value,141.38,2024-02
+2024-02-23,Repeat Purchase Rate,North,Wine,Low-Value,SMS,Summer,Mid Value,82.67,2024-02
+2024-02-24,Repeat Purchase Rate,North,Wine,Low-Value,Direct Mail,Spring,Mid Value,100.56,2024-02
+2024-02-25,Repeat Purchase Rate,North,Spirits,High-Value,Email,Fall,Low Value,137.63,2024-02
+2024-02-26,Repeat Purchase Rate,North,Spirits,High-Value,Social Media,Fall,Mid Value,89.27,2024-02
+2024-02-27,Repeat Purchase Rate,North,Spirits,High-Value,SMS,Spring,High Value,100.31,2024-02
+2024-02-28,Repeat Purchase Rate,North,Spirits,High-Value,Direct Mail,Winter,High Value,135.88,2024-02
+2024-02-01,Campaign Conversion Rate,North,Beer,High-Value,Email,Fall,High Value,56.26,2024-02
+2024-02-02,Campaign Conversion Rate,North,Beer,High-Value,Social Media,Spring,Mid Value,130.9,2024-02
+2024-02-03,Campaign Conversion Rate,North,Beer,High-Value,SMS,Spring,Mid Value,84.26,2024-02
+2024-02-04,Campaign Conversion Rate,North,Beer,High-Value,Direct Mail,Winter,High Value,65.49,2024-02
+2024-02-05,Campaign Conversion Rate,North,Beer,Medium-Value,Email,Winter,High Value,98.45,2024-02
+2024-02-06,Campaign Conversion Rate,North,Beer,Medium-Value,Social Media,Fall,Low Value,106.34,2024-02
+2024-02-07,Campaign Conversion Rate,North,Beer,Medium-Value,SMS,Winter,High Value,63.71,2024-02
+2024-02-08,Campaign Conversion Rate,North,Beer,Medium-Value,Direct Mail,Summer,Mid Value,100.55,2024-02
+2024-02-09,Campaign Conversion Rate,North,Beer,Low-Value,Email,Summer,Mid Value,112.4,2024-02
+2024-02-10,Campaign Conversion Rate,North,Beer,Low-Value,Social Media,Spring,High Value,98.78,2024-02
+2024-02-11,Campaign Conversion Rate,North,Beer,Low-Value,SMS,Spring,Low Value,95.96,2024-02
+2024-02-12,Campaign Conversion Rate,North,Beer,Low-Value,Direct Mail,Spring,High Value,132.24,2024-02
+2024-02-13,Campaign Conversion Rate,North,Wine,High-Value,Email,Winter,Low Value,91.86,2024-02
+2024-02-14,Campaign Conversion Rate,North,Wine,High-Value,Social Media,Summer,Low Value,122.5,2024-02
+2024-02-15,Campaign Conversion Rate,North,Wine,High-Value,SMS,Winter,Low Value,116.72,2024-02
+2024-02-16,Campaign Conversion Rate,North,Wine,High-Value,Direct Mail,Spring,High Value,136.22,2024-02
+2024-02-17,Campaign Conversion Rate,North,Wine,Medium-Value,Email,Fall,Mid Value,103.8,2024-02
+2024-02-18,Campaign Conversion Rate,North,Wine,Medium-Value,Social Media,Winter,Mid Value,148.95,2024-02
+2024-02-19,Campaign Conversion Rate,North,Wine,Medium-Value,SMS,Fall,High Value,87.15,2024-02
+2024-02-20,Campaign Conversion Rate,North,Wine,Medium-Value,Direct Mail,Fall,Low Value,98.94,2024-02
+2024-02-21,Campaign Conversion Rate,North,Wine,Low-Value,Email,Winter,High Value,99.26,2024-02
+2024-02-22,Campaign Conversion Rate,North,Wine,Low-Value,Social Media,Fall,Low Value,133.82,2024-02
+2024-02-23,Campaign Conversion Rate,North,Wine,Low-Value,SMS,Winter,Low Value,135.98,2024-02
+2024-02-24,Campaign Conversion Rate,North,Wine,Low-Value,Direct Mail,Summer,Mid Value,82.82,2024-02
+2024-02-25,Campaign Conversion Rate,North,Spirits,High-Value,Email,Spring,Low Value,126.24,2024-02
+2024-02-26,Campaign Conversion Rate,North,Spirits,High-Value,Social Media,Winter,High Value,69.64,2024-02
+2024-02-27,Campaign Conversion Rate,North,Spirits,High-Value,SMS,Spring,Low Value,67.55,2024-02
+2024-02-28,Campaign Conversion Rate,North,Spirits,High-Value,Direct Mail,Spring,Low Value,107.93,2024-02
+2024-03-01,Product Affinity Score,North,Beer,High-Value,Email,Winter,Low Value,72.27,2024-03
+2024-03-02,Product Affinity Score,North,Beer,High-Value,Social Media,Winter,Mid Value,104.65,2024-03
+2024-03-03,Product Affinity Score,North,Beer,High-Value,SMS,Spring,High Value,66.02,2024-03
+2024-03-04,Product Affinity Score,North,Beer,High-Value,Direct Mail,Winter,Low Value,91.81,2024-03
+2024-03-05,Product Affinity Score,North,Beer,Medium-Value,Email,Spring,Mid Value,139.8,2024-03
+2024-03-06,Product Affinity Score,North,Beer,Medium-Value,Social Media,Fall,Mid Value,89.31,2024-03
+2024-03-07,Product Affinity Score,North,Beer,Medium-Value,SMS,Fall,Low Value,51.66,2024-03
+2024-03-08,Product Affinity Score,North,Beer,Medium-Value,Direct Mail,Winter,Low Value,110.24,2024-03
+2024-03-09,Product Affinity Score,North,Beer,Low-Value,Email,Spring,Low Value,171.34,2024-03
+2024-03-10,Product Affinity Score,North,Beer,Low-Value,Social Media,Spring,Low Value,147.47,2024-03
+2024-03-11,Product Affinity Score,North,Beer,Low-Value,SMS,Winter,High Value,73.15,2024-03
+2024-03-12,Product Affinity Score,North,Beer,Low-Value,Direct Mail,Fall,Mid Value,142.65,2024-03
+2024-03-13,Product Affinity Score,North,Wine,High-Value,Email,Summer,Low Value,114.2,2024-03
+2024-03-14,Product Affinity Score,North,Wine,High-Value,Social Media,Fall,Mid Value,186.01,2024-03
+2024-03-15,Product Affinity Score,North,Wine,High-Value,SMS,Summer,Mid Value,51.13,2024-03
+2024-03-16,Product Affinity Score,North,Wine,High-Value,Direct Mail,Winter,High Value,168.41,2024-03
+2024-03-17,Product Affinity Score,North,Wine,Medium-Value,Email,Summer,Mid Value,89.77,2024-03
+2024-03-18,Product Affinity Score,North,Wine,Medium-Value,Social Media,Spring,Mid Value,104.42,2024-03
+2024-03-19,Product Affinity Score,North,Wine,Medium-Value,SMS,Spring,Mid Value,120.94,2024-03
+2024-03-20,Product Affinity Score,North,Wine,Medium-Value,Direct Mail,Winter,Low Value,140.42,2024-03
+2024-03-21,Product Affinity Score,North,Wine,Low-Value,Email,Fall,Mid Value,104.99,2024-03
+2024-03-22,Product Affinity Score,North,Wine,Low-Value,Social Media,Fall,Mid Value,92.61,2024-03
+2024-03-23,Product Affinity Score,North,Wine,Low-Value,SMS,Spring,High Value,130.56,2024-03
+2024-03-24,Product Affinity Score,North,Wine,Low-Value,Direct Mail,Winter,High Value,72.61,2024-03
+2024-03-25,Product Affinity Score,North,Spirits,High-Value,Email,Summer,Low Value,143.04,2024-03
+2024-03-26,Product Affinity Score,North,Spirits,High-Value,Social Media,Winter,Low Value,95.01,2024-03
+2024-03-27,Product Affinity Score,North,Spirits,High-Value,SMS,Summer,High Value,137.07,2024-03
+2024-03-28,Product Affinity Score,North,Spirits,High-Value,Direct Mail,Winter,Mid Value,71.11,2024-03
+2024-03-29,Product Affinity Score,North,Spirits,Medium-Value,Email,Spring,Mid Value,55.13,2024-03
+2024-03-30,Product Affinity Score,North,Spirits,Medium-Value,Social Media,Winter,Mid Value,94.21,2024-03
+2024-03-01,Customer Engagement Score,North,Beer,High-Value,Email,Winter,High Value,58.61,2024-03
+2024-03-02,Customer Engagement Score,North,Beer,High-Value,Social Media,Summer,High Value,78.03,2024-03
+2024-03-03,Customer Engagement Score,North,Beer,High-Value,SMS,Summer,High Value,93.99,2024-03
+2024-03-04,Customer Engagement Score,North,Beer,High-Value,Direct Mail,Spring,High Value,88.1,2024-03
+2024-03-05,Customer Engagement Score,North,Beer,Medium-Value,Email,Fall,Low Value,109.95,2024-03
+2024-03-06,Customer Engagement Score,North,Beer,Medium-Value,Social Media,Summer,High Value,88.32,2024-03
+2024-03-07,Customer Engagement Score,North,Beer,Medium-Value,SMS,Fall,Mid Value,218.72,2024-03
+2024-03-08,Customer Engagement Score,North,Beer,Medium-Value,Direct Mail,Spring,Mid Value,132.63,2024-03
+2024-03-09,Customer Engagement Score,North,Beer,Low-Value,Email,Spring,Low Value,85.31,2024-03
+2024-03-10,Customer Engagement Score,North,Beer,Low-Value,Social Media,Spring,Low Value,105.47,2024-03
+2024-03-11,Customer Engagement Score,North,Beer,Low-Value,SMS,Winter,Mid Value,113.15,2024-03
+2024-03-12,Customer Engagement Score,North,Beer,Low-Value,Direct Mail,Summer,High Value,109.86,2024-03
+2024-03-13,Customer Engagement Score,North,Wine,High-Value,Email,Spring,Low Value,145.79,2024-03
+2024-03-14,Customer Engagement Score,North,Wine,High-Value,Social Media,Winter,Low Value,110.51,2024-03
+2024-03-15,Customer Engagement Score,North,Wine,High-Value,SMS,Fall,Mid Value,112.57,2024-03
+2024-03-16,Customer Engagement Score,North,Wine,High-Value,Direct Mail,Fall,High Value,68.48,2024-03
+2024-03-17,Customer Engagement Score,North,Wine,Medium-Value,Email,Summer,Mid Value,110.44,2024-03
+2024-03-18,Customer Engagement Score,North,Wine,Medium-Value,Social Media,Summer,Low Value,102.34,2024-03
+2024-03-19,Customer Engagement Score,North,Wine,Medium-Value,SMS,Winter,Mid Value,116.65,2024-03
+2024-03-20,Customer Engagement Score,North,Wine,Medium-Value,Direct Mail,Fall,High Value,94.18,2024-03
+2024-03-21,Customer Engagement Score,North,Wine,Low-Value,Email,Winter,High Value,68.45,2024-03
+2024-03-22,Customer Engagement Score,North,Wine,Low-Value,Social Media,Summer,Low Value,88.67,2024-03
+2024-03-23,Customer Engagement Score,North,Wine,Low-Value,SMS,Spring,High Value,89.78,2024-03
+2024-03-24,Customer Engagement Score,North,Wine,Low-Value,Direct Mail,Winter,High Value,98.33,2024-03
+2024-03-25,Customer Engagement Score,North,Spirits,High-Value,Email,Fall,High Value,133.91,2024-03
+2024-03-26,Customer Engagement Score,North,Spirits,High-Value,Social Media,Winter,Mid Value,100.57,2024-03
+2024-03-27,Customer Engagement Score,North,Spirits,High-Value,SMS,Winter,High Value,57.12,2024-03
+2024-03-28,Customer Engagement Score,North,Spirits,High-Value,Direct Mail,Summer,High Value,106.6,2024-03
+2024-03-29,Customer Engagement Score,North,Spirits,Medium-Value,Email,Fall,High Value,105.79,2024-03
+2024-03-30,Customer Engagement Score,North,Spirits,Medium-Value,Social Media,Summer,High Value,54.87,2024-03
+2024-03-01,CLV,North,Beer,High-Value,Email,Summer,High Value,142.07,2024-03
+2024-03-02,CLV,North,Beer,High-Value,Social Media,Summer,Low Value,55.47,2024-03
+2024-03-03,CLV,North,Beer,High-Value,SMS,Fall,Low Value,91.87,2024-03
+2024-03-04,CLV,North,Beer,High-Value,Direct Mail,Winter,Mid Value,50.02,2024-03
+2024-03-05,CLV,North,Beer,Medium-Value,Email,Fall,Mid Value,134.39,2024-03
+2024-03-06,CLV,North,Beer,Medium-Value,Social Media,Winter,High Value,66.78,2024-03
+2024-03-07,CLV,North,Beer,Medium-Value,SMS,Spring,High Value,56.76,2024-03
+2024-03-08,CLV,North,Beer,Medium-Value,Direct Mail,Winter,Low Value,142.88,2024-03
+2024-03-09,CLV,North,Beer,Low-Value,Email,Winter,Mid Value,61.91,2024-03
+2024-03-10,CLV,North,Beer,Low-Value,Social Media,Winter,Mid Value,84.88,2024-03
+2024-03-11,CLV,North,Beer,Low-Value,SMS,Fall,Low Value,112.13,2024-03
+2024-03-12,CLV,North,Beer,Low-Value,Direct Mail,Winter,Mid Value,152.3,2024-03
+2024-03-13,CLV,North,Wine,High-Value,Email,Winter,High Value,73.27,2024-03
+2024-03-14,CLV,North,Wine,High-Value,Social Media,Summer,High Value,130.51,2024-03
+2024-03-15,CLV,North,Wine,High-Value,SMS,Fall,Low Value,130.24,2024-03
+2024-03-16,CLV,North,Wine,High-Value,Direct Mail,Fall,Low Value,94.42,2024-03
+2024-03-17,CLV,North,Wine,Medium-Value,Email,Fall,High Value,100.89,2024-03
+2024-03-18,CLV,North,Wine,Medium-Value,Social Media,Winter,High Value,311.19,2024-03
+2024-03-19,CLV,North,Wine,Medium-Value,SMS,Summer,High Value,96.07,2024-03
+2024-03-20,CLV,North,Wine,Medium-Value,Direct Mail,Spring,Mid Value,98.32,2024-03
+2024-03-21,CLV,North,Wine,Low-Value,Email,Spring,Low Value,125.46,2024-03
+2024-03-22,CLV,North,Wine,Low-Value,Social Media,Fall,Low Value,103.84,2024-03
+2024-03-23,CLV,North,Wine,Low-Value,SMS,Summer,Low Value,135.75,2024-03
+2024-03-24,CLV,North,Wine,Low-Value,Direct Mail,Summer,High Value,120.64,2024-03
+2024-03-25,CLV,North,Spirits,High-Value,Email,Spring,Mid Value,50.7,2024-03
+2024-03-26,CLV,North,Spirits,High-Value,Social Media,Winter,Low Value,73.48,2024-03
+2024-03-27,CLV,North,Spirits,High-Value,SMS,Summer,Low Value,83.73,2024-03
+2024-03-28,CLV,North,Spirits,High-Value,Direct Mail,Spring,Mid Value,50.06,2024-03
+2024-03-29,CLV,North,Spirits,Medium-Value,Email,Winter,Low Value,74.12,2024-03
+2024-03-30,CLV,North,Spirits,Medium-Value,Social Media,Fall,High Value,56.82,2024-03
+2024-03-01,Repeat Purchase Rate,North,Beer,High-Value,Email,Spring,High Value,120.09,2024-03
+2024-03-02,Repeat Purchase Rate,North,Beer,High-Value,Social Media,Summer,High Value,113.08,2024-03
+2024-03-03,Repeat Purchase Rate,North,Beer,High-Value,SMS,Winter,Mid Value,98.2,2024-03
+2024-03-04,Repeat Purchase Rate,North,Beer,High-Value,Direct Mail,Summer,Low Value,78.19,2024-03
+2024-03-05,Repeat Purchase Rate,North,Beer,Medium-Value,Email,Summer,Mid Value,142.46,2024-03
+2024-03-06,Repeat Purchase Rate,North,Beer,Medium-Value,Social Media,Spring,Mid Value,98.56,2024-03
+2024-03-07,Repeat Purchase Rate,North,Beer,Medium-Value,SMS,Spring,Low Value,111.04,2024-03
+2024-03-08,Repeat Purchase Rate,North,Beer,Medium-Value,Direct Mail,Summer,Mid Value,74.97,2024-03
+2024-03-09,Repeat Purchase Rate,North,Beer,Low-Value,Email,Summer,Low Value,135.2,2024-03
+2024-03-10,Repeat Purchase Rate,North,Beer,Low-Value,Social Media,Summer,Mid Value,101.47,2024-03
+2024-03-11,Repeat Purchase Rate,North,Beer,Low-Value,SMS,Spring,High Value,51.6,2024-03
+2024-03-12,Repeat Purchase Rate,North,Beer,Low-Value,Direct Mail,Fall,Low Value,87.7,2024-03
+2024-03-13,Repeat Purchase Rate,North,Wine,High-Value,Email,Winter,High Value,57.97,2024-03
+2024-03-14,Repeat Purchase Rate,North,Wine,High-Value,Social Media,Spring,Mid Value,143.26,2024-03
+2024-03-15,Repeat Purchase Rate,North,Wine,High-Value,SMS,Summer,High Value,62.61,2024-03
+2024-03-16,Repeat Purchase Rate,North,Wine,High-Value,Direct Mail,Fall,High Value,126.63,2024-03
+2024-03-17,Repeat Purchase Rate,North,Wine,Medium-Value,Email,Summer,Mid Value,137.98,2024-03
+2024-03-18,Repeat Purchase Rate,North,Wine,Medium-Value,Social Media,Fall,Mid Value,139.92,2024-03
+2024-03-19,Repeat Purchase Rate,North,Wine,Medium-Value,SMS,Summer,Mid Value,63.13,2024-03
+2024-03-20,Repeat Purchase Rate,North,Wine,Medium-Value,Direct Mail,Summer,Low Value,70.18,2024-03
+2024-03-21,Repeat Purchase Rate,North,Wine,Low-Value,Email,Spring,High Value,126.04,2024-03
+2024-03-22,Repeat Purchase Rate,North,Wine,Low-Value,Social Media,Summer,High Value,80.1,2024-03
+2024-03-23,Repeat Purchase Rate,North,Wine,Low-Value,SMS,Winter,High Value,125.65,2024-03
+2024-03-24,Repeat Purchase Rate,North,Wine,Low-Value,Direct Mail,Fall,Low Value,72.58,2024-03
+2024-03-25,Repeat Purchase Rate,North,Spirits,High-Value,Email,Summer,Low Value,54.03,2024-03
+2024-03-26,Repeat Purchase Rate,North,Spirits,High-Value,Social Media,Spring,High Value,96.86,2024-03
+2024-03-27,Repeat Purchase Rate,North,Spirits,High-Value,SMS,Fall,High Value,148.47,2024-03
+2024-03-28,Repeat Purchase Rate,North,Spirits,High-Value,Direct Mail,Fall,Mid Value,63.04,2024-03
+2024-03-29,Repeat Purchase Rate,North,Spirits,Medium-Value,Email,Winter,High Value,126.91,2024-03
+2024-03-30,Repeat Purchase Rate,North,Spirits,Medium-Value,Social Media,Winter,High Value,163.48,2024-03
+2024-03-01,Campaign Conversion Rate,North,Beer,High-Value,Email,Winter,Low Value,81.02,2024-03
+2024-03-02,Campaign Conversion Rate,North,Beer,High-Value,Social Media,Summer,High Value,100.41,2024-03
+2024-03-03,Campaign Conversion Rate,North,Beer,High-Value,SMS,Winter,Low Value,75.81,2024-03
+2024-03-04,Campaign Conversion Rate,North,Beer,High-Value,Direct Mail,Summer,Mid Value,63.33,2024-03
+2024-03-05,Campaign Conversion Rate,North,Beer,Medium-Value,Email,Summer,Mid Value,136.77,2024-03
+2024-03-06,Campaign Conversion Rate,North,Beer,Medium-Value,Social Media,Fall,Mid Value,60.62,2024-03
+2024-03-07,Campaign Conversion Rate,North,Beer,Medium-Value,SMS,Fall,Mid Value,130.8,2024-03
+2024-03-08,Campaign Conversion Rate,North,Beer,Medium-Value,Direct Mail,Winter,Low Value,61.4,2024-03
+2024-03-09,Campaign Conversion Rate,North,Beer,Low-Value,Email,Spring,High Value,133.43,2024-03
+2024-03-10,Campaign Conversion Rate,North,Beer,Low-Value,Social Media,Spring,Mid Value,114.64,2024-03
+2024-03-11,Campaign Conversion Rate,North,Beer,Low-Value,SMS,Winter,Low Value,220.04,2024-03
+2024-03-12,Campaign Conversion Rate,North,Beer,Low-Value,Direct Mail,Fall,Low Value,58.14,2024-03
+2024-03-13,Campaign Conversion Rate,North,Wine,High-Value,Email,Winter,Mid Value,79.27,2024-03
+2024-03-14,Campaign Conversion Rate,North,Wine,High-Value,Social Media,Fall,High Value,63.34,2024-03
+2024-03-15,Campaign Conversion Rate,North,Wine,High-Value,SMS,Summer,High Value,129.5,2024-03
+2024-03-16,Campaign Conversion Rate,North,Wine,High-Value,Direct Mail,Spring,Mid Value,60.43,2024-03
+2024-03-17,Campaign Conversion Rate,North,Wine,Medium-Value,Email,Fall,Mid Value,137.71,2024-03
+2024-03-18,Campaign Conversion Rate,North,Wine,Medium-Value,Social Media,Winter,High Value,96.73,2024-03
+2024-03-19,Campaign Conversion Rate,North,Wine,Medium-Value,SMS,Spring,Low Value,114.96,2024-03
+2024-03-20,Campaign Conversion Rate,North,Wine,Medium-Value,Direct Mail,Spring,Low Value,132.82,2024-03
+2024-03-21,Campaign Conversion Rate,North,Wine,Low-Value,Email,Fall,Mid Value,57.53,2024-03
+2024-03-22,Campaign Conversion Rate,North,Wine,Low-Value,Social Media,Winter,Low Value,54.93,2024-03
+2024-03-23,Campaign Conversion Rate,North,Wine,Low-Value,SMS,Summer,Low Value,63.57,2024-03
+2024-03-24,Campaign Conversion Rate,North,Wine,Low-Value,Direct Mail,Spring,High Value,88.51,2024-03
+2024-03-25,Campaign Conversion Rate,North,Spirits,High-Value,Email,Summer,Mid Value,111.04,2024-03
+2024-03-26,Campaign Conversion Rate,North,Spirits,High-Value,Social Media,Fall,High Value,121.04,2024-03
+2024-03-27,Campaign Conversion Rate,North,Spirits,High-Value,SMS,Spring,Low Value,123.59,2024-03
+2024-03-28,Campaign Conversion Rate,North,Spirits,High-Value,Direct Mail,Spring,Low Value,113.91,2024-03
+2024-03-29,Campaign Conversion Rate,North,Spirits,Medium-Value,Email,Summer,Low Value,149.77,2024-03
+2024-03-30,Campaign Conversion Rate,North,Spirits,Medium-Value,Social Media,Summer,High Value,77.91,2024-03
+2024-04-01,Product Affinity Score,North,Beer,High-Value,Email,Summer,High Value,141.48,2024-04
+2024-04-02,Product Affinity Score,North,Beer,High-Value,Social Media,Summer,High Value,145.23,2024-04
+2024-04-03,Product Affinity Score,North,Beer,High-Value,SMS,Winter,High Value,113.15,2024-04
+2024-04-04,Product Affinity Score,North,Beer,High-Value,Direct Mail,Spring,Low Value,62.94,2024-04
+2024-04-05,Product Affinity Score,North,Beer,Medium-Value,Email,Fall,Low Value,59.91,2024-04
+2024-04-06,Product Affinity Score,North,Beer,Medium-Value,Social Media,Spring,High Value,94.69,2024-04
+2024-04-07,Product Affinity Score,North,Beer,Medium-Value,SMS,Winter,High Value,72.05,2024-04
+2024-04-08,Product Affinity Score,North,Beer,Medium-Value,Direct Mail,Fall,Mid Value,90.63,2024-04
+2024-04-09,Product Affinity Score,North,Beer,Low-Value,Email,Spring,Mid Value,121.04,2024-04
+2024-04-10,Product Affinity Score,North,Beer,Low-Value,Social Media,Spring,Low Value,101.73,2024-04
+2024-04-11,Product Affinity Score,North,Beer,Low-Value,SMS,Fall,High Value,148.46,2024-04
+2024-04-12,Product Affinity Score,North,Beer,Low-Value,Direct Mail,Fall,Mid Value,78.54,2024-04
+2024-04-13,Product Affinity Score,North,Wine,High-Value,Email,Winter,Low Value,60.95,2024-04
+2024-04-14,Product Affinity Score,North,Wine,High-Value,Social Media,Winter,Mid Value,67.48,2024-04
+2024-04-15,Product Affinity Score,North,Wine,High-Value,SMS,Spring,Mid Value,74.55,2024-04
+2024-04-16,Product Affinity Score,North,Wine,High-Value,Direct Mail,Fall,High Value,127.68,2024-04
+2024-04-17,Product Affinity Score,North,Wine,Medium-Value,Email,Winter,Mid Value,111.45,2024-04
+2024-04-18,Product Affinity Score,North,Wine,Medium-Value,Social Media,Winter,Low Value,57.86,2024-04
+2024-04-19,Product Affinity Score,North,Wine,Medium-Value,SMS,Spring,Mid Value,74.83,2024-04
+2024-04-20,Product Affinity Score,North,Wine,Medium-Value,Direct Mail,Summer,Mid Value,88.94,2024-04
+2024-04-21,Product Affinity Score,North,Wine,Low-Value,Email,Winter,High Value,118.47,2024-04
+2024-04-22,Product Affinity Score,North,Wine,Low-Value,Social Media,Spring,Low Value,73.9,2024-04
+2024-04-23,Product Affinity Score,North,Wine,Low-Value,SMS,Spring,Low Value,91.11,2024-04
+2024-04-24,Product Affinity Score,North,Wine,Low-Value,Direct Mail,Fall,Low Value,51.97,2024-04
+2024-04-25,Product Affinity Score,North,Spirits,High-Value,Email,Summer,High Value,146.56,2024-04
+2024-04-26,Product Affinity Score,North,Spirits,High-Value,Social Media,Winter,Low Value,182.82,2024-04
+2024-04-27,Product Affinity Score,North,Spirits,High-Value,SMS,Summer,High Value,132.54,2024-04
+2024-04-28,Product Affinity Score,North,Spirits,High-Value,Direct Mail,Spring,Low Value,65.97,2024-04
+2024-04-29,Product Affinity Score,North,Spirits,Medium-Value,Email,Fall,Low Value,236.94,2024-04
+2024-04-30,Product Affinity Score,North,Spirits,Medium-Value,Social Media,Winter,Mid Value,80.89,2024-04
+2024-04-01,Customer Engagement Score,North,Beer,High-Value,Email,Spring,High Value,95.22,2024-04
+2024-04-02,Customer Engagement Score,North,Beer,High-Value,Social Media,Spring,High Value,88.94,2024-04
+2024-04-03,Customer Engagement Score,North,Beer,High-Value,SMS,Spring,High Value,81.97,2024-04
+2024-04-04,Customer Engagement Score,North,Beer,High-Value,Direct Mail,Fall,High Value,138.13,2024-04
+2024-04-05,Customer Engagement Score,North,Beer,Medium-Value,Email,Fall,High Value,58.33,2024-04
+2024-04-06,Customer Engagement Score,North,Beer,Medium-Value,Social Media,Summer,Low Value,81.15,2024-04
+2024-04-07,Customer Engagement Score,North,Beer,Medium-Value,SMS,Summer,Low Value,94.27,2024-04
+2024-04-08,Customer Engagement Score,North,Beer,Medium-Value,Direct Mail,Summer,High Value,127.79,2024-04
+2024-04-09,Customer Engagement Score,North,Beer,Low-Value,Email,Fall,Low Value,94.31,2024-04
+2024-04-10,Customer Engagement Score,North,Beer,Low-Value,Social Media,Fall,Mid Value,86.73,2024-04
+2024-04-11,Customer Engagement Score,North,Beer,Low-Value,SMS,Winter,Mid Value,130.88,2024-04
+2024-04-12,Customer Engagement Score,North,Beer,Low-Value,Direct Mail,Summer,Mid Value,102.43,2024-04
+2024-04-13,Customer Engagement Score,North,Wine,High-Value,Email,Summer,Low Value,76.94,2024-04
+2024-04-14,Customer Engagement Score,North,Wine,High-Value,Social Media,Summer,Low Value,143.34,2024-04
+2024-04-15,Customer Engagement Score,North,Wine,High-Value,SMS,Summer,High Value,107.72,2024-04
+2024-04-16,Customer Engagement Score,North,Wine,High-Value,Direct Mail,Fall,Low Value,52.93,2024-04
+2024-04-17,Customer Engagement Score,North,Wine,Medium-Value,Email,Summer,Mid Value,100.95,2024-04
+2024-04-18,Customer Engagement Score,North,Wine,Medium-Value,Social Media,Winter,Mid Value,85.94,2024-04
+2024-04-19,Customer Engagement Score,North,Wine,Medium-Value,SMS,Fall,High Value,69.33,2024-04
+2024-04-20,Customer Engagement Score,North,Wine,Medium-Value,Direct Mail,Summer,Mid Value,90.87,2024-04
+2024-04-21,Customer Engagement Score,North,Wine,Low-Value,Email,Fall,Mid Value,122.55,2024-04
+2024-04-22,Customer Engagement Score,North,Wine,Low-Value,Social Media,Fall,Low Value,103.81,2024-04
+2024-04-23,Customer Engagement Score,North,Wine,Low-Value,SMS,Spring,High Value,74.31,2024-04
+2024-04-24,Customer Engagement Score,North,Wine,Low-Value,Direct Mail,Spring,High Value,66.82,2024-04
+2024-04-25,Customer Engagement Score,North,Spirits,High-Value,Email,Spring,High Value,96.07,2024-04
+2024-04-26,Customer Engagement Score,North,Spirits,High-Value,Social Media,Summer,Mid Value,74.75,2024-04
+2024-04-27,Customer Engagement Score,North,Spirits,High-Value,SMS,Fall,Low Value,115.1,2024-04
+2024-04-28,Customer Engagement Score,North,Spirits,High-Value,Direct Mail,Spring,Mid Value,91.77,2024-04
+2024-04-29,Customer Engagement Score,North,Spirits,Medium-Value,Email,Spring,Mid Value,77.37,2024-04
+2024-04-30,Customer Engagement Score,North,Spirits,Medium-Value,Social Media,Winter,Mid Value,109.63,2024-04
+2024-04-01,CLV,North,Beer,High-Value,Email,Summer,Low Value,73.32,2024-04
+2024-04-02,CLV,North,Beer,High-Value,Social Media,Fall,Low Value,80.94,2024-04
+2024-04-03,CLV,North,Beer,High-Value,SMS,Fall,Mid Value,51.61,2024-04
+2024-04-04,CLV,North,Beer,High-Value,Direct Mail,Fall,Mid Value,85.17,2024-04
+2024-04-05,CLV,North,Beer,Medium-Value,Email,Summer,Mid Value,57.27,2024-04
+2024-04-06,CLV,North,Beer,Medium-Value,Social Media,Winter,Mid Value,71.78,2024-04
+2024-04-07,CLV,North,Beer,Medium-Value,SMS,Spring,High Value,130.32,2024-04
+2024-04-08,CLV,North,Beer,Medium-Value,Direct Mail,Fall,Mid Value,124.09,2024-04
+2024-04-09,CLV,North,Beer,Low-Value,Email,Spring,Low Value,85.55,2024-04
+2024-04-10,CLV,North,Beer,Low-Value,Social Media,Fall,Low Value,79.47,2024-04
+2024-04-11,CLV,North,Beer,Low-Value,SMS,Summer,Low Value,124.54,2024-04
+2024-04-12,CLV,North,Beer,Low-Value,Direct Mail,Fall,High Value,80.28,2024-04
+2024-04-13,CLV,North,Wine,High-Value,Email,Summer,High Value,131.8,2024-04
+2024-04-14,CLV,North,Wine,High-Value,Social Media,Fall,Low Value,104.51,2024-04
+2024-04-15,CLV,North,Wine,High-Value,SMS,Winter,High Value,140.33,2024-04
+2024-04-16,CLV,North,Wine,High-Value,Direct Mail,Fall,Low Value,73.21,2024-04
+2024-04-17,CLV,North,Wine,Medium-Value,Email,Winter,Low Value,132.37,2024-04
+2024-04-18,CLV,North,Wine,Medium-Value,Social Media,Winter,Low Value,91.51,2024-04
+2024-04-19,CLV,North,Wine,Medium-Value,SMS,Spring,Low Value,93.78,2024-04
+2024-04-20,CLV,North,Wine,Medium-Value,Direct Mail,Summer,Mid Value,79.12,2024-04
+2024-04-21,CLV,North,Wine,Low-Value,Email,Spring,High Value,57.55,2024-04
+2024-04-22,CLV,North,Wine,Low-Value,Social Media,Spring,High Value,92.77,2024-04
+2024-04-23,CLV,North,Wine,Low-Value,SMS,Summer,Mid Value,58.97,2024-04
+2024-04-24,CLV,North,Wine,Low-Value,Direct Mail,Summer,High Value,58.97,2024-04
+2024-04-25,CLV,North,Spirits,High-Value,Email,Spring,Low Value,130.73,2024-04
+2024-04-26,CLV,North,Spirits,High-Value,Social Media,Fall,Mid Value,72.36,2024-04
+2024-04-27,CLV,North,Spirits,High-Value,SMS,Summer,Mid Value,84.46,2024-04
+2024-04-28,CLV,North,Spirits,High-Value,Direct Mail,Fall,Low Value,106.32,2024-04
+2024-04-29,CLV,North,Spirits,Medium-Value,Email,Spring,Low Value,50.38,2024-04
+2024-04-30,CLV,North,Spirits,Medium-Value,Social Media,Spring,Low Value,143.84,2024-04
+2024-04-01,Repeat Purchase Rate,North,Beer,High-Value,Email,Fall,Mid Value,100.37,2024-04
+2024-04-02,Repeat Purchase Rate,North,Beer,High-Value,Social Media,Winter,High Value,107.4,2024-04
+2024-04-03,Repeat Purchase Rate,North,Beer,High-Value,SMS,Fall,Mid Value,105.67,2024-04
+2024-04-04,Repeat Purchase Rate,North,Beer,High-Value,Direct Mail,Winter,High Value,83.56,2024-04
+2024-04-05,Repeat Purchase Rate,North,Beer,Medium-Value,Email,Spring,Low Value,93.28,2024-04
+2024-04-06,Repeat Purchase Rate,North,Beer,Medium-Value,Social Media,Fall,High Value,247.3,2024-04
+2024-04-07,Repeat Purchase Rate,North,Beer,Medium-Value,SMS,Winter,Mid Value,111.86,2024-04
+2024-04-08,Repeat Purchase Rate,North,Beer,Medium-Value,Direct Mail,Summer,Mid Value,58.58,2024-04
+2024-04-09,Repeat Purchase Rate,North,Beer,Low-Value,Email,Summer,Mid Value,142.32,2024-04
+2024-04-10,Repeat Purchase Rate,North,Beer,Low-Value,Social Media,Spring,High Value,62.71,2024-04
+2024-04-11,Repeat Purchase Rate,North,Beer,Low-Value,SMS,Spring,Low Value,109.25,2024-04
+2024-04-12,Repeat Purchase Rate,North,Beer,Low-Value,Direct Mail,Winter,Mid Value,54.37,2024-04
+2024-04-13,Repeat Purchase Rate,North,Wine,High-Value,Email,Winter,Mid Value,236.45,2024-04
+2024-04-14,Repeat Purchase Rate,North,Wine,High-Value,Social Media,Fall,Mid Value,145.9,2024-04
+2024-04-15,Repeat Purchase Rate,North,Wine,High-Value,SMS,Summer,Mid Value,76.17,2024-04
+2024-04-16,Repeat Purchase Rate,North,Wine,High-Value,Direct Mail,Winter,Low Value,52.82,2024-04
+2024-04-17,Repeat Purchase Rate,North,Wine,Medium-Value,Email,Winter,Mid Value,138.15,2024-04
+2024-04-18,Repeat Purchase Rate,North,Wine,Medium-Value,Social Media,Spring,Mid Value,122.03,2024-04
+2024-04-19,Repeat Purchase Rate,North,Wine,Medium-Value,SMS,Winter,High Value,90.8,2024-04
+2024-04-20,Repeat Purchase Rate,North,Wine,Medium-Value,Direct Mail,Winter,High Value,101.71,2024-04
+2024-04-21,Repeat Purchase Rate,North,Wine,Low-Value,Email,Summer,Low Value,130.44,2024-04
+2024-04-22,Repeat Purchase Rate,North,Wine,Low-Value,Social Media,Fall,High Value,119.26,2024-04
+2024-04-23,Repeat Purchase Rate,North,Wine,Low-Value,SMS,Fall,High Value,140.75,2024-04
+2024-04-24,Repeat Purchase Rate,North,Wine,Low-Value,Direct Mail,Spring,Low Value,103.4,2024-04
+2024-04-25,Repeat Purchase Rate,North,Spirits,High-Value,Email,Spring,Low Value,91,2024-04
+2024-04-26,Repeat Purchase Rate,North,Spirits,High-Value,Social Media,Spring,Low Value,57.05,2024-04
+2024-04-27,Repeat Purchase Rate,North,Spirits,High-Value,SMS,Winter,High Value,82.45,2024-04
+2024-04-28,Repeat Purchase Rate,North,Spirits,High-Value,Direct Mail,Summer,Mid Value,78.27,2024-04
+2024-04-29,Repeat Purchase Rate,North,Spirits,Medium-Value,Email,Winter,Low Value,117.13,2024-04
+2024-04-30,Repeat Purchase Rate,North,Spirits,Medium-Value,Social Media,Spring,Mid Value,98.64,2024-04
+2024-04-01,Campaign Conversion Rate,North,Beer,High-Value,Email,Summer,Mid Value,133.66,2024-04
+2024-04-02,Campaign Conversion Rate,North,Beer,High-Value,Social Media,Fall,Mid Value,111.42,2024-04
+2024-04-03,Campaign Conversion Rate,North,Beer,High-Value,SMS,Winter,High Value,312.45,2024-04
+2024-04-04,Campaign Conversion Rate,North,Beer,High-Value,Direct Mail,Fall,Low Value,101.27,2024-04
+2024-04-05,Campaign Conversion Rate,North,Beer,Medium-Value,Email,Winter,High Value,99.72,2024-04
+2024-04-06,Campaign Conversion Rate,North,Beer,Medium-Value,Social Media,Winter,High Value,51.28,2024-04
+2024-04-07,Campaign Conversion Rate,North,Beer,Medium-Value,SMS,Spring,Low Value,94.67,2024-04
+2024-04-08,Campaign Conversion Rate,North,Beer,Medium-Value,Direct Mail,Winter,High Value,63.82,2024-04
+2024-04-09,Campaign Conversion Rate,North,Beer,Low-Value,Email,Summer,High Value,99.63,2024-04
+2024-04-10,Campaign Conversion Rate,North,Beer,Low-Value,Social Media,Spring,Low Value,117.87,2024-04
+2024-04-11,Campaign Conversion Rate,North,Beer,Low-Value,SMS,Spring,High Value,146.14,2024-04
+2024-04-12,Campaign Conversion Rate,North,Beer,Low-Value,Direct Mail,Winter,High Value,130.75,2024-04
+2024-04-13,Campaign Conversion Rate,North,Wine,High-Value,Email,Fall,High Value,89.73,2024-04
+2024-04-14,Campaign Conversion Rate,North,Wine,High-Value,Social Media,Winter,High Value,106.95,2024-04
+2024-04-15,Campaign Conversion Rate,North,Wine,High-Value,SMS,Spring,Mid Value,57.83,2024-04
+2024-04-16,Campaign Conversion Rate,North,Wine,High-Value,Direct Mail,Fall,High Value,135.03,2024-04
+2024-04-17,Campaign Conversion Rate,North,Wine,Medium-Value,Email,Fall,Mid Value,116.88,2024-04
+2024-04-18,Campaign Conversion Rate,North,Wine,Medium-Value,Social Media,Winter,High Value,133.29,2024-04
+2024-04-19,Campaign Conversion Rate,North,Wine,Medium-Value,SMS,Summer,Mid Value,62.98,2024-04
+2024-04-20,Campaign Conversion Rate,North,Wine,Medium-Value,Direct Mail,Winter,High Value,144.64,2024-04
+2024-04-21,Campaign Conversion Rate,North,Wine,Low-Value,Email,Fall,Low Value,82.69,2024-04
+2024-04-22,Campaign Conversion Rate,North,Wine,Low-Value,Social Media,Summer,Low Value,143.04,2024-04
+2024-04-23,Campaign Conversion Rate,North,Wine,Low-Value,SMS,Fall,Mid Value,241.2,2024-04
+2024-04-24,Campaign Conversion Rate,North,Wine,Low-Value,Direct Mail,Summer,Low Value,110.95,2024-04
+2024-04-25,Campaign Conversion Rate,North,Spirits,High-Value,Email,Summer,Mid Value,78.52,2024-04
+2024-04-26,Campaign Conversion Rate,North,Spirits,High-Value,Social Media,Summer,Low Value,128.7,2024-04
+2024-04-27,Campaign Conversion Rate,North,Spirits,High-Value,SMS,Spring,Mid Value,86.94,2024-04
+2024-04-28,Campaign Conversion Rate,North,Spirits,High-Value,Direct Mail,Fall,Mid Value,106.03,2024-04
+2024-04-29,Campaign Conversion Rate,North,Spirits,Medium-Value,Email,Winter,High Value,85.48,2024-04
+2024-04-30,Campaign Conversion Rate,North,Spirits,Medium-Value,Social Media,Fall,Low Value,108.54,2024-04
+2024-05-01,Product Affinity Score,North,Beer,High-Value,Email,Fall,Low Value,81.64,2024-05
+2024-05-02,Product Affinity Score,North,Beer,High-Value,Social Media,Summer,Mid Value,69.37,2024-05
+2024-05-03,Product Affinity Score,North,Beer,High-Value,SMS,Fall,Mid Value,200.67,2024-05
+2024-05-04,Product Affinity Score,North,Beer,High-Value,Direct Mail,Summer,High Value,53.2,2024-05
+2024-05-05,Product Affinity Score,North,Beer,Medium-Value,Email,Spring,Low Value,139.21,2024-05
+2024-05-06,Product Affinity Score,North,Beer,Medium-Value,Social Media,Summer,Mid Value,104.36,2024-05
+2024-05-07,Product Affinity Score,North,Beer,Medium-Value,SMS,Spring,Low Value,88.71,2024-05
+2024-05-08,Product Affinity Score,North,Beer,Medium-Value,Direct Mail,Spring,High Value,54.48,2024-05
+2024-05-09,Product Affinity Score,North,Beer,Low-Value,Email,Summer,Low Value,95.72,2024-05
+2024-05-10,Product Affinity Score,North,Beer,Low-Value,Social Media,Spring,Mid Value,138.78,2024-05
+2024-05-11,Product Affinity Score,North,Beer,Low-Value,SMS,Winter,Mid Value,132.26,2024-05
+2024-05-12,Product Affinity Score,North,Beer,Low-Value,Direct Mail,Summer,Mid Value,89.41,2024-05
+2024-05-13,Product Affinity Score,North,Wine,High-Value,Email,Fall,Mid Value,90.02,2024-05
+2024-05-14,Product Affinity Score,North,Wine,High-Value,Social Media,Spring,High Value,100.36,2024-05
+2024-05-15,Product Affinity Score,North,Wine,High-Value,SMS,Winter,Mid Value,94.15,2024-05
+2024-05-16,Product Affinity Score,North,Wine,High-Value,Direct Mail,Summer,High Value,134.88,2024-05
+2024-05-17,Product Affinity Score,North,Wine,Medium-Value,Email,Spring,High Value,99.05,2024-05
+2024-05-18,Product Affinity Score,North,Wine,Medium-Value,Social Media,Summer,High Value,138.49,2024-05
+2024-05-19,Product Affinity Score,North,Wine,Medium-Value,SMS,Winter,High Value,72.11,2024-05
+2024-05-20,Product Affinity Score,North,Wine,Medium-Value,Direct Mail,Spring,Mid Value,324.75,2024-05
+2024-05-21,Product Affinity Score,North,Wine,Low-Value,Email,Spring,Low Value,63.04,2024-05
+2024-05-22,Product Affinity Score,North,Wine,Low-Value,Social Media,Spring,High Value,89.48,2024-05
+2024-05-23,Product Affinity Score,North,Wine,Low-Value,SMS,Summer,High Value,138.07,2024-05
+2024-05-24,Product Affinity Score,North,Wine,Low-Value,Direct Mail,Spring,Low Value,155.87,2024-05
+2024-05-25,Product Affinity Score,North,Spirits,High-Value,Email,Winter,Low Value,74.48,2024-05
+2024-05-26,Product Affinity Score,North,Spirits,High-Value,Social Media,Winter,Low Value,62.13,2024-05
+2024-05-27,Product Affinity Score,North,Spirits,High-Value,SMS,Fall,High Value,91.1,2024-05
+2024-05-28,Product Affinity Score,North,Spirits,High-Value,Direct Mail,Summer,Low Value,121.21,2024-05
+2024-05-29,Product Affinity Score,North,Spirits,Medium-Value,Email,Summer,High Value,57.96,2024-05
+2024-05-30,Product Affinity Score,North,Spirits,Medium-Value,Social Media,Spring,Low Value,76.07,2024-05
+2024-05-01,Customer Engagement Score,North,Beer,High-Value,Email,Fall,Low Value,91.28,2024-05
+2024-05-02,Customer Engagement Score,North,Beer,High-Value,Social Media,Summer,High Value,75.18,2024-05
+2024-05-03,Customer Engagement Score,North,Beer,High-Value,SMS,Summer,Mid Value,111.37,2024-05
+2024-05-04,Customer Engagement Score,North,Beer,High-Value,Direct Mail,Winter,Mid Value,58.56,2024-05
+2024-05-05,Customer Engagement Score,North,Beer,Medium-Value,Email,Fall,Mid Value,291.56,2024-05
+2024-05-06,Customer Engagement Score,North,Beer,Medium-Value,Social Media,Summer,Mid Value,51.39,2024-05
+2024-05-07,Customer Engagement Score,North,Beer,Medium-Value,SMS,Fall,High Value,86.51,2024-05
+2024-05-08,Customer Engagement Score,North,Beer,Medium-Value,Direct Mail,Fall,High Value,119.6,2024-05
+2024-05-09,Customer Engagement Score,North,Beer,Low-Value,Email,Fall,High Value,60.8,2024-05
+2024-05-10,Customer Engagement Score,North,Beer,Low-Value,Social Media,Fall,High Value,108.89,2024-05
+2024-05-11,Customer Engagement Score,North,Beer,Low-Value,SMS,Fall,Low Value,124.22,2024-05
+2024-05-12,Customer Engagement Score,North,Beer,Low-Value,Direct Mail,Fall,High Value,92.24,2024-05
+2024-05-13,Customer Engagement Score,North,Wine,High-Value,Email,Winter,Mid Value,52.64,2024-05
+2024-05-14,Customer Engagement Score,North,Wine,High-Value,Social Media,Summer,High Value,147.6,2024-05
+2024-05-15,Customer Engagement Score,North,Wine,High-Value,SMS,Winter,High Value,82.94,2024-05
+2024-05-16,Customer Engagement Score,North,Wine,High-Value,Direct Mail,Winter,Mid Value,134.73,2024-05
+2024-05-17,Customer Engagement Score,North,Wine,Medium-Value,Email,Summer,Mid Value,51.8,2024-05
+2024-05-18,Customer Engagement Score,North,Wine,Medium-Value,Social Media,Winter,Mid Value,101.04,2024-05
+2024-05-19,Customer Engagement Score,North,Wine,Medium-Value,SMS,Summer,Mid Value,119.32,2024-05
+2024-05-20,Customer Engagement Score,North,Wine,Medium-Value,Direct Mail,Winter,Mid Value,68.94,2024-05
+2024-05-21,Customer Engagement Score,North,Wine,Low-Value,Email,Fall,High Value,134.14,2024-05
+2024-05-22,Customer Engagement Score,North,Wine,Low-Value,Social Media,Fall,High Value,266.48,2024-05
+2024-05-23,Customer Engagement Score,North,Wine,Low-Value,SMS,Spring,High Value,128.83,2024-05
+2024-05-24,Customer Engagement Score,North,Wine,Low-Value,Direct Mail,Spring,High Value,120.87,2024-05
+2024-05-25,Customer Engagement Score,North,Spirits,High-Value,Email,Spring,Low Value,54.03,2024-05
+2024-05-26,Customer Engagement Score,North,Spirits,High-Value,Social Media,Winter,High Value,67.86,2024-05
+2024-05-27,Customer Engagement Score,North,Spirits,High-Value,SMS,Spring,Low Value,91.84,2024-05
+2024-05-28,Customer Engagement Score,North,Spirits,High-Value,Direct Mail,Spring,Mid Value,97.68,2024-05
+2024-05-29,Customer Engagement Score,North,Spirits,Medium-Value,Email,Summer,Low Value,52.92,2024-05
+2024-05-30,Customer Engagement Score,North,Spirits,Medium-Value,Social Media,Summer,Mid Value,89.57,2024-05
+2024-05-01,CLV,North,Beer,High-Value,Email,Winter,Mid Value,94.01,2024-05
+2024-05-02,CLV,North,Beer,High-Value,Social Media,Winter,Low Value,121.86,2024-05
+2024-05-03,CLV,North,Beer,High-Value,SMS,Spring,Mid Value,69.7,2024-05
+2024-05-04,CLV,North,Beer,High-Value,Direct Mail,Spring,High Value,72.78,2024-05
+2024-05-05,CLV,North,Beer,Medium-Value,Email,Summer,Low Value,87.15,2024-05
+2024-05-06,CLV,North,Beer,Medium-Value,Social Media,Summer,Low Value,103.72,2024-05
+2024-05-07,CLV,North,Beer,Medium-Value,SMS,Spring,High Value,65.58,2024-05
+2024-05-08,CLV,North,Beer,Medium-Value,Direct Mail,Fall,High Value,93.37,2024-05
+2024-05-09,CLV,North,Beer,Low-Value,Email,Summer,Low Value,53.56,2024-05
+2024-05-10,CLV,North,Beer,Low-Value,Social Media,Spring,Low Value,105.42,2024-05
+2024-05-11,CLV,North,Beer,Low-Value,SMS,Winter,Mid Value,120.7,2024-05
+2024-05-12,CLV,North,Beer,Low-Value,Direct Mail,Summer,High Value,75.22,2024-05
+2024-05-13,CLV,North,Wine,High-Value,Email,Winter,High Value,144.72,2024-05
+2024-05-14,CLV,North,Wine,High-Value,Social Media,Spring,Mid Value,99.76,2024-05
+2024-05-15,CLV,North,Wine,High-Value,SMS,Summer,Mid Value,56.01,2024-05
+2024-05-16,CLV,North,Wine,High-Value,Direct Mail,Summer,Mid Value,64.37,2024-05
+2024-05-17,CLV,North,Wine,Medium-Value,Email,Fall,High Value,103.37,2024-05
+2024-05-18,CLV,North,Wine,Medium-Value,Social Media,Spring,High Value,50.92,2024-05
+2024-05-19,CLV,North,Wine,Medium-Value,SMS,Fall,Low Value,67.62,2024-05
+2024-05-20,CLV,North,Wine,Medium-Value,Direct Mail,Summer,Low Value,83.69,2024-05
+2024-05-21,CLV,North,Wine,Low-Value,Email,Fall,High Value,81.57,2024-05
+2024-05-22,CLV,North,Wine,Low-Value,Social Media,Spring,High Value,72.3,2024-05
+2024-05-23,CLV,North,Wine,Low-Value,SMS,Winter,Low Value,92.8,2024-05
+2024-05-24,CLV,North,Wine,Low-Value,Direct Mail,Winter,Mid Value,154.21,2024-05
+2024-05-25,CLV,North,Spirits,High-Value,Email,Summer,Low Value,110.58,2024-05
+2024-05-26,CLV,North,Spirits,High-Value,Social Media,Summer,High Value,108.95,2024-05
+2024-05-27,CLV,North,Spirits,High-Value,SMS,Summer,Mid Value,107.34,2024-05
+2024-05-28,CLV,North,Spirits,High-Value,Direct Mail,Winter,Mid Value,132.84,2024-05
+2024-05-29,CLV,North,Spirits,Medium-Value,Email,Summer,Low Value,73.73,2024-05
+2024-05-30,CLV,North,Spirits,Medium-Value,Social Media,Winter,High Value,100.44,2024-05
+2024-05-01,Repeat Purchase Rate,North,Beer,High-Value,Email,Spring,Mid Value,147.61,2024-05
+2024-05-02,Repeat Purchase Rate,North,Beer,High-Value,Social Media,Winter,Low Value,181.4,2024-05
+2024-05-03,Repeat Purchase Rate,North,Beer,High-Value,SMS,Fall,Mid Value,107.13,2024-05
+2024-05-04,Repeat Purchase Rate,North,Beer,High-Value,Direct Mail,Summer,Mid Value,101.67,2024-05
+2024-05-05,Repeat Purchase Rate,North,Beer,Medium-Value,Email,Summer,Mid Value,190.05,2024-05
+2024-05-06,Repeat Purchase Rate,North,Beer,Medium-Value,Social Media,Winter,Mid Value,107.55,2024-05
+2024-05-07,Repeat Purchase Rate,North,Beer,Medium-Value,SMS,Summer,High Value,135.91,2024-05
+2024-05-08,Repeat Purchase Rate,North,Beer,Medium-Value,Direct Mail,Fall,Low Value,72.01,2024-05
+2024-05-09,Repeat Purchase Rate,North,Beer,Low-Value,Email,Winter,Mid Value,142.25,2024-05
+2024-05-10,Repeat Purchase Rate,North,Beer,Low-Value,Social Media,Fall,Low Value,127.49,2024-05
+2024-05-11,Repeat Purchase Rate,North,Beer,Low-Value,SMS,Spring,Mid Value,100.44,2024-05
+2024-05-12,Repeat Purchase Rate,North,Beer,Low-Value,Direct Mail,Winter,Mid Value,75.34,2024-05
+2024-05-13,Repeat Purchase Rate,North,Wine,High-Value,Email,Fall,Mid Value,53.05,2024-05
+2024-05-14,Repeat Purchase Rate,North,Wine,High-Value,Social Media,Summer,Mid Value,138.66,2024-05
+2024-05-15,Repeat Purchase Rate,North,Wine,High-Value,SMS,Spring,Mid Value,92.29,2024-05
+2024-05-16,Repeat Purchase Rate,North,Wine,High-Value,Direct Mail,Spring,Mid Value,87,2024-05
+2024-05-17,Repeat Purchase Rate,North,Wine,Medium-Value,Email,Winter,High Value,128.42,2024-05
+2024-05-18,Repeat Purchase Rate,North,Wine,Medium-Value,Social Media,Spring,High Value,122.26,2024-05
+2024-05-19,Repeat Purchase Rate,North,Wine,Medium-Value,SMS,Summer,Mid Value,83.8,2024-05
+2024-05-20,Repeat Purchase Rate,North,Wine,Medium-Value,Direct Mail,Fall,Mid Value,83.08,2024-05
+2024-05-21,Repeat Purchase Rate,North,Wine,Low-Value,Email,Fall,Low Value,82.94,2024-05
+2024-05-22,Repeat Purchase Rate,North,Wine,Low-Value,Social Media,Winter,Mid Value,89.9,2024-05
+2024-05-23,Repeat Purchase Rate,North,Wine,Low-Value,SMS,Fall,High Value,72.59,2024-05
+2024-05-24,Repeat Purchase Rate,North,Wine,Low-Value,Direct Mail,Spring,Mid Value,93.3,2024-05
+2024-05-25,Repeat Purchase Rate,North,Spirits,High-Value,Email,Summer,High Value,98.79,2024-05
+2024-05-26,Repeat Purchase Rate,North,Spirits,High-Value,Social Media,Winter,Mid Value,101.32,2024-05
+2024-05-27,Repeat Purchase Rate,North,Spirits,High-Value,SMS,Fall,Mid Value,78.89,2024-05
+2024-05-28,Repeat Purchase Rate,North,Spirits,High-Value,Direct Mail,Fall,Low Value,143.66,2024-05
+2024-05-29,Repeat Purchase Rate,North,Spirits,Medium-Value,Email,Winter,High Value,107.64,2024-05
+2024-05-30,Repeat Purchase Rate,North,Spirits,Medium-Value,Social Media,Winter,High Value,82.43,2024-05
+2024-05-01,Campaign Conversion Rate,North,Beer,High-Value,Email,Spring,Low Value,79.06,2024-05
+2024-05-02,Campaign Conversion Rate,North,Beer,High-Value,Social Media,Winter,Low Value,79.63,2024-05
+2024-05-03,Campaign Conversion Rate,North,Beer,High-Value,SMS,Spring,Mid Value,161.67,2024-05
+2024-05-04,Campaign Conversion Rate,North,Beer,High-Value,Direct Mail,Winter,Low Value,67.12,2024-05
+2024-05-05,Campaign Conversion Rate,North,Beer,Medium-Value,Email,Summer,Mid Value,73.75,2024-05
+2024-05-06,Campaign Conversion Rate,North,Beer,Medium-Value,Social Media,Fall,Mid Value,241.1,2024-05
+2024-05-07,Campaign Conversion Rate,North,Beer,Medium-Value,SMS,Fall,Mid Value,121.61,2024-05
+2024-05-08,Campaign Conversion Rate,North,Beer,Medium-Value,Direct Mail,Fall,Mid Value,81.87,2024-05
+2024-05-09,Campaign Conversion Rate,North,Beer,Low-Value,Email,Winter,High Value,112.62,2024-05
+2024-05-10,Campaign Conversion Rate,North,Beer,Low-Value,Social Media,Summer,Low Value,68.89,2024-05
+2024-05-11,Campaign Conversion Rate,North,Beer,Low-Value,SMS,Summer,Mid Value,75.63,2024-05
+2024-05-12,Campaign Conversion Rate,North,Beer,Low-Value,Direct Mail,Spring,Low Value,137.13,2024-05
+2024-05-13,Campaign Conversion Rate,North,Wine,High-Value,Email,Winter,Low Value,84.17,2024-05
+2024-05-14,Campaign Conversion Rate,North,Wine,High-Value,Social Media,Fall,Low Value,51.97,2024-05
+2024-05-15,Campaign Conversion Rate,North,Wine,High-Value,SMS,Fall,High Value,98.7,2024-05
+2024-05-16,Campaign Conversion Rate,North,Wine,High-Value,Direct Mail,Fall,High Value,145.46,2024-05
+2024-05-17,Campaign Conversion Rate,North,Wine,Medium-Value,Email,Winter,High Value,140.93,2024-05
+2024-05-18,Campaign Conversion Rate,North,Wine,Medium-Value,Social Media,Fall,High Value,86.01,2024-05
+2024-05-19,Campaign Conversion Rate,North,Wine,Medium-Value,SMS,Fall,Low Value,118.99,2024-05
+2024-05-20,Campaign Conversion Rate,North,Wine,Medium-Value,Direct Mail,Spring,High Value,70.7,2024-05
+2024-05-21,Campaign Conversion Rate,North,Wine,Low-Value,Email,Spring,Low Value,131.52,2024-05
+2024-05-22,Campaign Conversion Rate,North,Wine,Low-Value,Social Media,Summer,Mid Value,138.03,2024-05
+2024-05-23,Campaign Conversion Rate,North,Wine,Low-Value,SMS,Spring,High Value,60.6,2024-05
+2024-05-24,Campaign Conversion Rate,North,Wine,Low-Value,Direct Mail,Summer,Mid Value,79.12,2024-05
+2024-05-25,Campaign Conversion Rate,North,Spirits,High-Value,Email,Summer,Low Value,130.43,2024-05
+2024-05-26,Campaign Conversion Rate,North,Spirits,High-Value,Social Media,Winter,High Value,189.5,2024-05
+2024-05-27,Campaign Conversion Rate,North,Spirits,High-Value,SMS,Fall,Mid Value,59.97,2024-05
+2024-05-28,Campaign Conversion Rate,North,Spirits,High-Value,Direct Mail,Summer,High Value,185.1,2024-05
+2024-05-29,Campaign Conversion Rate,North,Spirits,Medium-Value,Email,Summer,High Value,67.92,2024-05
+2024-05-30,Campaign Conversion Rate,North,Spirits,Medium-Value,Social Media,Winter,Mid Value,96.43,2024-05
+2024-06-01,Product Affinity Score,North,Beer,High-Value,Email,Fall,High Value,147.91,2024-06
+2024-06-02,Product Affinity Score,North,Beer,High-Value,Social Media,Winter,High Value,74.5,2024-06
+2024-06-03,Product Affinity Score,North,Beer,High-Value,SMS,Spring,High Value,131.1,2024-06
+2024-06-04,Product Affinity Score,North,Beer,High-Value,Direct Mail,Summer,Low Value,149.16,2024-06
+2024-06-05,Product Affinity Score,North,Beer,Medium-Value,Email,Winter,Mid Value,121.02,2024-06
+2024-06-06,Product Affinity Score,North,Beer,Medium-Value,Social Media,Spring,Low Value,90.68,2024-06
+2024-06-07,Product Affinity Score,North,Beer,Medium-Value,SMS,Summer,High Value,86.77,2024-06
+2024-06-08,Product Affinity Score,North,Beer,Medium-Value,Direct Mail,Summer,Mid Value,100.38,2024-06
+2024-06-09,Product Affinity Score,North,Beer,Low-Value,Email,Winter,Mid Value,147.29,2024-06
+2024-06-10,Product Affinity Score,North,Beer,Low-Value,Social Media,Summer,High Value,107.4,2024-06
+2024-06-11,Product Affinity Score,North,Beer,Low-Value,SMS,Summer,High Value,98.14,2024-06
+2024-06-12,Product Affinity Score,North,Beer,Low-Value,Direct Mail,Summer,Mid Value,106.05,2024-06
+2024-06-13,Product Affinity Score,North,Wine,High-Value,Email,Summer,High Value,65.49,2024-06
+2024-06-14,Product Affinity Score,North,Wine,High-Value,Social Media,Fall,Mid Value,102.16,2024-06
+2024-06-15,Product Affinity Score,North,Wine,High-Value,SMS,Summer,Low Value,130.6,2024-06
+2024-06-16,Product Affinity Score,North,Wine,High-Value,Direct Mail,Summer,Mid Value,50.5,2024-06
+2024-06-17,Product Affinity Score,North,Wine,Medium-Value,Email,Winter,Mid Value,69.75,2024-06
+2024-06-18,Product Affinity Score,North,Wine,Medium-Value,Social Media,Summer,Low Value,67.46,2024-06
+2024-06-19,Product Affinity Score,North,Wine,Medium-Value,SMS,Summer,Low Value,101.68,2024-06
+2024-06-20,Product Affinity Score,North,Wine,Medium-Value,Direct Mail,Spring,High Value,70.99,2024-06
+2024-06-21,Product Affinity Score,North,Wine,Low-Value,Email,Spring,Low Value,58.89,2024-06
+2024-06-22,Product Affinity Score,North,Wine,Low-Value,Social Media,Winter,Mid Value,87.22,2024-06
+2024-06-23,Product Affinity Score,North,Wine,Low-Value,SMS,Fall,Low Value,105.48,2024-06
+2024-06-24,Product Affinity Score,North,Wine,Low-Value,Direct Mail,Winter,Low Value,106.58,2024-06
+2024-06-25,Product Affinity Score,North,Spirits,High-Value,Email,Spring,Mid Value,143.61,2024-06
+2024-06-26,Product Affinity Score,North,Spirits,High-Value,Social Media,Winter,High Value,117.34,2024-06
+2024-06-27,Product Affinity Score,North,Spirits,High-Value,SMS,Winter,Mid Value,130.39,2024-06
+2024-06-28,Product Affinity Score,North,Spirits,High-Value,Direct Mail,Spring,Mid Value,79.59,2024-06
+2024-06-29,Product Affinity Score,North,Spirits,Medium-Value,Email,Winter,High Value,58.43,2024-06
+2024-06-30,Product Affinity Score,North,Spirits,Medium-Value,Social Media,Spring,Mid Value,121.89,2024-06
+2024-06-01,Customer Engagement Score,North,Beer,High-Value,Email,Fall,High Value,136.05,2024-06
+2024-06-02,Customer Engagement Score,North,Beer,High-Value,Social Media,Spring,Low Value,129.96,2024-06
+2024-06-03,Customer Engagement Score,North,Beer,High-Value,SMS,Fall,High Value,127.31,2024-06
+2024-06-04,Customer Engagement Score,North,Beer,High-Value,Direct Mail,Fall,Low Value,133.14,2024-06
+2024-06-05,Customer Engagement Score,North,Beer,Medium-Value,Email,Spring,High Value,104.61,2024-06
+2024-06-06,Customer Engagement Score,North,Beer,Medium-Value,Social Media,Winter,High Value,97.55,2024-06
+2024-06-07,Customer Engagement Score,North,Beer,Medium-Value,SMS,Fall,Low Value,76.67,2024-06
+2024-06-08,Customer Engagement Score,North,Beer,Medium-Value,Direct Mail,Winter,Mid Value,66.01,2024-06
+2024-06-09,Customer Engagement Score,North,Beer,Low-Value,Email,Summer,Mid Value,326.37,2024-06
+2024-06-10,Customer Engagement Score,North,Beer,Low-Value,Social Media,Spring,Mid Value,143.27,2024-06
+2024-06-11,Customer Engagement Score,North,Beer,Low-Value,SMS,Spring,Low Value,299.66,2024-06
+2024-06-12,Customer Engagement Score,North,Beer,Low-Value,Direct Mail,Fall,Mid Value,100.14,2024-06
+2024-06-13,Customer Engagement Score,North,Wine,High-Value,Email,Summer,Mid Value,58.4,2024-06
+2024-06-14,Customer Engagement Score,North,Wine,High-Value,Social Media,Winter,Low Value,118.01,2024-06
+2024-06-15,Customer Engagement Score,North,Wine,High-Value,SMS,Fall,Mid Value,144.23,2024-06
+2024-06-16,Customer Engagement Score,North,Wine,High-Value,Direct Mail,Spring,High Value,54.2,2024-06
+2024-06-17,Customer Engagement Score,North,Wine,Medium-Value,Email,Winter,High Value,89.8,2024-06
+2024-06-18,Customer Engagement Score,North,Wine,Medium-Value,Social Media,Summer,Low Value,95.13,2024-06
+2024-06-19,Customer Engagement Score,North,Wine,Medium-Value,SMS,Winter,Low Value,93.23,2024-06
+2024-06-20,Customer Engagement Score,North,Wine,Medium-Value,Direct Mail,Fall,High Value,58.86,2024-06
+2024-06-21,Customer Engagement Score,North,Wine,Low-Value,Email,Summer,High Value,98.02,2024-06
+2024-06-22,Customer Engagement Score,North,Wine,Low-Value,Social Media,Spring,High Value,133.02,2024-06
+2024-06-23,Customer Engagement Score,North,Wine,Low-Value,SMS,Summer,High Value,93.04,2024-06
+2024-06-24,Customer Engagement Score,North,Wine,Low-Value,Direct Mail,Fall,High Value,87.47,2024-06
+2024-06-25,Customer Engagement Score,North,Spirits,High-Value,Email,Fall,Low Value,132.89,2024-06
+2024-06-26,Customer Engagement Score,North,Spirits,High-Value,Social Media,Spring,Mid Value,60.81,2024-06
+2024-06-27,Customer Engagement Score,North,Spirits,High-Value,SMS,Spring,Low Value,59.87,2024-06
+2024-06-28,Customer Engagement Score,North,Spirits,High-Value,Direct Mail,Summer,Mid Value,64.37,2024-06
+2024-06-29,Customer Engagement Score,North,Spirits,Medium-Value,Email,Summer,Low Value,50.72,2024-06
+2024-06-30,Customer Engagement Score,North,Spirits,Medium-Value,Social Media,Spring,Mid Value,117.72,2024-06
+2024-06-01,CLV,North,Beer,High-Value,Email,Fall,Low Value,133.82,2024-06
+2024-06-02,CLV,North,Beer,High-Value,Social Media,Fall,Low Value,70.83,2024-06
+2024-06-03,CLV,North,Beer,High-Value,SMS,Spring,Mid Value,105.51,2024-06
+2024-06-04,CLV,North,Beer,High-Value,Direct Mail,Fall,High Value,71.99,2024-06
+2024-06-05,CLV,North,Beer,Medium-Value,Email,Fall,Mid Value,86.4,2024-06
+2024-06-06,CLV,North,Beer,Medium-Value,Social Media,Fall,Mid Value,94.39,2024-06
+2024-06-07,CLV,North,Beer,Medium-Value,SMS,Winter,Low Value,125.08,2024-06
+2024-06-08,CLV,North,Beer,Medium-Value,Direct Mail,Spring,High Value,107.19,2024-06
+2024-06-09,CLV,North,Beer,Low-Value,Email,Summer,Mid Value,97.52,2024-06
+2024-06-10,CLV,North,Beer,Low-Value,Social Media,Fall,Mid Value,71.45,2024-06
+2024-06-11,CLV,North,Beer,Low-Value,SMS,Fall,Mid Value,139.15,2024-06
+2024-06-12,CLV,North,Beer,Low-Value,Direct Mail,Fall,Mid Value,149.26,2024-06
+2024-06-13,CLV,North,Wine,High-Value,Email,Winter,High Value,143.67,2024-06
+2024-06-14,CLV,North,Wine,High-Value,Social Media,Fall,High Value,134.44,2024-06
+2024-06-15,CLV,North,Wine,High-Value,SMS,Spring,Low Value,88.24,2024-06
+2024-06-16,CLV,North,Wine,High-Value,Direct Mail,Winter,Low Value,93.21,2024-06
+2024-06-17,CLV,North,Wine,Medium-Value,Email,Winter,High Value,94.61,2024-06
+2024-06-18,CLV,North,Wine,Medium-Value,Social Media,Fall,Mid Value,231.18,2024-06
+2024-06-19,CLV,North,Wine,Medium-Value,SMS,Winter,Low Value,94.44,2024-06
+2024-06-20,CLV,North,Wine,Medium-Value,Direct Mail,Summer,Mid Value,111.56,2024-06
+2024-06-21,CLV,North,Wine,Low-Value,Email,Fall,Mid Value,120.46,2024-06
+2024-06-22,CLV,North,Wine,Low-Value,Social Media,Summer,Low Value,140.89,2024-06
+2024-06-23,CLV,North,Wine,Low-Value,SMS,Fall,Low Value,70.46,2024-06
+2024-06-24,CLV,North,Wine,Low-Value,Direct Mail,Spring,Mid Value,51.4,2024-06
+2024-06-25,CLV,North,Spirits,High-Value,Email,Winter,Mid Value,137.5,2024-06
+2024-06-26,CLV,North,Spirits,High-Value,Social Media,Fall,Mid Value,68.82,2024-06
+2024-06-27,CLV,North,Spirits,High-Value,SMS,Spring,Mid Value,97.59,2024-06
+2024-06-28,CLV,North,Spirits,High-Value,Direct Mail,Summer,Mid Value,74.74,2024-06
+2024-06-29,CLV,North,Spirits,Medium-Value,Email,Fall,Mid Value,93.94,2024-06
+2024-06-30,CLV,North,Spirits,Medium-Value,Social Media,Winter,Mid Value,95.59,2024-06
+2024-06-01,Repeat Purchase Rate,North,Beer,High-Value,Email,Summer,Low Value,54.2,2024-06
+2024-06-02,Repeat Purchase Rate,North,Beer,High-Value,Social Media,Spring,Mid Value,98.45,2024-06
+2024-06-03,Repeat Purchase Rate,North,Beer,High-Value,SMS,Winter,Mid Value,106.65,2024-06
+2024-06-04,Repeat Purchase Rate,North,Beer,High-Value,Direct Mail,Fall,Mid Value,96.92,2024-06
+2024-06-05,Repeat Purchase Rate,North,Beer,Medium-Value,Email,Fall,High Value,51.55,2024-06
+2024-06-06,Repeat Purchase Rate,North,Beer,Medium-Value,Social Media,Fall,Low Value,50.25,2024-06
+2024-06-07,Repeat Purchase Rate,North,Beer,Medium-Value,SMS,Fall,High Value,122.83,2024-06
+2024-06-08,Repeat Purchase Rate,North,Beer,Medium-Value,Direct Mail,Summer,High Value,144.52,2024-06
+2024-06-09,Repeat Purchase Rate,North,Beer,Low-Value,Email,Summer,Mid Value,75.46,2024-06
+2024-06-10,Repeat Purchase Rate,North,Beer,Low-Value,Social Media,Winter,High Value,127.53,2024-06
+2024-06-11,Repeat Purchase Rate,North,Beer,Low-Value,SMS,Spring,Mid Value,119.56,2024-06
+2024-06-12,Repeat Purchase Rate,North,Beer,Low-Value,Direct Mail,Fall,Low Value,121.24,2024-06
+2024-06-13,Repeat Purchase Rate,North,Wine,High-Value,Email,Fall,Mid Value,228.83,2024-06
+2024-06-14,Repeat Purchase Rate,North,Wine,High-Value,Social Media,Summer,Low Value,90.63,2024-06
+2024-06-15,Repeat Purchase Rate,North,Wine,High-Value,SMS,Fall,High Value,52.31,2024-06
+2024-06-16,Repeat Purchase Rate,North,Wine,High-Value,Direct Mail,Fall,High Value,115.46,2024-06
+2024-06-17,Repeat Purchase Rate,North,Wine,Medium-Value,Email,Summer,Mid Value,148.82,2024-06
+2024-06-18,Repeat Purchase Rate,North,Wine,Medium-Value,Social Media,Summer,High Value,109.94,2024-06
+2024-06-19,Repeat Purchase Rate,North,Wine,Medium-Value,SMS,Fall,Mid Value,66.7,2024-06
+2024-06-20,Repeat Purchase Rate,North,Wine,Medium-Value,Direct Mail,Spring,Low Value,125.5,2024-06
+2024-06-21,Repeat Purchase Rate,North,Wine,Low-Value,Email,Winter,High Value,136.12,2024-06
+2024-06-22,Repeat Purchase Rate,North,Wine,Low-Value,Social Media,Spring,High Value,53.34,2024-06
+2024-06-23,Repeat Purchase Rate,North,Wine,Low-Value,SMS,Summer,Low Value,54.91,2024-06
+2024-06-24,Repeat Purchase Rate,North,Wine,Low-Value,Direct Mail,Summer,Low Value,100.93,2024-06
+2024-06-25,Repeat Purchase Rate,North,Spirits,High-Value,Email,Summer,Low Value,76.77,2024-06
+2024-06-26,Repeat Purchase Rate,North,Spirits,High-Value,Social Media,Summer,Low Value,156.31,2024-06
+2024-06-27,Repeat Purchase Rate,North,Spirits,High-Value,SMS,Spring,Low Value,103.11,2024-06
+2024-06-28,Repeat Purchase Rate,North,Spirits,High-Value,Direct Mail,Spring,Low Value,77.38,2024-06
+2024-06-29,Repeat Purchase Rate,North,Spirits,Medium-Value,Email,Spring,Mid Value,131.92,2024-06
+2024-06-30,Repeat Purchase Rate,North,Spirits,Medium-Value,Social Media,Fall,Mid Value,82.95,2024-06
+2024-06-01,Campaign Conversion Rate,North,Beer,High-Value,Email,Spring,Low Value,142.55,2024-06
+2024-06-02,Campaign Conversion Rate,North,Beer,High-Value,Social Media,Fall,High Value,125.79,2024-06
+2024-06-03,Campaign Conversion Rate,North,Beer,High-Value,SMS,Summer,Low Value,120.41,2024-06
+2024-06-04,Campaign Conversion Rate,North,Beer,High-Value,Direct Mail,Winter,Mid Value,144.19,2024-06
+2024-06-05,Campaign Conversion Rate,North,Beer,Medium-Value,Email,Winter,Low Value,133.13,2024-06
+2024-06-06,Campaign Conversion Rate,North,Beer,Medium-Value,Social Media,Winter,High Value,60.02,2024-06
+2024-06-07,Campaign Conversion Rate,North,Beer,Medium-Value,SMS,Fall,High Value,50.78,2024-06
+2024-06-08,Campaign Conversion Rate,North,Beer,Medium-Value,Direct Mail,Spring,Low Value,69.28,2024-06
+2024-06-09,Campaign Conversion Rate,North,Beer,Low-Value,Email,Summer,Mid Value,147.94,2024-06
+2024-06-10,Campaign Conversion Rate,North,Beer,Low-Value,Social Media,Spring,High Value,131.75,2024-06
+2024-06-11,Campaign Conversion Rate,North,Beer,Low-Value,SMS,Spring,High Value,99.58,2024-06
+2024-06-12,Campaign Conversion Rate,North,Beer,Low-Value,Direct Mail,Spring,Mid Value,139,2024-06
+2024-06-13,Campaign Conversion Rate,North,Wine,High-Value,Email,Winter,Mid Value,79.63,2024-06
+2024-06-14,Campaign Conversion Rate,North,Wine,High-Value,Social Media,Fall,High Value,72.39,2024-06
+2024-06-15,Campaign Conversion Rate,North,Wine,High-Value,SMS,Summer,Low Value,98.42,2024-06
+2024-06-16,Campaign Conversion Rate,North,Wine,High-Value,Direct Mail,Winter,Low Value,139.6,2024-06
+2024-06-17,Campaign Conversion Rate,North,Wine,Medium-Value,Email,Fall,Mid Value,51.77,2024-06
+2024-06-18,Campaign Conversion Rate,North,Wine,Medium-Value,Social Media,Spring,High Value,67.43,2024-06
+2024-06-19,Campaign Conversion Rate,North,Wine,Medium-Value,SMS,Summer,Low Value,52.5,2024-06
+2024-06-20,Campaign Conversion Rate,North,Wine,Medium-Value,Direct Mail,Fall,Low Value,148.6,2024-06
+2024-06-21,Campaign Conversion Rate,North,Wine,Low-Value,Email,Winter,Low Value,92.37,2024-06
+2024-06-22,Campaign Conversion Rate,North,Wine,Low-Value,Social Media,Winter,Low Value,140.51,2024-06
+2024-06-23,Campaign Conversion Rate,North,Wine,Low-Value,SMS,Winter,Mid Value,73.77,2024-06
+2024-06-24,Campaign Conversion Rate,North,Wine,Low-Value,Direct Mail,Spring,High Value,112.71,2024-06
+2024-06-25,Campaign Conversion Rate,North,Spirits,High-Value,Email,Winter,Low Value,191.45,2024-06
+2024-06-26,Campaign Conversion Rate,North,Spirits,High-Value,Social Media,Fall,Low Value,118.64,2024-06
+2024-06-27,Campaign Conversion Rate,North,Spirits,High-Value,SMS,Fall,High Value,135.76,2024-06
+2024-06-28,Campaign Conversion Rate,North,Spirits,High-Value,Direct Mail,Spring,Mid Value,71.55,2024-06
+2024-06-29,Campaign Conversion Rate,North,Spirits,Medium-Value,Email,Spring,Mid Value,93.31,2024-06
+2024-06-30,Campaign Conversion Rate,North,Spirits,Medium-Value,Social Media,Winter,Mid Value,68.27,2024-06
+2024-07-01,Product Affinity Score,North,Beer,High-Value,Email,Winter,Low Value,74.05,2024-07
+2024-07-02,Product Affinity Score,North,Beer,High-Value,Social Media,Fall,Low Value,106.97,2024-07
+2024-07-03,Product Affinity Score,North,Beer,High-Value,SMS,Fall,Low Value,125.66,2024-07
+2024-07-04,Product Affinity Score,North,Beer,High-Value,Direct Mail,Winter,High Value,142.21,2024-07
+2024-07-05,Product Affinity Score,North,Beer,Medium-Value,Email,Summer,High Value,93.64,2024-07
+2024-07-06,Product Affinity Score,North,Beer,Medium-Value,Social Media,Winter,Low Value,131.79,2024-07
+2024-07-07,Product Affinity Score,North,Beer,Medium-Value,SMS,Summer,Mid Value,83.97,2024-07
+2024-07-08,Product Affinity Score,North,Beer,Medium-Value,Direct Mail,Summer,High Value,129.89,2024-07
+2024-07-09,Product Affinity Score,North,Beer,Low-Value,Email,Fall,Mid Value,130.12,2024-07
+2024-07-10,Product Affinity Score,North,Beer,Low-Value,Social Media,Winter,Mid Value,141.95,2024-07
+2024-07-11,Product Affinity Score,North,Beer,Low-Value,SMS,Summer,High Value,60.01,2024-07
+2024-07-12,Product Affinity Score,North,Beer,Low-Value,Direct Mail,Winter,Low Value,127.84,2024-07
+2024-07-13,Product Affinity Score,North,Wine,High-Value,Email,Summer,High Value,140.83,2024-07
+2024-07-14,Product Affinity Score,North,Wine,High-Value,Social Media,Winter,Mid Value,138.67,2024-07
+2024-07-15,Product Affinity Score,North,Wine,High-Value,SMS,Winter,Mid Value,148.2,2024-07
+2024-07-16,Product Affinity Score,North,Wine,High-Value,Direct Mail,Winter,Low Value,140.3,2024-07
+2024-07-17,Product Affinity Score,North,Wine,Medium-Value,Email,Winter,High Value,81.42,2024-07
+2024-07-18,Product Affinity Score,North,Wine,Medium-Value,Social Media,Fall,High Value,78.79,2024-07
+2024-07-19,Product Affinity Score,North,Wine,Medium-Value,SMS,Summer,Low Value,138.07,2024-07
+2024-07-20,Product Affinity Score,North,Wine,Medium-Value,Direct Mail,Winter,Mid Value,106.35,2024-07
+2024-07-21,Product Affinity Score,North,Wine,Low-Value,Email,Winter,High Value,103.2,2024-07
+2024-07-22,Product Affinity Score,North,Wine,Low-Value,Social Media,Summer,Mid Value,129.22,2024-07
+2024-07-23,Product Affinity Score,North,Wine,Low-Value,SMS,Fall,High Value,325.72,2024-07
+2024-07-24,Product Affinity Score,North,Wine,Low-Value,Direct Mail,Winter,Low Value,143.85,2024-07
+2024-07-25,Product Affinity Score,North,Spirits,High-Value,Email,Winter,Low Value,63.02,2024-07
+2024-07-26,Product Affinity Score,North,Spirits,High-Value,Social Media,Spring,Mid Value,52.08,2024-07
+2024-07-27,Product Affinity Score,North,Spirits,High-Value,SMS,Fall,High Value,112.97,2024-07
+2024-07-28,Product Affinity Score,North,Spirits,High-Value,Direct Mail,Spring,High Value,89.8,2024-07
+2024-07-29,Product Affinity Score,North,Spirits,Medium-Value,Email,Spring,Low Value,112.44,2024-07
+2024-07-30,Product Affinity Score,North,Spirits,Medium-Value,Social Media,Summer,Low Value,143.68,2024-07
+2024-07-01,Customer Engagement Score,North,Beer,High-Value,Email,Winter,High Value,108.13,2024-07
+2024-07-02,Customer Engagement Score,North,Beer,High-Value,Social Media,Summer,High Value,73.26,2024-07
+2024-07-03,Customer Engagement Score,North,Beer,High-Value,SMS,Summer,Low Value,100.9,2024-07
+2024-07-04,Customer Engagement Score,North,Beer,High-Value,Direct Mail,Fall,Mid Value,148.32,2024-07
+2024-07-05,Customer Engagement Score,North,Beer,Medium-Value,Email,Fall,Low Value,94.29,2024-07
+2024-07-06,Customer Engagement Score,North,Beer,Medium-Value,Social Media,Fall,High Value,118.25,2024-07
+2024-07-07,Customer Engagement Score,North,Beer,Medium-Value,SMS,Fall,Mid Value,82.84,2024-07
+2024-07-08,Customer Engagement Score,North,Beer,Medium-Value,Direct Mail,Summer,High Value,57.34,2024-07
+2024-07-09,Customer Engagement Score,North,Beer,Low-Value,Email,Fall,Low Value,98.53,2024-07
+2024-07-10,Customer Engagement Score,North,Beer,Low-Value,Social Media,Summer,Low Value,98.55,2024-07
+2024-07-11,Customer Engagement Score,North,Beer,Low-Value,SMS,Summer,High Value,58.24,2024-07
+2024-07-12,Customer Engagement Score,North,Beer,Low-Value,Direct Mail,Spring,Mid Value,77.13,2024-07
+2024-07-13,Customer Engagement Score,North,Wine,High-Value,Email,Spring,Low Value,147.72,2024-07
+2024-07-14,Customer Engagement Score,North,Wine,High-Value,Social Media,Winter,High Value,71.21,2024-07
+2024-07-15,Customer Engagement Score,North,Wine,High-Value,SMS,Spring,Mid Value,146.86,2024-07
+2024-07-16,Customer Engagement Score,North,Wine,High-Value,Direct Mail,Winter,Low Value,139.82,2024-07
+2024-07-17,Customer Engagement Score,North,Wine,Medium-Value,Email,Fall,Mid Value,149.2,2024-07
+2024-07-18,Customer Engagement Score,North,Wine,Medium-Value,Social Media,Fall,High Value,55.3,2024-07
+2024-07-19,Customer Engagement Score,North,Wine,Medium-Value,SMS,Summer,Low Value,142.73,2024-07
+2024-07-20,Customer Engagement Score,North,Wine,Medium-Value,Direct Mail,Winter,High Value,98.42,2024-07
+2024-07-21,Customer Engagement Score,North,Wine,Low-Value,Email,Winter,Low Value,70.94,2024-07
+2024-07-22,Customer Engagement Score,North,Wine,Low-Value,Social Media,Winter,Mid Value,116.79,2024-07
+2024-07-23,Customer Engagement Score,North,Wine,Low-Value,SMS,Winter,High Value,127.61,2024-07
+2024-07-24,Customer Engagement Score,North,Wine,Low-Value,Direct Mail,Winter,High Value,129.75,2024-07
+2024-07-25,Customer Engagement Score,North,Spirits,High-Value,Email,Spring,Low Value,81.45,2024-07
+2024-07-26,Customer Engagement Score,North,Spirits,High-Value,Social Media,Summer,Low Value,103.35,2024-07
+2024-07-27,Customer Engagement Score,North,Spirits,High-Value,SMS,Spring,Mid Value,148.17,2024-07
+2024-07-28,Customer Engagement Score,North,Spirits,High-Value,Direct Mail,Fall,Low Value,126.34,2024-07
+2024-07-29,Customer Engagement Score,North,Spirits,Medium-Value,Email,Summer,High Value,127.68,2024-07
+2024-07-30,Customer Engagement Score,North,Spirits,Medium-Value,Social Media,Winter,High Value,53.94,2024-07
+2024-07-01,CLV,North,Beer,High-Value,Email,Summer,High Value,97.59,2024-07
+2024-07-02,CLV,North,Beer,High-Value,Social Media,Spring,Mid Value,88.84,2024-07
+2024-07-03,CLV,North,Beer,High-Value,SMS,Spring,Low Value,95.12,2024-07
+2024-07-04,CLV,North,Beer,High-Value,Direct Mail,Summer,Mid Value,139.55,2024-07
+2024-07-05,CLV,North,Beer,Medium-Value,Email,Winter,High Value,139.04,2024-07
+2024-07-06,CLV,North,Beer,Medium-Value,Social Media,Spring,High Value,53.5,2024-07
+2024-07-07,CLV,North,Beer,Medium-Value,SMS,Fall,High Value,77.87,2024-07
+2024-07-08,CLV,North,Beer,Medium-Value,Direct Mail,Winter,Low Value,114.92,2024-07
+2024-07-09,CLV,North,Beer,Low-Value,Email,Spring,Mid Value,63.54,2024-07
+2024-07-10,CLV,North,Beer,Low-Value,Social Media,Summer,Low Value,113.04,2024-07
+2024-07-11,CLV,North,Beer,Low-Value,SMS,Spring,Low Value,135.96,2024-07
+2024-07-12,CLV,North,Beer,Low-Value,Direct Mail,Spring,High Value,70.17,2024-07
+2024-07-13,CLV,North,Wine,High-Value,Email,Fall,Mid Value,74.03,2024-07
+2024-07-14,CLV,North,Wine,High-Value,Social Media,Fall,Mid Value,141.47,2024-07
+2024-07-15,CLV,North,Wine,High-Value,SMS,Winter,Low Value,123.82,2024-07
+2024-07-16,CLV,North,Wine,High-Value,Direct Mail,Spring,High Value,52.89,2024-07
+2024-07-17,CLV,North,Wine,Medium-Value,Email,Summer,High Value,103.79,2024-07
+2024-07-18,CLV,North,Wine,Medium-Value,Social Media,Summer,High Value,71.53,2024-07
+2024-07-19,CLV,North,Wine,Medium-Value,SMS,Spring,High Value,131.07,2024-07
+2024-07-20,CLV,North,Wine,Medium-Value,Direct Mail,Fall,Mid Value,124.64,2024-07
+2024-07-21,CLV,North,Wine,Low-Value,Email,Spring,Mid Value,117.84,2024-07
+2024-07-22,CLV,North,Wine,Low-Value,Social Media,Winter,Low Value,149.19,2024-07
+2024-07-23,CLV,North,Wine,Low-Value,SMS,Spring,Mid Value,91.1,2024-07
+2024-07-24,CLV,North,Wine,Low-Value,Direct Mail,Winter,Low Value,70.41,2024-07
+2024-07-25,CLV,North,Spirits,High-Value,Email,Spring,Low Value,141.7,2024-07
+2024-07-26,CLV,North,Spirits,High-Value,Social Media,Summer,Low Value,67.98,2024-07
+2024-07-27,CLV,North,Spirits,High-Value,SMS,Fall,Mid Value,95.51,2024-07
+2024-07-28,CLV,North,Spirits,High-Value,Direct Mail,Summer,Mid Value,73.36,2024-07
+2024-07-29,CLV,North,Spirits,Medium-Value,Email,Summer,Low Value,50.78,2024-07
+2024-07-30,CLV,North,Spirits,Medium-Value,Social Media,Winter,Low Value,129.38,2024-07
+2024-07-01,Repeat Purchase Rate,North,Beer,High-Value,Email,Spring,Mid Value,52.47,2024-07
+2024-07-02,Repeat Purchase Rate,North,Beer,High-Value,Social Media,Summer,Low Value,101.84,2024-07
+2024-07-03,Repeat Purchase Rate,North,Beer,High-Value,SMS,Spring,Low Value,61.03,2024-07
+2024-07-04,Repeat Purchase Rate,North,Beer,High-Value,Direct Mail,Spring,Low Value,144.02,2024-07
+2024-07-05,Repeat Purchase Rate,North,Beer,Medium-Value,Email,Fall,Mid Value,136.76,2024-07
+2024-07-06,Repeat Purchase Rate,North,Beer,Medium-Value,Social Media,Spring,High Value,54.32,2024-07
+2024-07-07,Repeat Purchase Rate,North,Beer,Medium-Value,SMS,Fall,High Value,51.72,2024-07
+2024-07-08,Repeat Purchase Rate,North,Beer,Medium-Value,Direct Mail,Fall,Low Value,190.17,2024-07
+2024-07-09,Repeat Purchase Rate,North,Beer,Low-Value,Email,Winter,Mid Value,148.05,2024-07
+2024-07-10,Repeat Purchase Rate,North,Beer,Low-Value,Social Media,Summer,Mid Value,66.09,2024-07
+2024-07-11,Repeat Purchase Rate,North,Beer,Low-Value,SMS,Summer,Mid Value,106.55,2024-07
+2024-07-12,Repeat Purchase Rate,North,Beer,Low-Value,Direct Mail,Fall,High Value,123.94,2024-07
+2024-07-13,Repeat Purchase Rate,North,Wine,High-Value,Email,Winter,Low Value,145.9,2024-07
+2024-07-14,Repeat Purchase Rate,North,Wine,High-Value,Social Media,Spring,Mid Value,134.7,2024-07
+2024-07-15,Repeat Purchase Rate,North,Wine,High-Value,SMS,Spring,Mid Value,91.43,2024-07
+2024-07-16,Repeat Purchase Rate,North,Wine,High-Value,Direct Mail,Summer,Mid Value,108.21,2024-07
+2024-07-17,Repeat Purchase Rate,North,Wine,Medium-Value,Email,Fall,High Value,145.33,2024-07
+2024-07-18,Repeat Purchase Rate,North,Wine,Medium-Value,Social Media,Spring,High Value,161.54,2024-07
+2024-07-19,Repeat Purchase Rate,North,Wine,Medium-Value,SMS,Fall,High Value,70.09,2024-07
+2024-07-20,Repeat Purchase Rate,North,Wine,Medium-Value,Direct Mail,Winter,Low Value,75.48,2024-07
+2024-07-21,Repeat Purchase Rate,North,Wine,Low-Value,Email,Winter,Mid Value,86.01,2024-07
+2024-07-22,Repeat Purchase Rate,North,Wine,Low-Value,Social Media,Winter,Mid Value,130.19,2024-07
+2024-07-23,Repeat Purchase Rate,North,Wine,Low-Value,SMS,Winter,High Value,103.73,2024-07
+2024-07-24,Repeat Purchase Rate,North,Wine,Low-Value,Direct Mail,Summer,High Value,113.44,2024-07
+2024-07-25,Repeat Purchase Rate,North,Spirits,High-Value,Email,Winter,Mid Value,92.77,2024-07
+2024-07-26,Repeat Purchase Rate,North,Spirits,High-Value,Social Media,Summer,Low Value,145.36,2024-07
+2024-07-27,Repeat Purchase Rate,North,Spirits,High-Value,SMS,Fall,Low Value,92.6,2024-07
+2024-07-28,Repeat Purchase Rate,North,Spirits,High-Value,Direct Mail,Spring,Mid Value,67.71,2024-07
+2024-07-29,Repeat Purchase Rate,North,Spirits,Medium-Value,Email,Spring,Mid Value,148.13,2024-07
+2024-07-30,Repeat Purchase Rate,North,Spirits,Medium-Value,Social Media,Fall,Mid Value,142.76,2024-07
+2024-07-01,Campaign Conversion Rate,North,Beer,High-Value,Email,Winter,High Value,94.6,2024-07
+2024-07-02,Campaign Conversion Rate,North,Beer,High-Value,Social Media,Spring,Low Value,110.74,2024-07
+2024-07-03,Campaign Conversion Rate,North,Beer,High-Value,SMS,Fall,High Value,112.69,2024-07
+2024-07-04,Campaign Conversion Rate,North,Beer,High-Value,Direct Mail,Fall,Low Value,56.38,2024-07
+2024-07-05,Campaign Conversion Rate,North,Beer,Medium-Value,Email,Fall,High Value,73.11,2024-07
+2024-07-06,Campaign Conversion Rate,North,Beer,Medium-Value,Social Media,Winter,Mid Value,55.5,2024-07
+2024-07-07,Campaign Conversion Rate,North,Beer,Medium-Value,SMS,Spring,Mid Value,104.87,2024-07
+2024-07-08,Campaign Conversion Rate,North,Beer,Medium-Value,Direct Mail,Fall,Mid Value,135.81,2024-07
+2024-07-09,Campaign Conversion Rate,North,Beer,Low-Value,Email,Summer,Low Value,115.88,2024-07
+2024-07-10,Campaign Conversion Rate,North,Beer,Low-Value,Social Media,Fall,Low Value,97.04,2024-07
+2024-07-11,Campaign Conversion Rate,North,Beer,Low-Value,SMS,Spring,High Value,84.49,2024-07
+2024-07-12,Campaign Conversion Rate,North,Beer,Low-Value,Direct Mail,Summer,Mid Value,138.28,2024-07
+2024-07-13,Campaign Conversion Rate,North,Wine,High-Value,Email,Spring,High Value,134.04,2024-07
+2024-07-14,Campaign Conversion Rate,North,Wine,High-Value,Social Media,Fall,Low Value,117.32,2024-07
+2024-07-15,Campaign Conversion Rate,North,Wine,High-Value,SMS,Winter,High Value,141.73,2024-07
+2024-07-16,Campaign Conversion Rate,North,Wine,High-Value,Direct Mail,Fall,Mid Value,57.77,2024-07
+2024-07-17,Campaign Conversion Rate,North,Wine,Medium-Value,Email,Winter,Mid Value,137.9,2024-07
+2024-07-18,Campaign Conversion Rate,North,Wine,Medium-Value,Social Media,Fall,Mid Value,143.35,2024-07
+2024-07-19,Campaign Conversion Rate,North,Wine,Medium-Value,SMS,Summer,Mid Value,133.64,2024-07
+2024-07-20,Campaign Conversion Rate,North,Wine,Medium-Value,Direct Mail,Fall,Mid Value,136.98,2024-07
+2024-07-21,Campaign Conversion Rate,North,Wine,Low-Value,Email,Fall,Low Value,84.65,2024-07
+2024-07-22,Campaign Conversion Rate,North,Wine,Low-Value,Social Media,Summer,Low Value,76.25,2024-07
+2024-07-23,Campaign Conversion Rate,North,Wine,Low-Value,SMS,Summer,Mid Value,60.79,2024-07
+2024-07-24,Campaign Conversion Rate,North,Wine,Low-Value,Direct Mail,Fall,High Value,79.1,2024-07
+2024-07-25,Campaign Conversion Rate,North,Spirits,High-Value,Email,Winter,Low Value,89.13,2024-07
+2024-07-26,Campaign Conversion Rate,North,Spirits,High-Value,Social Media,Fall,Mid Value,83.5,2024-07
+2024-07-27,Campaign Conversion Rate,North,Spirits,High-Value,SMS,Fall,Mid Value,135.54,2024-07
+2024-07-28,Campaign Conversion Rate,North,Spirits,High-Value,Direct Mail,Winter,Mid Value,87.82,2024-07
+2024-07-29,Campaign Conversion Rate,North,Spirits,Medium-Value,Email,Fall,Mid Value,141.29,2024-07
+2024-07-30,Campaign Conversion Rate,North,Spirits,Medium-Value,Social Media,Fall,High Value,72.71,2024-07
+2024-08-01,Product Affinity Score,North,Beer,High-Value,Email,Summer,Low Value,129.07,2024-08
+2024-08-02,Product Affinity Score,North,Beer,High-Value,Social Media,Fall,Mid Value,277.44,2024-08
+2024-08-03,Product Affinity Score,North,Beer,High-Value,SMS,Summer,High Value,78.1,2024-08
+2024-08-04,Product Affinity Score,North,Beer,High-Value,Direct Mail,Spring,Low Value,72.25,2024-08
+2024-08-05,Product Affinity Score,North,Beer,Medium-Value,Email,Spring,Mid Value,58.48,2024-08
+2024-08-06,Product Affinity Score,North,Beer,Medium-Value,Social Media,Fall,High Value,119.34,2024-08
+2024-08-07,Product Affinity Score,North,Beer,Medium-Value,SMS,Summer,High Value,75.28,2024-08
+2024-08-08,Product Affinity Score,North,Beer,Medium-Value,Direct Mail,Fall,Low Value,126.22,2024-08
+2024-08-09,Product Affinity Score,North,Beer,Low-Value,Email,Fall,Low Value,135.21,2024-08
+2024-08-10,Product Affinity Score,North,Beer,Low-Value,Social Media,Spring,High Value,108.14,2024-08
+2024-08-11,Product Affinity Score,North,Beer,Low-Value,SMS,Spring,Mid Value,130.85,2024-08
+2024-08-12,Product Affinity Score,North,Beer,Low-Value,Direct Mail,Winter,Mid Value,51.16,2024-08
+2024-08-13,Product Affinity Score,North,Wine,High-Value,Email,Winter,Mid Value,97.35,2024-08
+2024-08-14,Product Affinity Score,North,Wine,High-Value,Social Media,Fall,Low Value,62.72,2024-08
+2024-08-15,Product Affinity Score,North,Wine,High-Value,SMS,Summer,Low Value,77.15,2024-08
+2024-08-16,Product Affinity Score,North,Wine,High-Value,Direct Mail,Spring,Low Value,62.33,2024-08
+2024-08-17,Product Affinity Score,North,Wine,Medium-Value,Email,Summer,Low Value,50.92,2024-08
+2024-08-18,Product Affinity Score,North,Wine,Medium-Value,Social Media,Winter,High Value,67.44,2024-08
+2024-08-19,Product Affinity Score,North,Wine,Medium-Value,SMS,Spring,Mid Value,75.43,2024-08
+2024-08-20,Product Affinity Score,North,Wine,Medium-Value,Direct Mail,Summer,Low Value,98.83,2024-08
+2024-08-21,Product Affinity Score,North,Wine,Low-Value,Email,Winter,High Value,62.13,2024-08
+2024-08-22,Product Affinity Score,North,Wine,Low-Value,Social Media,Fall,Mid Value,74.72,2024-08
+2024-08-23,Product Affinity Score,North,Wine,Low-Value,SMS,Fall,Mid Value,89.72,2024-08
+2024-08-24,Product Affinity Score,North,Wine,Low-Value,Direct Mail,Winter,High Value,74.15,2024-08
+2024-08-25,Product Affinity Score,North,Spirits,High-Value,Email,Winter,High Value,113.03,2024-08
+2024-08-26,Product Affinity Score,North,Spirits,High-Value,Social Media,Spring,Low Value,89.87,2024-08
+2024-08-27,Product Affinity Score,North,Spirits,High-Value,SMS,Fall,High Value,118.76,2024-08
+2024-08-28,Product Affinity Score,North,Spirits,High-Value,Direct Mail,Fall,Low Value,89.56,2024-08
+2024-08-29,Product Affinity Score,North,Spirits,Medium-Value,Email,Spring,Low Value,146.3,2024-08
+2024-08-30,Product Affinity Score,North,Spirits,Medium-Value,Social Media,Winter,Mid Value,96.36,2024-08
+2024-08-01,Customer Engagement Score,North,Beer,High-Value,Email,Spring,High Value,137.63,2024-08
+2024-08-02,Customer Engagement Score,North,Beer,High-Value,Social Media,Winter,Low Value,108.64,2024-08
+2024-08-03,Customer Engagement Score,North,Beer,High-Value,SMS,Spring,Mid Value,75.79,2024-08
+2024-08-04,Customer Engagement Score,North,Beer,High-Value,Direct Mail,Spring,Mid Value,81.52,2024-08
+2024-08-05,Customer Engagement Score,North,Beer,Medium-Value,Email,Fall,High Value,84.72,2024-08
+2024-08-06,Customer Engagement Score,North,Beer,Medium-Value,Social Media,Spring,High Value,93.34,2024-08
+2024-08-07,Customer Engagement Score,North,Beer,Medium-Value,SMS,Fall,High Value,146.96,2024-08
+2024-08-08,Customer Engagement Score,North,Beer,Medium-Value,Direct Mail,Winter,Low Value,112.73,2024-08
+2024-08-09,Customer Engagement Score,North,Beer,Low-Value,Email,Winter,Low Value,56.11,2024-08
+2024-08-10,Customer Engagement Score,North,Beer,Low-Value,Social Media,Fall,Low Value,131.33,2024-08
+2024-08-11,Customer Engagement Score,North,Beer,Low-Value,SMS,Spring,High Value,56.96,2024-08
+2024-08-12,Customer Engagement Score,North,Beer,Low-Value,Direct Mail,Summer,Low Value,126.44,2024-08
+2024-08-13,Customer Engagement Score,North,Wine,High-Value,Email,Spring,High Value,106.5,2024-08
+2024-08-14,Customer Engagement Score,North,Wine,High-Value,Social Media,Winter,Low Value,138.83,2024-08
+2024-08-15,Customer Engagement Score,North,Wine,High-Value,SMS,Fall,Low Value,131.19,2024-08
+2024-08-16,Customer Engagement Score,North,Wine,High-Value,Direct Mail,Fall,Mid Value,114.27,2024-08
+2024-08-17,Customer Engagement Score,North,Wine,Medium-Value,Email,Summer,High Value,136.47,2024-08
+2024-08-18,Customer Engagement Score,North,Wine,Medium-Value,Social Media,Fall,Low Value,52.38,2024-08
+2024-08-19,Customer Engagement Score,North,Wine,Medium-Value,SMS,Spring,Mid Value,145.87,2024-08
+2024-08-20,Customer Engagement Score,North,Wine,Medium-Value,Direct Mail,Summer,Low Value,137.34,2024-08
+2024-08-21,Customer Engagement Score,North,Wine,Low-Value,Email,Spring,Mid Value,61.91,2024-08
+2024-08-22,Customer Engagement Score,North,Wine,Low-Value,Social Media,Spring,Mid Value,65.65,2024-08
+2024-08-23,Customer Engagement Score,North,Wine,Low-Value,SMS,Fall,High Value,98.85,2024-08
+2024-08-24,Customer Engagement Score,North,Wine,Low-Value,Direct Mail,Spring,High Value,148.64,2024-08
+2024-08-25,Customer Engagement Score,North,Spirits,High-Value,Email,Summer,Mid Value,101.82,2024-08
+2024-08-26,Customer Engagement Score,North,Spirits,High-Value,Social Media,Winter,Low Value,103.94,2024-08
+2024-08-27,Customer Engagement Score,North,Spirits,High-Value,SMS,Fall,High Value,81.29,2024-08
+2024-08-28,Customer Engagement Score,North,Spirits,High-Value,Direct Mail,Summer,Mid Value,60.16,2024-08
+2024-08-29,Customer Engagement Score,North,Spirits,Medium-Value,Email,Fall,Mid Value,70.49,2024-08
+2024-08-30,Customer Engagement Score,North,Spirits,Medium-Value,Social Media,Fall,Low Value,142.86,2024-08
+2024-08-01,CLV,North,Beer,High-Value,Email,Summer,Low Value,91.15,2024-08
+2024-08-02,CLV,North,Beer,High-Value,Social Media,Fall,Low Value,144.14,2024-08
+2024-08-03,CLV,North,Beer,High-Value,SMS,Spring,Low Value,135.24,2024-08
+2024-08-04,CLV,North,Beer,High-Value,Direct Mail,Winter,High Value,83.53,2024-08
+2024-08-05,CLV,North,Beer,Medium-Value,Email,Summer,Low Value,102.18,2024-08
+2024-08-06,CLV,North,Beer,Medium-Value,Social Media,Fall,High Value,71.97,2024-08
+2024-08-07,CLV,North,Beer,Medium-Value,SMS,Spring,Low Value,54.25,2024-08
+2024-08-08,CLV,North,Beer,Medium-Value,Direct Mail,Fall,High Value,91.89,2024-08
+2024-08-09,CLV,North,Beer,Low-Value,Email,Spring,Low Value,85.49,2024-08
+2024-08-10,CLV,North,Beer,Low-Value,Social Media,Summer,High Value,68.08,2024-08
+2024-08-11,CLV,North,Beer,Low-Value,SMS,Winter,Mid Value,58.97,2024-08
+2024-08-12,CLV,North,Beer,Low-Value,Direct Mail,Winter,Low Value,149.48,2024-08
+2024-08-13,CLV,North,Wine,High-Value,Email,Winter,Mid Value,105.57,2024-08
+2024-08-14,CLV,North,Wine,High-Value,Social Media,Fall,Low Value,133.5,2024-08
+2024-08-15,CLV,North,Wine,High-Value,SMS,Fall,Mid Value,148.92,2024-08
+2024-08-16,CLV,North,Wine,High-Value,Direct Mail,Summer,High Value,149.09,2024-08
+2024-08-17,CLV,North,Wine,Medium-Value,Email,Fall,High Value,75.35,2024-08
+2024-08-18,CLV,North,Wine,Medium-Value,Social Media,Summer,High Value,77.17,2024-08
+2024-08-19,CLV,North,Wine,Medium-Value,SMS,Summer,Low Value,135.29,2024-08
+2024-08-20,CLV,North,Wine,Medium-Value,Direct Mail,Spring,Mid Value,113.11,2024-08
+2024-08-21,CLV,North,Wine,Low-Value,Email,Winter,Mid Value,120.87,2024-08
+2024-08-22,CLV,North,Wine,Low-Value,Social Media,Spring,Low Value,134.13,2024-08
+2024-08-23,CLV,North,Wine,Low-Value,SMS,Spring,High Value,119.78,2024-08
+2024-08-24,CLV,North,Wine,Low-Value,Direct Mail,Spring,High Value,138.52,2024-08
+2024-08-25,CLV,North,Spirits,High-Value,Email,Fall,Low Value,88.11,2024-08
+2024-08-26,CLV,North,Spirits,High-Value,Social Media,Summer,Low Value,99.27,2024-08
+2024-08-27,CLV,North,Spirits,High-Value,SMS,Winter,Low Value,84.64,2024-08
+2024-08-28,CLV,North,Spirits,High-Value,Direct Mail,Spring,Low Value,138.87,2024-08
+2024-08-29,CLV,North,Spirits,Medium-Value,Email,Winter,High Value,101.61,2024-08
+2024-08-30,CLV,North,Spirits,Medium-Value,Social Media,Fall,High Value,77.67,2024-08
+2024-08-01,Repeat Purchase Rate,North,Beer,High-Value,Email,Spring,Mid Value,100.32,2024-08
+2024-08-02,Repeat Purchase Rate,North,Beer,High-Value,Social Media,Winter,Low Value,137.75,2024-08
+2024-08-03,Repeat Purchase Rate,North,Beer,High-Value,SMS,Winter,Mid Value,88.49,2024-08
+2024-08-04,Repeat Purchase Rate,North,Beer,High-Value,Direct Mail,Winter,Mid Value,93.17,2024-08
+2024-08-05,Repeat Purchase Rate,North,Beer,Medium-Value,Email,Winter,High Value,91.13,2024-08
+2024-08-06,Repeat Purchase Rate,North,Beer,Medium-Value,Social Media,Winter,Mid Value,149.98,2024-08
+2024-08-07,Repeat Purchase Rate,North,Beer,Medium-Value,SMS,Summer,High Value,70.85,2024-08
+2024-08-08,Repeat Purchase Rate,North,Beer,Medium-Value,Direct Mail,Spring,Low Value,54.23,2024-08
+2024-08-09,Repeat Purchase Rate,North,Beer,Low-Value,Email,Spring,Low Value,104.46,2024-08
+2024-08-10,Repeat Purchase Rate,North,Beer,Low-Value,Social Media,Winter,Mid Value,119.53,2024-08
+2024-08-11,Repeat Purchase Rate,North,Beer,Low-Value,SMS,Summer,Low Value,75.91,2024-08
+2024-08-12,Repeat Purchase Rate,North,Beer,Low-Value,Direct Mail,Winter,High Value,149.05,2024-08
+2024-08-13,Repeat Purchase Rate,North,Wine,High-Value,Email,Fall,Mid Value,126.08,2024-08
+2024-08-14,Repeat Purchase Rate,North,Wine,High-Value,Social Media,Summer,High Value,129.33,2024-08
+2024-08-15,Repeat Purchase Rate,North,Wine,High-Value,SMS,Spring,Mid Value,116.78,2024-08
+2024-08-16,Repeat Purchase Rate,North,Wine,High-Value,Direct Mail,Winter,Low Value,143.92,2024-08
+2024-08-17,Repeat Purchase Rate,North,Wine,Medium-Value,Email,Summer,Mid Value,73.75,2024-08
+2024-08-18,Repeat Purchase Rate,North,Wine,Medium-Value,Social Media,Spring,High Value,125.83,2024-08
+2024-08-19,Repeat Purchase Rate,North,Wine,Medium-Value,SMS,Summer,Mid Value,67.78,2024-08
+2024-08-20,Repeat Purchase Rate,North,Wine,Medium-Value,Direct Mail,Winter,Mid Value,118.3,2024-08
+2024-08-21,Repeat Purchase Rate,North,Wine,Low-Value,Email,Summer,Low Value,99.97,2024-08
+2024-08-22,Repeat Purchase Rate,North,Wine,Low-Value,Social Media,Spring,Low Value,106.27,2024-08
+2024-08-23,Repeat Purchase Rate,North,Wine,Low-Value,SMS,Spring,High Value,68.56,2024-08
+2024-08-24,Repeat Purchase Rate,North,Wine,Low-Value,Direct Mail,Spring,Mid Value,75.79,2024-08
+2024-08-25,Repeat Purchase Rate,North,Spirits,High-Value,Email,Summer,Mid Value,100.4,2024-08
+2024-08-26,Repeat Purchase Rate,North,Spirits,High-Value,Social Media,Summer,Mid Value,56.76,2024-08
+2024-08-27,Repeat Purchase Rate,North,Spirits,High-Value,SMS,Fall,Mid Value,148.44,2024-08
+2024-08-28,Repeat Purchase Rate,North,Spirits,High-Value,Direct Mail,Summer,Low Value,136.73,2024-08
+2024-08-29,Repeat Purchase Rate,North,Spirits,Medium-Value,Email,Spring,High Value,101.15,2024-08
+2024-08-30,Repeat Purchase Rate,North,Spirits,Medium-Value,Social Media,Spring,Low Value,69.28,2024-08
+2024-08-01,Campaign Conversion Rate,North,Beer,High-Value,Email,Winter,Mid Value,109.77,2024-08
+2024-08-02,Campaign Conversion Rate,North,Beer,High-Value,Social Media,Fall,Mid Value,89.84,2024-08
+2024-08-03,Campaign Conversion Rate,North,Beer,High-Value,SMS,Spring,Low Value,226.99,2024-08
+2024-08-04,Campaign Conversion Rate,North,Beer,High-Value,Direct Mail,Summer,Mid Value,58.24,2024-08
+2024-08-05,Campaign Conversion Rate,North,Beer,Medium-Value,Email,Spring,Mid Value,51.06,2024-08
+2024-08-06,Campaign Conversion Rate,North,Beer,Medium-Value,Social Media,Fall,Mid Value,180.9,2024-08
+2024-08-07,Campaign Conversion Rate,North,Beer,Medium-Value,SMS,Fall,Low Value,68.68,2024-08
+2024-08-08,Campaign Conversion Rate,North,Beer,Medium-Value,Direct Mail,Summer,Mid Value,117.94,2024-08
+2024-08-09,Campaign Conversion Rate,North,Beer,Low-Value,Email,Fall,Low Value,54.05,2024-08
+2024-08-10,Campaign Conversion Rate,North,Beer,Low-Value,Social Media,Spring,High Value,134.2,2024-08
+2024-08-11,Campaign Conversion Rate,North,Beer,Low-Value,SMS,Spring,Low Value,133,2024-08
+2024-08-12,Campaign Conversion Rate,North,Beer,Low-Value,Direct Mail,Summer,Low Value,138.89,2024-08
+2024-08-13,Campaign Conversion Rate,North,Wine,High-Value,Email,Fall,Low Value,51.34,2024-08
+2024-08-14,Campaign Conversion Rate,North,Wine,High-Value,Social Media,Winter,Mid Value,144.18,2024-08
+2024-08-15,Campaign Conversion Rate,North,Wine,High-Value,SMS,Summer,Low Value,73.14,2024-08
+2024-08-16,Campaign Conversion Rate,North,Wine,High-Value,Direct Mail,Spring,High Value,96.66,2024-08
+2024-08-17,Campaign Conversion Rate,North,Wine,Medium-Value,Email,Summer,Low Value,64.96,2024-08
+2024-08-18,Campaign Conversion Rate,North,Wine,Medium-Value,Social Media,Winter,Low Value,79.13,2024-08
+2024-08-19,Campaign Conversion Rate,North,Wine,Medium-Value,SMS,Winter,Mid Value,142.03,2024-08
+2024-08-20,Campaign Conversion Rate,North,Wine,Medium-Value,Direct Mail,Summer,High Value,86.51,2024-08
+2024-08-21,Campaign Conversion Rate,North,Wine,Low-Value,Email,Spring,Mid Value,102.95,2024-08
+2024-08-22,Campaign Conversion Rate,North,Wine,Low-Value,Social Media,Summer,Low Value,112.28,2024-08
+2024-08-23,Campaign Conversion Rate,North,Wine,Low-Value,SMS,Summer,Mid Value,134.48,2024-08
+2024-08-24,Campaign Conversion Rate,North,Wine,Low-Value,Direct Mail,Spring,High Value,143.23,2024-08
+2024-08-25,Campaign Conversion Rate,North,Spirits,High-Value,Email,Spring,Mid Value,123.39,2024-08
+2024-08-26,Campaign Conversion Rate,North,Spirits,High-Value,Social Media,Summer,Low Value,81.78,2024-08
+2024-08-27,Campaign Conversion Rate,North,Spirits,High-Value,SMS,Spring,High Value,124.79,2024-08
+2024-08-28,Campaign Conversion Rate,North,Spirits,High-Value,Direct Mail,Summer,Mid Value,138.3,2024-08
+2024-08-29,Campaign Conversion Rate,North,Spirits,Medium-Value,Email,Summer,Low Value,119.2,2024-08
+2024-08-30,Campaign Conversion Rate,North,Spirits,Medium-Value,Social Media,Summer,Mid Value,65.15,2024-08
+2024-09-01,Product Affinity Score,North,Beer,High-Value,Email,Spring,High Value,132.59,2024-09
+2024-09-02,Product Affinity Score,North,Beer,High-Value,Social Media,Fall,High Value,88.42,2024-09
+2024-09-03,Product Affinity Score,North,Beer,High-Value,SMS,Winter,Mid Value,133.69,2024-09
+2024-09-04,Product Affinity Score,North,Beer,High-Value,Direct Mail,Spring,Mid Value,76.68,2024-09
+2024-09-05,Product Affinity Score,North,Beer,Medium-Value,Email,Fall,High Value,51.61,2024-09
+2024-09-06,Product Affinity Score,North,Beer,Medium-Value,Social Media,Spring,High Value,79.26,2024-09
+2024-09-07,Product Affinity Score,North,Beer,Medium-Value,SMS,Winter,Mid Value,56.4,2024-09
+2024-09-08,Product Affinity Score,North,Beer,Medium-Value,Direct Mail,Winter,Low Value,68.11,2024-09
+2024-09-09,Product Affinity Score,North,Beer,Low-Value,Email,Summer,Mid Value,111.58,2024-09
+2024-09-10,Product Affinity Score,North,Beer,Low-Value,Social Media,Winter,High Value,75.05,2024-09
+2024-09-11,Product Affinity Score,North,Beer,Low-Value,SMS,Winter,Mid Value,59.67,2024-09
+2024-09-12,Product Affinity Score,North,Beer,Low-Value,Direct Mail,Summer,Mid Value,139.77,2024-09
+2024-09-13,Product Affinity Score,North,Wine,High-Value,Email,Summer,Low Value,114.77,2024-09
+2024-09-14,Product Affinity Score,North,Wine,High-Value,Social Media,Spring,High Value,285.32,2024-09
+2024-09-15,Product Affinity Score,North,Wine,High-Value,SMS,Spring,High Value,59.9,2024-09
+2024-09-16,Product Affinity Score,North,Wine,High-Value,Direct Mail,Summer,Mid Value,75.28,2024-09
+2024-09-17,Product Affinity Score,North,Wine,Medium-Value,Email,Winter,Low Value,114.59,2024-09
+2024-09-18,Product Affinity Score,North,Wine,Medium-Value,Social Media,Fall,High Value,75.05,2024-09
+2024-09-19,Product Affinity Score,North,Wine,Medium-Value,SMS,Fall,Mid Value,84.15,2024-09
+2024-09-20,Product Affinity Score,North,Wine,Medium-Value,Direct Mail,Summer,High Value,129.86,2024-09
+2024-09-21,Product Affinity Score,North,Wine,Low-Value,Email,Summer,Mid Value,69.98,2024-09
+2024-09-22,Product Affinity Score,North,Wine,Low-Value,Social Media,Fall,High Value,65.72,2024-09
+2024-09-23,Product Affinity Score,North,Wine,Low-Value,SMS,Spring,Low Value,86.6,2024-09
+2024-09-24,Product Affinity Score,North,Wine,Low-Value,Direct Mail,Fall,High Value,63.18,2024-09
+2024-09-25,Product Affinity Score,North,Spirits,High-Value,Email,Winter,High Value,99.4,2024-09
+2024-09-26,Product Affinity Score,North,Spirits,High-Value,Social Media,Winter,High Value,106.87,2024-09
+2024-09-27,Product Affinity Score,North,Spirits,High-Value,SMS,Spring,High Value,93.5,2024-09
+2024-09-28,Product Affinity Score,North,Spirits,High-Value,Direct Mail,Winter,High Value,64.1,2024-09
+2024-09-29,Product Affinity Score,North,Spirits,Medium-Value,Email,Fall,Mid Value,138.59,2024-09
+2024-09-30,Product Affinity Score,North,Spirits,Medium-Value,Social Media,Summer,Low Value,61.35,2024-09
+2024-09-01,Customer Engagement Score,North,Beer,High-Value,Email,Winter,Low Value,97.87,2024-09
+2024-09-02,Customer Engagement Score,North,Beer,High-Value,Social Media,Winter,High Value,128.53,2024-09
+2024-09-03,Customer Engagement Score,North,Beer,High-Value,SMS,Spring,Mid Value,85.47,2024-09
+2024-09-04,Customer Engagement Score,North,Beer,High-Value,Direct Mail,Winter,Low Value,147.58,2024-09
+2024-09-05,Customer Engagement Score,North,Beer,Medium-Value,Email,Summer,Mid Value,106.57,2024-09
+2024-09-06,Customer Engagement Score,North,Beer,Medium-Value,Social Media,Winter,Low Value,108.45,2024-09
+2024-09-07,Customer Engagement Score,North,Beer,Medium-Value,SMS,Summer,Low Value,80.22,2024-09
+2024-09-08,Customer Engagement Score,North,Beer,Medium-Value,Direct Mail,Spring,High Value,75.27,2024-09
+2024-09-09,Customer Engagement Score,North,Beer,Low-Value,Email,Winter,High Value,104.2,2024-09
+2024-09-10,Customer Engagement Score,North,Beer,Low-Value,Social Media,Fall,Low Value,110.86,2024-09
+2024-09-11,Customer Engagement Score,North,Beer,Low-Value,SMS,Fall,Mid Value,92.12,2024-09
+2024-09-12,Customer Engagement Score,North,Beer,Low-Value,Direct Mail,Winter,Low Value,97.62,2024-09
+2024-09-13,Customer Engagement Score,North,Wine,High-Value,Email,Fall,High Value,93.96,2024-09
+2024-09-14,Customer Engagement Score,North,Wine,High-Value,Social Media,Winter,High Value,55.04,2024-09
+2024-09-15,Customer Engagement Score,North,Wine,High-Value,SMS,Summer,High Value,135.14,2024-09
+2024-09-16,Customer Engagement Score,North,Wine,High-Value,Direct Mail,Winter,High Value,149.73,2024-09
+2024-09-17,Customer Engagement Score,North,Wine,Medium-Value,Email,Summer,Mid Value,107.54,2024-09
+2024-09-18,Customer Engagement Score,North,Wine,Medium-Value,Social Media,Spring,Low Value,106.38,2024-09
+2024-09-19,Customer Engagement Score,North,Wine,Medium-Value,SMS,Summer,High Value,135.61,2024-09
+2024-09-20,Customer Engagement Score,North,Wine,Medium-Value,Direct Mail,Spring,High Value,94.97,2024-09
+2024-09-21,Customer Engagement Score,North,Wine,Low-Value,Email,Spring,Low Value,64.08,2024-09
+2024-09-22,Customer Engagement Score,North,Wine,Low-Value,Social Media,Spring,Mid Value,81.22,2024-09
+2024-09-23,Customer Engagement Score,North,Wine,Low-Value,SMS,Summer,High Value,117.1,2024-09
+2024-09-24,Customer Engagement Score,North,Wine,Low-Value,Direct Mail,Winter,Low Value,257.64,2024-09
+2024-09-25,Customer Engagement Score,North,Spirits,High-Value,Email,Fall,Mid Value,112.79,2024-09
+2024-09-26,Customer Engagement Score,North,Spirits,High-Value,Social Media,Summer,High Value,103.74,2024-09
+2024-09-27,Customer Engagement Score,North,Spirits,High-Value,SMS,Spring,Mid Value,55.62,2024-09
+2024-09-28,Customer Engagement Score,North,Spirits,High-Value,Direct Mail,Spring,Mid Value,126.46,2024-09
+2024-09-29,Customer Engagement Score,North,Spirits,Medium-Value,Email,Winter,High Value,127.01,2024-09
+2024-09-30,Customer Engagement Score,North,Spirits,Medium-Value,Social Media,Summer,High Value,147.54,2024-09
+2024-09-01,CLV,North,Beer,High-Value,Email,Fall,High Value,52.63,2024-09
+2024-09-02,CLV,North,Beer,High-Value,Social Media,Spring,Mid Value,125.86,2024-09
+2024-09-03,CLV,North,Beer,High-Value,SMS,Winter,Low Value,115.15,2024-09
+2024-09-04,CLV,North,Beer,High-Value,Direct Mail,Winter,High Value,149.19,2024-09
+2024-09-05,CLV,North,Beer,Medium-Value,Email,Fall,High Value,99.1,2024-09
+2024-09-06,CLV,North,Beer,Medium-Value,Social Media,Spring,High Value,65.98,2024-09
+2024-09-07,CLV,North,Beer,Medium-Value,SMS,Winter,Low Value,65.55,2024-09
+2024-09-08,CLV,North,Beer,Medium-Value,Direct Mail,Summer,High Value,144.68,2024-09
+2024-09-09,CLV,North,Beer,Low-Value,Email,Summer,High Value,113.97,2024-09
+2024-09-10,CLV,North,Beer,Low-Value,Social Media,Summer,Mid Value,131.56,2024-09
+2024-09-11,CLV,North,Beer,Low-Value,SMS,Fall,High Value,50.03,2024-09
+2024-09-12,CLV,North,Beer,Low-Value,Direct Mail,Winter,Mid Value,124.68,2024-09
+2024-09-13,CLV,North,Wine,High-Value,Email,Fall,Mid Value,140.29,2024-09
+2024-09-14,CLV,North,Wine,High-Value,Social Media,Spring,Low Value,102.39,2024-09
+2024-09-15,CLV,North,Wine,High-Value,SMS,Fall,Mid Value,149.65,2024-09
+2024-09-16,CLV,North,Wine,High-Value,Direct Mail,Spring,High Value,82.46,2024-09
+2024-09-17,CLV,North,Wine,Medium-Value,Email,Fall,Low Value,139.59,2024-09
+2024-09-18,CLV,North,Wine,Medium-Value,Social Media,Summer,High Value,60.56,2024-09
+2024-09-19,CLV,North,Wine,Medium-Value,SMS,Spring,Low Value,123.1,2024-09
+2024-09-20,CLV,North,Wine,Medium-Value,Direct Mail,Fall,Low Value,54.82,2024-09
+2024-09-21,CLV,North,Wine,Low-Value,Email,Summer,Low Value,119.86,2024-09
+2024-09-22,CLV,North,Wine,Low-Value,Social Media,Summer,High Value,116.66,2024-09
+2024-09-23,CLV,North,Wine,Low-Value,SMS,Fall,Low Value,87.43,2024-09
+2024-09-24,CLV,North,Wine,Low-Value,Direct Mail,Spring,Low Value,66.29,2024-09
+2024-09-25,CLV,North,Spirits,High-Value,Email,Winter,Low Value,54.33,2024-09
+2024-09-26,CLV,North,Spirits,High-Value,Social Media,Spring,Mid Value,87.99,2024-09
+2024-09-27,CLV,North,Spirits,High-Value,SMS,Spring,Mid Value,115.31,2024-09
+2024-09-28,CLV,North,Spirits,High-Value,Direct Mail,Winter,Mid Value,115.21,2024-09
+2024-09-29,CLV,North,Spirits,Medium-Value,Email,Fall,High Value,68.03,2024-09
+2024-09-30,CLV,North,Spirits,Medium-Value,Social Media,Fall,Mid Value,114.14,2024-09
+2024-09-01,Repeat Purchase Rate,North,Beer,High-Value,Email,Spring,Low Value,75.9,2024-09
+2024-09-02,Repeat Purchase Rate,North,Beer,High-Value,Social Media,Winter,Mid Value,101.51,2024-09
+2024-09-03,Repeat Purchase Rate,North,Beer,High-Value,SMS,Summer,Mid Value,53.57,2024-09
+2024-09-04,Repeat Purchase Rate,North,Beer,High-Value,Direct Mail,Fall,High Value,97.92,2024-09
+2024-09-05,Repeat Purchase Rate,North,Beer,Medium-Value,Email,Fall,High Value,62.02,2024-09
+2024-09-06,Repeat Purchase Rate,North,Beer,Medium-Value,Social Media,Summer,Low Value,143.94,2024-09
+2024-09-07,Repeat Purchase Rate,North,Beer,Medium-Value,SMS,Spring,Low Value,84.9,2024-09
+2024-09-08,Repeat Purchase Rate,North,Beer,Medium-Value,Direct Mail,Summer,High Value,58.32,2024-09
+2024-09-09,Repeat Purchase Rate,North,Beer,Low-Value,Email,Winter,Mid Value,147.22,2024-09
+2024-09-10,Repeat Purchase Rate,North,Beer,Low-Value,Social Media,Summer,Mid Value,97.12,2024-09
+2024-09-11,Repeat Purchase Rate,North,Beer,Low-Value,SMS,Spring,High Value,70.21,2024-09
+2024-09-12,Repeat Purchase Rate,North,Beer,Low-Value,Direct Mail,Fall,Low Value,141.17,2024-09
+2024-09-13,Repeat Purchase Rate,North,Wine,High-Value,Email,Winter,Low Value,126.62,2024-09
+2024-09-14,Repeat Purchase Rate,North,Wine,High-Value,Social Media,Spring,High Value,116.18,2024-09
+2024-09-15,Repeat Purchase Rate,North,Wine,High-Value,SMS,Winter,High Value,118.54,2024-09
+2024-09-16,Repeat Purchase Rate,North,Wine,High-Value,Direct Mail,Fall,Low Value,73.7,2024-09
+2024-09-17,Repeat Purchase Rate,North,Wine,Medium-Value,Email,Summer,Mid Value,97.34,2024-09
+2024-09-18,Repeat Purchase Rate,North,Wine,Medium-Value,Social Media,Spring,High Value,130.19,2024-09
+2024-09-19,Repeat Purchase Rate,North,Wine,Medium-Value,SMS,Fall,Low Value,143.73,2024-09
+2024-09-20,Repeat Purchase Rate,North,Wine,Medium-Value,Direct Mail,Fall,High Value,114.92,2024-09
+2024-09-21,Repeat Purchase Rate,North,Wine,Low-Value,Email,Spring,High Value,140.36,2024-09
+2024-09-22,Repeat Purchase Rate,North,Wine,Low-Value,Social Media,Spring,Mid Value,115.62,2024-09
+2024-09-23,Repeat Purchase Rate,North,Wine,Low-Value,SMS,Fall,Mid Value,85.49,2024-09
+2024-09-24,Repeat Purchase Rate,North,Wine,Low-Value,Direct Mail,Fall,Mid Value,135.07,2024-09
+2024-09-25,Repeat Purchase Rate,North,Spirits,High-Value,Email,Spring,Low Value,50.75,2024-09
+2024-09-26,Repeat Purchase Rate,North,Spirits,High-Value,Social Media,Fall,Low Value,78.13,2024-09
+2024-09-27,Repeat Purchase Rate,North,Spirits,High-Value,SMS,Summer,Mid Value,146.71,2024-09
+2024-09-28,Repeat Purchase Rate,North,Spirits,High-Value,Direct Mail,Spring,Low Value,97.13,2024-09
+2024-09-29,Repeat Purchase Rate,North,Spirits,Medium-Value,Email,Winter,Low Value,59.29,2024-09
+2024-09-30,Repeat Purchase Rate,North,Spirits,Medium-Value,Social Media,Winter,Mid Value,81.71,2024-09
+2024-09-01,Campaign Conversion Rate,North,Beer,High-Value,Email,Spring,High Value,52.98,2024-09
+2024-09-02,Campaign Conversion Rate,North,Beer,High-Value,Social Media,Winter,Mid Value,130.42,2024-09
+2024-09-03,Campaign Conversion Rate,North,Beer,High-Value,SMS,Fall,Mid Value,76.96,2024-09
+2024-09-04,Campaign Conversion Rate,North,Beer,High-Value,Direct Mail,Fall,Mid Value,76.97,2024-09
+2024-09-05,Campaign Conversion Rate,North,Beer,Medium-Value,Email,Summer,High Value,111.03,2024-09
+2024-09-06,Campaign Conversion Rate,North,Beer,Medium-Value,Social Media,Fall,Mid Value,140.51,2024-09
+2024-09-07,Campaign Conversion Rate,North,Beer,Medium-Value,SMS,Winter,Mid Value,262.69,2024-09
+2024-09-08,Campaign Conversion Rate,North,Beer,Medium-Value,Direct Mail,Winter,Mid Value,156.23,2024-09
+2024-09-09,Campaign Conversion Rate,North,Beer,Low-Value,Email,Winter,Mid Value,119.34,2024-09
+2024-09-10,Campaign Conversion Rate,North,Beer,Low-Value,Social Media,Winter,Low Value,75.67,2024-09
+2024-09-11,Campaign Conversion Rate,North,Beer,Low-Value,SMS,Winter,High Value,115.91,2024-09
+2024-09-12,Campaign Conversion Rate,North,Beer,Low-Value,Direct Mail,Summer,High Value,119.73,2024-09
+2024-09-13,Campaign Conversion Rate,North,Wine,High-Value,Email,Spring,Mid Value,61.46,2024-09
+2024-09-14,Campaign Conversion Rate,North,Wine,High-Value,Social Media,Winter,Mid Value,122.07,2024-09
+2024-09-15,Campaign Conversion Rate,North,Wine,High-Value,SMS,Summer,Low Value,65.51,2024-09
+2024-09-16,Campaign Conversion Rate,North,Wine,High-Value,Direct Mail,Summer,High Value,89.32,2024-09
+2024-09-17,Campaign Conversion Rate,North,Wine,Medium-Value,Email,Fall,Low Value,72.78,2024-09
+2024-09-18,Campaign Conversion Rate,North,Wine,Medium-Value,Social Media,Winter,Low Value,113.82,2024-09
+2024-09-19,Campaign Conversion Rate,North,Wine,Medium-Value,SMS,Fall,Mid Value,72.6,2024-09
+2024-09-20,Campaign Conversion Rate,North,Wine,Medium-Value,Direct Mail,Spring,High Value,69.12,2024-09
+2024-09-21,Campaign Conversion Rate,North,Wine,Low-Value,Email,Winter,Mid Value,146.67,2024-09
+2024-09-22,Campaign Conversion Rate,North,Wine,Low-Value,Social Media,Summer,High Value,149.29,2024-09
+2024-09-23,Campaign Conversion Rate,North,Wine,Low-Value,SMS,Winter,Mid Value,71.75,2024-09
+2024-09-24,Campaign Conversion Rate,North,Wine,Low-Value,Direct Mail,Spring,High Value,179.9,2024-09
+2024-09-25,Campaign Conversion Rate,North,Spirits,High-Value,Email,Spring,Low Value,76.87,2024-09
+2024-09-26,Campaign Conversion Rate,North,Spirits,High-Value,Social Media,Fall,High Value,85.92,2024-09
+2024-09-27,Campaign Conversion Rate,North,Spirits,High-Value,SMS,Summer,High Value,146.57,2024-09
+2024-09-28,Campaign Conversion Rate,North,Spirits,High-Value,Direct Mail,Spring,Mid Value,122.13,2024-09
+2024-09-29,Campaign Conversion Rate,North,Spirits,Medium-Value,Email,Summer,Mid Value,72.1,2024-09
+2024-09-30,Campaign Conversion Rate,North,Spirits,Medium-Value,Social Media,Fall,Low Value,85.02,2024-09
+2024-10-01,Product Affinity Score,North,Beer,High-Value,Email,Spring,Low Value,103.63,2024-10
+2024-10-02,Product Affinity Score,North,Beer,High-Value,Social Media,Summer,High Value,85.13,2024-10
+2024-10-03,Product Affinity Score,North,Beer,High-Value,SMS,Summer,High Value,82.67,2024-10
+2024-10-04,Product Affinity Score,North,Beer,High-Value,Direct Mail,Fall,Mid Value,110.89,2024-10
+2024-10-05,Product Affinity Score,North,Beer,Medium-Value,Email,Spring,Mid Value,80.71,2024-10
+2024-10-06,Product Affinity Score,North,Beer,Medium-Value,Social Media,Summer,High Value,133.86,2024-10
+2024-10-07,Product Affinity Score,North,Beer,Medium-Value,SMS,Fall,High Value,143.08,2024-10
+2024-10-08,Product Affinity Score,North,Beer,Medium-Value,Direct Mail,Summer,High Value,64.43,2024-10
+2024-10-09,Product Affinity Score,North,Beer,Low-Value,Email,Spring,High Value,111.44,2024-10
+2024-10-10,Product Affinity Score,North,Beer,Low-Value,Social Media,Winter,High Value,109.9,2024-10
+2024-10-11,Product Affinity Score,North,Beer,Low-Value,SMS,Spring,Mid Value,97.96,2024-10
+2024-10-12,Product Affinity Score,North,Beer,Low-Value,Direct Mail,Spring,Mid Value,93.27,2024-10
+2024-10-13,Product Affinity Score,North,Wine,High-Value,Email,Fall,Low Value,95.12,2024-10
+2024-10-14,Product Affinity Score,North,Wine,High-Value,Social Media,Summer,Mid Value,80.36,2024-10
+2024-10-15,Product Affinity Score,North,Wine,High-Value,SMS,Spring,Low Value,52.31,2024-10
+2024-10-16,Product Affinity Score,North,Wine,High-Value,Direct Mail,Spring,Low Value,134.51,2024-10
+2024-10-17,Product Affinity Score,North,Wine,Medium-Value,Email,Winter,High Value,54.6,2024-10
+2024-10-18,Product Affinity Score,North,Wine,Medium-Value,Social Media,Winter,High Value,76.37,2024-10
+2024-10-19,Product Affinity Score,North,Wine,Medium-Value,SMS,Summer,Mid Value,86.98,2024-10
+2024-10-20,Product Affinity Score,North,Wine,Medium-Value,Direct Mail,Fall,Mid Value,79.39,2024-10
+2024-10-21,Product Affinity Score,North,Wine,Low-Value,Email,Winter,High Value,91.56,2024-10
+2024-10-22,Product Affinity Score,North,Wine,Low-Value,Social Media,Spring,Mid Value,83.03,2024-10
+2024-10-23,Product Affinity Score,North,Wine,Low-Value,SMS,Summer,High Value,111.2,2024-10
+2024-10-24,Product Affinity Score,North,Wine,Low-Value,Direct Mail,Spring,Mid Value,66.33,2024-10
+2024-10-25,Product Affinity Score,North,Spirits,High-Value,Email,Fall,High Value,131.34,2024-10
+2024-10-26,Product Affinity Score,North,Spirits,High-Value,Social Media,Summer,Mid Value,109.53,2024-10
+2024-10-27,Product Affinity Score,North,Spirits,High-Value,SMS,Winter,High Value,184.04,2024-10
+2024-10-28,Product Affinity Score,North,Spirits,High-Value,Direct Mail,Summer,Low Value,90.1,2024-10
+2024-10-29,Product Affinity Score,North,Spirits,Medium-Value,Email,Spring,High Value,120.84,2024-10
+2024-10-30,Product Affinity Score,North,Spirits,Medium-Value,Social Media,Spring,Low Value,78.57,2024-10
+2024-10-01,Customer Engagement Score,North,Beer,High-Value,Email,Winter,High Value,81.33,2024-10
+2024-10-02,Customer Engagement Score,North,Beer,High-Value,Social Media,Summer,Low Value,65.95,2024-10
+2024-10-03,Customer Engagement Score,North,Beer,High-Value,SMS,Summer,Low Value,118.2,2024-10
+2024-10-04,Customer Engagement Score,North,Beer,High-Value,Direct Mail,Summer,Mid Value,74.79,2024-10
+2024-10-05,Customer Engagement Score,North,Beer,Medium-Value,Email,Winter,High Value,92.39,2024-10
+2024-10-06,Customer Engagement Score,North,Beer,Medium-Value,Social Media,Fall,Mid Value,122.42,2024-10
+2024-10-07,Customer Engagement Score,North,Beer,Medium-Value,SMS,Winter,High Value,137.19,2024-10
+2024-10-08,Customer Engagement Score,North,Beer,Medium-Value,Direct Mail,Fall,Low Value,126.32,2024-10
+2024-10-09,Customer Engagement Score,North,Beer,Low-Value,Email,Winter,Low Value,86.54,2024-10
+2024-10-10,Customer Engagement Score,North,Beer,Low-Value,Social Media,Winter,Low Value,118.67,2024-10
+2024-10-11,Customer Engagement Score,North,Beer,Low-Value,SMS,Summer,Low Value,96.74,2024-10
+2024-10-12,Customer Engagement Score,North,Beer,Low-Value,Direct Mail,Winter,Mid Value,99.51,2024-10
+2024-10-13,Customer Engagement Score,North,Wine,High-Value,Email,Fall,Low Value,91.03,2024-10
+2024-10-14,Customer Engagement Score,North,Wine,High-Value,Social Media,Spring,Mid Value,86.69,2024-10
+2024-10-15,Customer Engagement Score,North,Wine,High-Value,SMS,Winter,Mid Value,137.43,2024-10
+2024-10-16,Customer Engagement Score,North,Wine,High-Value,Direct Mail,Summer,Low Value,72.77,2024-10
+2024-10-17,Customer Engagement Score,North,Wine,Medium-Value,Email,Summer,Low Value,84.16,2024-10
+2024-10-18,Customer Engagement Score,North,Wine,Medium-Value,Social Media,Fall,High Value,122.68,2024-10
+2024-10-19,Customer Engagement Score,North,Wine,Medium-Value,SMS,Summer,Low Value,55.3,2024-10
+2024-10-20,Customer Engagement Score,North,Wine,Medium-Value,Direct Mail,Spring,Mid Value,122.15,2024-10
+2024-10-21,Customer Engagement Score,North,Wine,Low-Value,Email,Summer,Low Value,112.96,2024-10
+2024-10-22,Customer Engagement Score,North,Wine,Low-Value,Social Media,Summer,Mid Value,123.37,2024-10
+2024-10-23,Customer Engagement Score,North,Wine,Low-Value,SMS,Spring,Mid Value,93.26,2024-10
+2024-10-24,Customer Engagement Score,North,Wine,Low-Value,Direct Mail,Fall,Low Value,81.89,2024-10
+2024-10-25,Customer Engagement Score,North,Spirits,High-Value,Email,Summer,Mid Value,220.42,2024-10
+2024-10-26,Customer Engagement Score,North,Spirits,High-Value,Social Media,Spring,Low Value,127.98,2024-10
+2024-10-27,Customer Engagement Score,North,Spirits,High-Value,SMS,Winter,Low Value,123.17,2024-10
+2024-10-28,Customer Engagement Score,North,Spirits,High-Value,Direct Mail,Summer,High Value,128.32,2024-10
+2024-10-29,Customer Engagement Score,North,Spirits,Medium-Value,Email,Fall,High Value,93.97,2024-10
+2024-10-30,Customer Engagement Score,North,Spirits,Medium-Value,Social Media,Fall,Low Value,106.91,2024-10
+2024-10-01,CLV,North,Beer,High-Value,Email,Spring,Mid Value,61.58,2024-10
+2024-10-02,CLV,North,Beer,High-Value,Social Media,Summer,Low Value,63.03,2024-10
+2024-10-03,CLV,North,Beer,High-Value,SMS,Winter,Mid Value,87.27,2024-10
+2024-10-04,CLV,North,Beer,High-Value,Direct Mail,Fall,High Value,90.55,2024-10
+2024-10-05,CLV,North,Beer,Medium-Value,Email,Summer,High Value,126.99,2024-10
+2024-10-06,CLV,North,Beer,Medium-Value,Social Media,Summer,High Value,103.95,2024-10
+2024-10-07,CLV,North,Beer,Medium-Value,SMS,Spring,Mid Value,91.08,2024-10
+2024-10-08,CLV,North,Beer,Medium-Value,Direct Mail,Summer,Low Value,96.2,2024-10
+2024-10-09,CLV,North,Beer,Low-Value,Email,Spring,High Value,140.65,2024-10
+2024-10-10,CLV,North,Beer,Low-Value,Social Media,Spring,Low Value,87.53,2024-10
+2024-10-11,CLV,North,Beer,Low-Value,SMS,Fall,Low Value,89.53,2024-10
+2024-10-12,CLV,North,Beer,Low-Value,Direct Mail,Summer,Mid Value,84.29,2024-10
+2024-10-13,CLV,North,Wine,High-Value,Email,Spring,High Value,83.18,2024-10
+2024-10-14,CLV,North,Wine,High-Value,Social Media,Fall,High Value,145.55,2024-10
+2024-10-15,CLV,North,Wine,High-Value,SMS,Summer,High Value,140.25,2024-10
+2024-10-16,CLV,North,Wine,High-Value,Direct Mail,Spring,Mid Value,69.1,2024-10
+2024-10-17,CLV,North,Wine,Medium-Value,Email,Winter,Low Value,201.8,2024-10
+2024-10-18,CLV,North,Wine,Medium-Value,Social Media,Winter,Mid Value,95.57,2024-10
+2024-10-19,CLV,North,Wine,Medium-Value,SMS,Fall,Low Value,121.26,2024-10
+2024-10-20,CLV,North,Wine,Medium-Value,Direct Mail,Summer,High Value,66.04,2024-10
+2024-10-21,CLV,North,Wine,Low-Value,Email,Spring,High Value,79.29,2024-10
+2024-10-22,CLV,North,Wine,Low-Value,Social Media,Spring,High Value,127.99,2024-10
+2024-10-23,CLV,North,Wine,Low-Value,SMS,Summer,Low Value,99.85,2024-10
+2024-10-24,CLV,North,Wine,Low-Value,Direct Mail,Winter,High Value,83.49,2024-10
+2024-10-25,CLV,North,Spirits,High-Value,Email,Spring,Low Value,96.34,2024-10
+2024-10-26,CLV,North,Spirits,High-Value,Social Media,Spring,High Value,135.55,2024-10
+2024-10-27,CLV,North,Spirits,High-Value,SMS,Summer,High Value,138.2,2024-10
+2024-10-28,CLV,North,Spirits,High-Value,Direct Mail,Winter,Low Value,100.64,2024-10
+2024-10-29,CLV,North,Spirits,Medium-Value,Email,Spring,High Value,86.18,2024-10
+2024-10-30,CLV,North,Spirits,Medium-Value,Social Media,Spring,High Value,61.12,2024-10
+2024-10-01,Repeat Purchase Rate,North,Beer,High-Value,Email,Spring,Mid Value,85.02,2024-10
+2024-10-02,Repeat Purchase Rate,North,Beer,High-Value,Social Media,Summer,Mid Value,144.05,2024-10
+2024-10-03,Repeat Purchase Rate,North,Beer,High-Value,SMS,Winter,Mid Value,80.61,2024-10
+2024-10-04,Repeat Purchase Rate,North,Beer,High-Value,Direct Mail,Spring,Low Value,99.8,2024-10
+2024-10-05,Repeat Purchase Rate,North,Beer,Medium-Value,Email,Spring,High Value,80.06,2024-10
+2024-10-06,Repeat Purchase Rate,North,Beer,Medium-Value,Social Media,Summer,Low Value,114.51,2024-10
+2024-10-07,Repeat Purchase Rate,North,Beer,Medium-Value,SMS,Spring,High Value,61.38,2024-10
+2024-10-08,Repeat Purchase Rate,North,Beer,Medium-Value,Direct Mail,Winter,Low Value,85.62,2024-10
+2024-10-09,Repeat Purchase Rate,North,Beer,Low-Value,Email,Summer,Mid Value,142.19,2024-10
+2024-10-10,Repeat Purchase Rate,North,Beer,Low-Value,Social Media,Summer,Low Value,51.4,2024-10
+2024-10-11,Repeat Purchase Rate,North,Beer,Low-Value,SMS,Winter,Low Value,132.06,2024-10
+2024-10-12,Repeat Purchase Rate,North,Beer,Low-Value,Direct Mail,Fall,Mid Value,101.34,2024-10
+2024-10-13,Repeat Purchase Rate,North,Wine,High-Value,Email,Fall,High Value,96.51,2024-10
+2024-10-14,Repeat Purchase Rate,North,Wine,High-Value,Social Media,Summer,Low Value,149.99,2024-10
+2024-10-15,Repeat Purchase Rate,North,Wine,High-Value,SMS,Summer,Low Value,119.43,2024-10
+2024-10-16,Repeat Purchase Rate,North,Wine,High-Value,Direct Mail,Fall,Low Value,85.45,2024-10
+2024-10-17,Repeat Purchase Rate,North,Wine,Medium-Value,Email,Spring,Low Value,99.49,2024-10
+2024-10-18,Repeat Purchase Rate,North,Wine,Medium-Value,Social Media,Fall,Mid Value,95.71,2024-10
+2024-10-19,Repeat Purchase Rate,North,Wine,Medium-Value,SMS,Summer,High Value,207.01,2024-10
+2024-10-20,Repeat Purchase Rate,North,Wine,Medium-Value,Direct Mail,Fall,Low Value,85.37,2024-10
+2024-10-21,Repeat Purchase Rate,North,Wine,Low-Value,Email,Winter,Mid Value,210.46,2024-10
+2024-10-22,Repeat Purchase Rate,North,Wine,Low-Value,Social Media,Summer,Low Value,91.14,2024-10
+2024-10-23,Repeat Purchase Rate,North,Wine,Low-Value,SMS,Summer,Mid Value,99.96,2024-10
+2024-10-24,Repeat Purchase Rate,North,Wine,Low-Value,Direct Mail,Spring,Low Value,71.89,2024-10
+2024-10-25,Repeat Purchase Rate,North,Spirits,High-Value,Email,Summer,Low Value,122.1,2024-10
+2024-10-26,Repeat Purchase Rate,North,Spirits,High-Value,Social Media,Winter,Low Value,53.38,2024-10
+2024-10-27,Repeat Purchase Rate,North,Spirits,High-Value,SMS,Summer,Low Value,117.92,2024-10
+2024-10-28,Repeat Purchase Rate,North,Spirits,High-Value,Direct Mail,Winter,Low Value,91.06,2024-10
+2024-10-29,Repeat Purchase Rate,North,Spirits,Medium-Value,Email,Fall,High Value,93.59,2024-10
+2024-10-30,Repeat Purchase Rate,North,Spirits,Medium-Value,Social Media,Summer,Mid Value,55.68,2024-10
+2024-10-01,Campaign Conversion Rate,North,Beer,High-Value,Email,Winter,High Value,109.92,2024-10
+2024-10-02,Campaign Conversion Rate,North,Beer,High-Value,Social Media,Spring,Mid Value,121.33,2024-10
+2024-10-03,Campaign Conversion Rate,North,Beer,High-Value,SMS,Summer,Low Value,113.51,2024-10
+2024-10-04,Campaign Conversion Rate,North,Beer,High-Value,Direct Mail,Spring,Mid Value,137.4,2024-10
+2024-10-05,Campaign Conversion Rate,North,Beer,Medium-Value,Email,Summer,Low Value,124.19,2024-10
+2024-10-06,Campaign Conversion Rate,North,Beer,Medium-Value,Social Media,Spring,Low Value,130.25,2024-10
+2024-10-07,Campaign Conversion Rate,North,Beer,Medium-Value,SMS,Winter,High Value,145.14,2024-10
+2024-10-08,Campaign Conversion Rate,North,Beer,Medium-Value,Direct Mail,Spring,High Value,99.77,2024-10
+2024-10-09,Campaign Conversion Rate,North,Beer,Low-Value,Email,Spring,Mid Value,82.93,2024-10
+2024-10-10,Campaign Conversion Rate,North,Beer,Low-Value,Social Media,Fall,High Value,126.24,2024-10
+2024-10-11,Campaign Conversion Rate,North,Beer,Low-Value,SMS,Spring,Low Value,149.71,2024-10
+2024-10-12,Campaign Conversion Rate,North,Beer,Low-Value,Direct Mail,Summer,High Value,123.55,2024-10
+2024-10-13,Campaign Conversion Rate,North,Wine,High-Value,Email,Summer,Low Value,81.3,2024-10
+2024-10-14,Campaign Conversion Rate,North,Wine,High-Value,Social Media,Winter,Mid Value,139.59,2024-10
+2024-10-15,Campaign Conversion Rate,North,Wine,High-Value,SMS,Fall,Low Value,132.49,2024-10
+2024-10-16,Campaign Conversion Rate,North,Wine,High-Value,Direct Mail,Spring,Mid Value,72,2024-10
+2024-10-17,Campaign Conversion Rate,North,Wine,Medium-Value,Email,Fall,Low Value,88.15,2024-10
+2024-10-18,Campaign Conversion Rate,North,Wine,Medium-Value,Social Media,Fall,High Value,50.56,2024-10
+2024-10-19,Campaign Conversion Rate,North,Wine,Medium-Value,SMS,Winter,Mid Value,148.05,2024-10
+2024-10-20,Campaign Conversion Rate,North,Wine,Medium-Value,Direct Mail,Spring,Low Value,97.66,2024-10
+2024-10-21,Campaign Conversion Rate,North,Wine,Low-Value,Email,Winter,Low Value,154.43,2024-10
+2024-10-22,Campaign Conversion Rate,North,Wine,Low-Value,Social Media,Fall,Low Value,295.71,2024-10
+2024-10-23,Campaign Conversion Rate,North,Wine,Low-Value,SMS,Summer,High Value,57.56,2024-10
+2024-10-24,Campaign Conversion Rate,North,Wine,Low-Value,Direct Mail,Summer,Low Value,58.81,2024-10
+2024-10-25,Campaign Conversion Rate,North,Spirits,High-Value,Email,Spring,Mid Value,109.11,2024-10
+2024-10-26,Campaign Conversion Rate,North,Spirits,High-Value,Social Media,Spring,Low Value,118.84,2024-10
+2024-10-27,Campaign Conversion Rate,North,Spirits,High-Value,SMS,Spring,Mid Value,100.99,2024-10
+2024-10-28,Campaign Conversion Rate,North,Spirits,High-Value,Direct Mail,Winter,Mid Value,107.63,2024-10
+2024-10-29,Campaign Conversion Rate,North,Spirits,Medium-Value,Email,Fall,Low Value,134.6,2024-10
+2024-10-30,Campaign Conversion Rate,North,Spirits,Medium-Value,Social Media,Winter,Mid Value,130.13,2024-10
+2024-11-01,Product Affinity Score,North,Beer,High-Value,Email,Winter,Mid Value,116.42,2024-11
+2024-11-02,Product Affinity Score,North,Beer,High-Value,Social Media,Fall,Mid Value,70.29,2024-11
+2024-11-03,Product Affinity Score,North,Beer,High-Value,SMS,Spring,Mid Value,119.59,2024-11
+2024-11-04,Product Affinity Score,North,Beer,High-Value,Direct Mail,Fall,Mid Value,51.86,2024-11
+2024-11-05,Product Affinity Score,North,Beer,Medium-Value,Email,Winter,Low Value,134.48,2024-11
+2024-11-06,Product Affinity Score,North,Beer,Medium-Value,Social Media,Winter,Mid Value,111.65,2024-11
+2024-11-07,Product Affinity Score,North,Beer,Medium-Value,SMS,Fall,Low Value,59.6,2024-11
+2024-11-08,Product Affinity Score,North,Beer,Medium-Value,Direct Mail,Fall,Mid Value,95.62,2024-11
+2024-11-09,Product Affinity Score,North,Beer,Low-Value,Email,Fall,Mid Value,133.56,2024-11
+2024-11-10,Product Affinity Score,North,Beer,Low-Value,Social Media,Winter,Mid Value,56.37,2024-11
+2024-11-11,Product Affinity Score,North,Beer,Low-Value,SMS,Spring,Low Value,54.27,2024-11
+2024-11-12,Product Affinity Score,North,Beer,Low-Value,Direct Mail,Summer,High Value,121.84,2024-11
+2024-11-13,Product Affinity Score,North,Wine,High-Value,Email,Spring,Mid Value,114.65,2024-11
+2024-11-14,Product Affinity Score,North,Wine,High-Value,Social Media,Winter,Low Value,75.52,2024-11
+2024-11-15,Product Affinity Score,North,Wine,High-Value,SMS,Fall,Mid Value,118.49,2024-11
+2024-11-16,Product Affinity Score,North,Wine,High-Value,Direct Mail,Spring,Low Value,83.67,2024-11
+2024-11-17,Product Affinity Score,North,Wine,Medium-Value,Email,Fall,High Value,147.78,2024-11
+2024-11-18,Product Affinity Score,North,Wine,Medium-Value,Social Media,Fall,Mid Value,89.17,2024-11
+2024-11-19,Product Affinity Score,North,Wine,Medium-Value,SMS,Winter,Mid Value,57.62,2024-11
+2024-11-20,Product Affinity Score,North,Wine,Medium-Value,Direct Mail,Winter,Mid Value,82.87,2024-11
+2024-11-21,Product Affinity Score,North,Wine,Low-Value,Email,Fall,Mid Value,183.76,2024-11
+2024-11-22,Product Affinity Score,North,Wine,Low-Value,Social Media,Fall,Low Value,140.8,2024-11
+2024-11-23,Product Affinity Score,North,Wine,Low-Value,SMS,Winter,High Value,141.62,2024-11
+2024-11-24,Product Affinity Score,North,Wine,Low-Value,Direct Mail,Summer,High Value,103.93,2024-11
+2024-11-25,Product Affinity Score,North,Spirits,High-Value,Email,Winter,High Value,99.36,2024-11
+2024-11-26,Product Affinity Score,North,Spirits,High-Value,Social Media,Winter,High Value,76.91,2024-11
+2024-11-27,Product Affinity Score,North,Spirits,High-Value,SMS,Fall,Mid Value,62.65,2024-11
+2024-11-28,Product Affinity Score,North,Spirits,High-Value,Direct Mail,Spring,Low Value,126.77,2024-11
+2024-11-29,Product Affinity Score,North,Spirits,Medium-Value,Email,Winter,Low Value,99.85,2024-11
+2024-11-30,Product Affinity Score,North,Spirits,Medium-Value,Social Media,Summer,Low Value,99.74,2024-11
+2024-11-01,Customer Engagement Score,North,Beer,High-Value,Email,Winter,Mid Value,141.99,2024-11
+2024-11-02,Customer Engagement Score,North,Beer,High-Value,Social Media,Summer,Low Value,79.34,2024-11
+2024-11-03,Customer Engagement Score,North,Beer,High-Value,SMS,Winter,High Value,91.57,2024-11
+2024-11-04,Customer Engagement Score,North,Beer,High-Value,Direct Mail,Spring,Low Value,92,2024-11
+2024-11-05,Customer Engagement Score,North,Beer,Medium-Value,Email,Winter,Low Value,96.94,2024-11
+2024-11-06,Customer Engagement Score,North,Beer,Medium-Value,Social Media,Spring,Mid Value,129.93,2024-11
+2024-11-07,Customer Engagement Score,North,Beer,Medium-Value,SMS,Summer,High Value,66.52,2024-11
+2024-11-08,Customer Engagement Score,North,Beer,Medium-Value,Direct Mail,Summer,Mid Value,128.63,2024-11
+2024-11-09,Customer Engagement Score,North,Beer,Low-Value,Email,Fall,High Value,119.65,2024-11
+2024-11-10,Customer Engagement Score,North,Beer,Low-Value,Social Media,Fall,Low Value,74.12,2024-11
+2024-11-11,Customer Engagement Score,North,Beer,Low-Value,SMS,Winter,Mid Value,58.42,2024-11
+2024-11-12,Customer Engagement Score,North,Beer,Low-Value,Direct Mail,Spring,High Value,70.89,2024-11
+2024-11-13,Customer Engagement Score,North,Wine,High-Value,Email,Spring,High Value,100.29,2024-11
+2024-11-14,Customer Engagement Score,North,Wine,High-Value,Social Media,Fall,Mid Value,120.69,2024-11
+2024-11-15,Customer Engagement Score,North,Wine,High-Value,SMS,Summer,Low Value,122.78,2024-11
+2024-11-16,Customer Engagement Score,North,Wine,High-Value,Direct Mail,Winter,Low Value,113.17,2024-11
+2024-11-17,Customer Engagement Score,North,Wine,Medium-Value,Email,Fall,High Value,92.16,2024-11
+2024-11-18,Customer Engagement Score,North,Wine,Medium-Value,Social Media,Summer,Low Value,144.72,2024-11
+2024-11-19,Customer Engagement Score,North,Wine,Medium-Value,SMS,Winter,High Value,140.58,2024-11
+2024-11-20,Customer Engagement Score,North,Wine,Medium-Value,Direct Mail,Summer,Low Value,80.84,2024-11
+2024-11-21,Customer Engagement Score,North,Wine,Low-Value,Email,Winter,High Value,112.64,2024-11
+2024-11-22,Customer Engagement Score,North,Wine,Low-Value,Social Media,Spring,Low Value,138.23,2024-11
+2024-11-23,Customer Engagement Score,North,Wine,Low-Value,SMS,Winter,High Value,115.21,2024-11
+2024-11-24,Customer Engagement Score,North,Wine,Low-Value,Direct Mail,Summer,Mid Value,143.3,2024-11
+2024-11-25,Customer Engagement Score,North,Spirits,High-Value,Email,Spring,High Value,99.93,2024-11
+2024-11-26,Customer Engagement Score,North,Spirits,High-Value,Social Media,Summer,Low Value,106.69,2024-11
+2024-11-27,Customer Engagement Score,North,Spirits,High-Value,SMS,Spring,Low Value,83.1,2024-11
+2024-11-28,Customer Engagement Score,North,Spirits,High-Value,Direct Mail,Summer,High Value,57.81,2024-11
+2024-11-29,Customer Engagement Score,North,Spirits,Medium-Value,Email,Spring,Low Value,119.58,2024-11
+2024-11-30,Customer Engagement Score,North,Spirits,Medium-Value,Social Media,Spring,Mid Value,146.31,2024-11
+2024-11-01,CLV,North,Beer,High-Value,Email,Fall,Mid Value,112.28,2024-11
+2024-11-02,CLV,North,Beer,High-Value,Social Media,Winter,Low Value,104.37,2024-11
+2024-11-03,CLV,North,Beer,High-Value,SMS,Winter,Low Value,94.25,2024-11
+2024-11-04,CLV,North,Beer,High-Value,Direct Mail,Winter,High Value,62.84,2024-11
+2024-11-05,CLV,North,Beer,Medium-Value,Email,Spring,Mid Value,56.34,2024-11
+2024-11-06,CLV,North,Beer,Medium-Value,Social Media,Summer,Mid Value,61.85,2024-11
+2024-11-07,CLV,North,Beer,Medium-Value,SMS,Winter,High Value,139.13,2024-11
+2024-11-08,CLV,North,Beer,Medium-Value,Direct Mail,Winter,High Value,63.56,2024-11
+2024-11-09,CLV,North,Beer,Low-Value,Email,Spring,High Value,61.59,2024-11
+2024-11-10,CLV,North,Beer,Low-Value,Social Media,Winter,Low Value,55.2,2024-11
+2024-11-11,CLV,North,Beer,Low-Value,SMS,Winter,Low Value,130.66,2024-11
+2024-11-12,CLV,North,Beer,Low-Value,Direct Mail,Fall,Mid Value,110.63,2024-11
+2024-11-13,CLV,North,Wine,High-Value,Email,Fall,High Value,84.39,2024-11
+2024-11-14,CLV,North,Wine,High-Value,Social Media,Summer,Low Value,58.79,2024-11
+2024-11-15,CLV,North,Wine,High-Value,SMS,Summer,Low Value,98.37,2024-11
+2024-11-16,CLV,North,Wine,High-Value,Direct Mail,Summer,Mid Value,81.8,2024-11
+2024-11-17,CLV,North,Wine,Medium-Value,Email,Summer,Low Value,125.16,2024-11
+2024-11-18,CLV,North,Wine,Medium-Value,Social Media,Summer,Mid Value,72.96,2024-11
+2024-11-19,CLV,North,Wine,Medium-Value,SMS,Fall,Mid Value,58.45,2024-11
+2024-11-20,CLV,North,Wine,Medium-Value,Direct Mail,Summer,Mid Value,109.55,2024-11
+2024-11-21,CLV,North,Wine,Low-Value,Email,Winter,Mid Value,146.09,2024-11
+2024-11-22,CLV,North,Wine,Low-Value,Social Media,Fall,Low Value,52.53,2024-11
+2024-11-23,CLV,North,Wine,Low-Value,SMS,Winter,Mid Value,78.97,2024-11
+2024-11-24,CLV,North,Wine,Low-Value,Direct Mail,Winter,Low Value,98.85,2024-11
+2024-11-25,CLV,North,Spirits,High-Value,Email,Fall,Low Value,98.6,2024-11
+2024-11-26,CLV,North,Spirits,High-Value,Social Media,Summer,High Value,121.25,2024-11
+2024-11-27,CLV,North,Spirits,High-Value,SMS,Summer,Low Value,68.52,2024-11
+2024-11-28,CLV,North,Spirits,High-Value,Direct Mail,Fall,Low Value,75.1,2024-11
+2024-11-29,CLV,North,Spirits,Medium-Value,Email,Fall,Mid Value,115.72,2024-11
+2024-11-30,CLV,North,Spirits,Medium-Value,Social Media,Spring,Mid Value,115.21,2024-11
+2024-11-01,Repeat Purchase Rate,North,Beer,High-Value,Email,Fall,Low Value,75.97,2024-11
+2024-11-02,Repeat Purchase Rate,North,Beer,High-Value,Social Media,Fall,High Value,54.08,2024-11
+2024-11-03,Repeat Purchase Rate,North,Beer,High-Value,SMS,Winter,High Value,141.87,2024-11
+2024-11-04,Repeat Purchase Rate,North,Beer,High-Value,Direct Mail,Spring,Mid Value,101.54,2024-11
+2024-11-05,Repeat Purchase Rate,North,Beer,Medium-Value,Email,Winter,Mid Value,138.22,2024-11
+2024-11-06,Repeat Purchase Rate,North,Beer,Medium-Value,Social Media,Fall,High Value,77.81,2024-11
+2024-11-07,Repeat Purchase Rate,North,Beer,Medium-Value,SMS,Winter,Low Value,92.9,2024-11
+2024-11-08,Repeat Purchase Rate,North,Beer,Medium-Value,Direct Mail,Winter,High Value,67.53,2024-11
+2024-11-09,Repeat Purchase Rate,North,Beer,Low-Value,Email,Summer,Low Value,138.06,2024-11
+2024-11-10,Repeat Purchase Rate,North,Beer,Low-Value,Social Media,Fall,Low Value,137.17,2024-11
+2024-11-11,Repeat Purchase Rate,North,Beer,Low-Value,SMS,Winter,Low Value,115.97,2024-11
+2024-11-12,Repeat Purchase Rate,North,Beer,Low-Value,Direct Mail,Summer,Mid Value,56.94,2024-11
+2024-11-13,Repeat Purchase Rate,North,Wine,High-Value,Email,Winter,High Value,51.36,2024-11
+2024-11-14,Repeat Purchase Rate,North,Wine,High-Value,Social Media,Winter,High Value,143.23,2024-11
+2024-11-15,Repeat Purchase Rate,North,Wine,High-Value,SMS,Fall,Mid Value,143.98,2024-11
+2024-11-16,Repeat Purchase Rate,North,Wine,High-Value,Direct Mail,Summer,Low Value,81.46,2024-11
+2024-11-17,Repeat Purchase Rate,North,Wine,Medium-Value,Email,Fall,Mid Value,126.16,2024-11
+2024-11-18,Repeat Purchase Rate,North,Wine,Medium-Value,Social Media,Summer,Low Value,334.78,2024-11
+2024-11-19,Repeat Purchase Rate,North,Wine,Medium-Value,SMS,Spring,Low Value,69.63,2024-11
+2024-11-20,Repeat Purchase Rate,North,Wine,Medium-Value,Direct Mail,Winter,Mid Value,90.09,2024-11
+2024-11-21,Repeat Purchase Rate,North,Wine,Low-Value,Email,Winter,Mid Value,117.17,2024-11
+2024-11-22,Repeat Purchase Rate,North,Wine,Low-Value,Social Media,Summer,Low Value,141.8,2024-11
+2024-11-23,Repeat Purchase Rate,North,Wine,Low-Value,SMS,Summer,Low Value,74.41,2024-11
+2024-11-24,Repeat Purchase Rate,North,Wine,Low-Value,Direct Mail,Summer,Mid Value,60.59,2024-11
+2024-11-25,Repeat Purchase Rate,North,Spirits,High-Value,Email,Fall,High Value,100.37,2024-11
+2024-11-26,Repeat Purchase Rate,North,Spirits,High-Value,Social Media,Fall,Mid Value,64.75,2024-11
+2024-11-27,Repeat Purchase Rate,North,Spirits,High-Value,SMS,Fall,Mid Value,121.12,2024-11
+2024-11-28,Repeat Purchase Rate,North,Spirits,High-Value,Direct Mail,Summer,High Value,143.56,2024-11
+2024-11-29,Repeat Purchase Rate,North,Spirits,Medium-Value,Email,Spring,Low Value,115.28,2024-11
+2024-11-30,Repeat Purchase Rate,North,Spirits,Medium-Value,Social Media,Summer,Low Value,61.21,2024-11
+2024-11-01,Campaign Conversion Rate,North,Beer,High-Value,Email,Winter,High Value,68.51,2024-11
+2024-11-02,Campaign Conversion Rate,North,Beer,High-Value,Social Media,Fall,High Value,209.73,2024-11
+2024-11-03,Campaign Conversion Rate,North,Beer,High-Value,SMS,Fall,High Value,103.8,2024-11
+2024-11-04,Campaign Conversion Rate,North,Beer,High-Value,Direct Mail,Fall,Mid Value,59.24,2024-11
+2024-11-05,Campaign Conversion Rate,North,Beer,Medium-Value,Email,Summer,Mid Value,77.42,2024-11
+2024-11-06,Campaign Conversion Rate,North,Beer,Medium-Value,Social Media,Spring,Mid Value,147.92,2024-11
+2024-11-07,Campaign Conversion Rate,North,Beer,Medium-Value,SMS,Winter,Low Value,87.27,2024-11
+2024-11-08,Campaign Conversion Rate,North,Beer,Medium-Value,Direct Mail,Summer,High Value,137.69,2024-11
+2024-11-09,Campaign Conversion Rate,North,Beer,Low-Value,Email,Fall,High Value,119.9,2024-11
+2024-11-10,Campaign Conversion Rate,North,Beer,Low-Value,Social Media,Fall,High Value,121.25,2024-11
+2024-11-11,Campaign Conversion Rate,North,Beer,Low-Value,SMS,Winter,Mid Value,103.75,2024-11
+2024-11-12,Campaign Conversion Rate,North,Beer,Low-Value,Direct Mail,Fall,Low Value,68.73,2024-11
+2024-11-13,Campaign Conversion Rate,North,Wine,High-Value,Email,Fall,Mid Value,109.04,2024-11
+2024-11-14,Campaign Conversion Rate,North,Wine,High-Value,Social Media,Spring,High Value,52.61,2024-11
+2024-11-15,Campaign Conversion Rate,North,Wine,High-Value,SMS,Fall,Mid Value,109.49,2024-11
+2024-11-16,Campaign Conversion Rate,North,Wine,High-Value,Direct Mail,Spring,High Value,70.83,2024-11
+2024-11-17,Campaign Conversion Rate,North,Wine,Medium-Value,Email,Spring,Low Value,121.17,2024-11
+2024-11-18,Campaign Conversion Rate,North,Wine,Medium-Value,Social Media,Spring,Mid Value,134.58,2024-11
+2024-11-19,Campaign Conversion Rate,North,Wine,Medium-Value,SMS,Summer,Low Value,141.21,2024-11
+2024-11-20,Campaign Conversion Rate,North,Wine,Medium-Value,Direct Mail,Fall,Mid Value,89.5,2024-11
+2024-11-21,Campaign Conversion Rate,North,Wine,Low-Value,Email,Fall,High Value,75.7,2024-11
+2024-11-22,Campaign Conversion Rate,North,Wine,Low-Value,Social Media,Spring,Mid Value,81.04,2024-11
+2024-11-23,Campaign Conversion Rate,North,Wine,Low-Value,SMS,Summer,Low Value,68.96,2024-11
+2024-11-24,Campaign Conversion Rate,North,Wine,Low-Value,Direct Mail,Winter,High Value,77.56,2024-11
+2024-11-25,Campaign Conversion Rate,North,Spirits,High-Value,Email,Fall,High Value,91.43,2024-11
+2024-11-26,Campaign Conversion Rate,North,Spirits,High-Value,Social Media,Spring,Low Value,91.13,2024-11
+2024-11-27,Campaign Conversion Rate,North,Spirits,High-Value,SMS,Summer,High Value,131.45,2024-11
+2024-11-28,Campaign Conversion Rate,North,Spirits,High-Value,Direct Mail,Summer,Low Value,129.83,2024-11
+2024-11-29,Campaign Conversion Rate,North,Spirits,Medium-Value,Email,Summer,Low Value,129.97,2024-11
+2024-11-30,Campaign Conversion Rate,North,Spirits,Medium-Value,Social Media,Summer,Low Value,62.47,2024-11
+2024-12-01,Product Affinity Score,North,Beer,High-Value,Email,Winter,Mid Value,73.73,2024-12
+2024-12-02,Product Affinity Score,North,Beer,High-Value,Social Media,Winter,Low Value,71.91,2024-12
+2024-12-03,Product Affinity Score,North,Beer,High-Value,SMS,Fall,High Value,329.78,2024-12
+2024-12-04,Product Affinity Score,North,Beer,High-Value,Direct Mail,Summer,High Value,122.11,2024-12
+2024-12-05,Product Affinity Score,North,Beer,Medium-Value,Email,Winter,Low Value,117.06,2024-12
+2024-12-06,Product Affinity Score,North,Beer,Medium-Value,Social Media,Spring,Low Value,71.88,2024-12
+2024-12-07,Product Affinity Score,North,Beer,Medium-Value,SMS,Summer,High Value,58.71,2024-12
+2024-12-08,Product Affinity Score,North,Beer,Medium-Value,Direct Mail,Winter,Mid Value,50.99,2024-12
+2024-12-09,Product Affinity Score,North,Beer,Low-Value,Email,Winter,High Value,125.16,2024-12
+2024-12-10,Product Affinity Score,North,Beer,Low-Value,Social Media,Fall,High Value,84.17,2024-12
+2024-12-11,Product Affinity Score,North,Beer,Low-Value,SMS,Fall,Mid Value,126.66,2024-12
+2024-12-12,Product Affinity Score,North,Beer,Low-Value,Direct Mail,Winter,Mid Value,134.04,2024-12
+2024-12-13,Product Affinity Score,North,Wine,High-Value,Email,Winter,Mid Value,117.66,2024-12
+2024-12-14,Product Affinity Score,North,Wine,High-Value,Social Media,Summer,Mid Value,86.01,2024-12
+2024-12-15,Product Affinity Score,North,Wine,High-Value,SMS,Winter,Mid Value,110.46,2024-12
+2024-12-16,Product Affinity Score,North,Wine,High-Value,Direct Mail,Winter,Mid Value,105.42,2024-12
+2024-12-17,Product Affinity Score,North,Wine,Medium-Value,Email,Winter,Mid Value,139.09,2024-12
+2024-12-18,Product Affinity Score,North,Wine,Medium-Value,Social Media,Summer,High Value,96.63,2024-12
+2024-12-19,Product Affinity Score,North,Wine,Medium-Value,SMS,Fall,Low Value,56.09,2024-12
+2024-12-20,Product Affinity Score,North,Wine,Medium-Value,Direct Mail,Winter,Low Value,131.97,2024-12
+2024-12-21,Product Affinity Score,North,Wine,Low-Value,Email,Summer,Low Value,51.29,2024-12
+2024-12-22,Product Affinity Score,North,Wine,Low-Value,Social Media,Spring,High Value,84.21,2024-12
+2024-12-23,Product Affinity Score,North,Wine,Low-Value,SMS,Spring,Mid Value,146.27,2024-12
+2024-12-24,Product Affinity Score,North,Wine,Low-Value,Direct Mail,Fall,High Value,79.7,2024-12
+2024-12-25,Product Affinity Score,North,Spirits,High-Value,Email,Spring,High Value,124.06,2024-12
+2024-12-26,Product Affinity Score,North,Spirits,High-Value,Social Media,Summer,Low Value,87.89,2024-12
+2024-12-27,Product Affinity Score,North,Spirits,High-Value,SMS,Fall,Low Value,147.11,2024-12
+2024-12-28,Product Affinity Score,North,Spirits,High-Value,Direct Mail,Spring,High Value,139.61,2024-12
+2024-12-29,Product Affinity Score,North,Spirits,Medium-Value,Email,Spring,Mid Value,136.08,2024-12
+2024-12-30,Product Affinity Score,North,Spirits,Medium-Value,Social Media,Winter,Low Value,148.21,2024-12
+2024-12-01,Customer Engagement Score,North,Beer,High-Value,Email,Winter,Mid Value,66.15,2024-12
+2024-12-02,Customer Engagement Score,North,Beer,High-Value,Social Media,Fall,High Value,108.51,2024-12
+2024-12-03,Customer Engagement Score,North,Beer,High-Value,SMS,Spring,Low Value,113.54,2024-12
+2024-12-04,Customer Engagement Score,North,Beer,High-Value,Direct Mail,Fall,High Value,92.92,2024-12
+2024-12-05,Customer Engagement Score,North,Beer,Medium-Value,Email,Fall,Low Value,64.37,2024-12
+2024-12-06,Customer Engagement Score,North,Beer,Medium-Value,Social Media,Summer,Low Value,66.28,2024-12
+2024-12-07,Customer Engagement Score,North,Beer,Medium-Value,SMS,Spring,High Value,57.6,2024-12
+2024-12-08,Customer Engagement Score,North,Beer,Medium-Value,Direct Mail,Fall,Low Value,73.36,2024-12
+2024-12-09,Customer Engagement Score,North,Beer,Low-Value,Email,Winter,Mid Value,141.6,2024-12
+2024-12-10,Customer Engagement Score,North,Beer,Low-Value,Social Media,Summer,High Value,71.01,2024-12
+2024-12-11,Customer Engagement Score,North,Beer,Low-Value,SMS,Summer,High Value,142.04,2024-12
+2024-12-12,Customer Engagement Score,North,Beer,Low-Value,Direct Mail,Fall,High Value,108.7,2024-12
+2024-12-13,Customer Engagement Score,North,Wine,High-Value,Email,Fall,High Value,87.84,2024-12
+2024-12-14,Customer Engagement Score,North,Wine,High-Value,Social Media,Spring,Low Value,118.62,2024-12
+2024-12-15,Customer Engagement Score,North,Wine,High-Value,SMS,Fall,High Value,77.49,2024-12
+2024-12-16,Customer Engagement Score,North,Wine,High-Value,Direct Mail,Summer,Low Value,135.45,2024-12
+2024-12-17,Customer Engagement Score,North,Wine,Medium-Value,Email,Spring,High Value,66.12,2024-12
+2024-12-18,Customer Engagement Score,North,Wine,Medium-Value,Social Media,Winter,High Value,136.04,2024-12
+2024-12-19,Customer Engagement Score,North,Wine,Medium-Value,SMS,Summer,High Value,50.35,2024-12
+2024-12-20,Customer Engagement Score,North,Wine,Medium-Value,Direct Mail,Fall,High Value,82.64,2024-12
+2024-12-21,Customer Engagement Score,North,Wine,Low-Value,Email,Summer,Mid Value,94.63,2024-12
+2024-12-22,Customer Engagement Score,North,Wine,Low-Value,Social Media,Fall,Mid Value,83.79,2024-12
+2024-12-23,Customer Engagement Score,North,Wine,Low-Value,SMS,Winter,High Value,111.69,2024-12
+2024-12-24,Customer Engagement Score,North,Wine,Low-Value,Direct Mail,Summer,High Value,82.56,2024-12
+2024-12-25,Customer Engagement Score,North,Spirits,High-Value,Email,Winter,Low Value,112.41,2024-12
+2024-12-26,Customer Engagement Score,North,Spirits,High-Value,Social Media,Winter,Mid Value,141.05,2024-12
+2024-12-27,Customer Engagement Score,North,Spirits,High-Value,SMS,Fall,Low Value,101.18,2024-12
+2024-12-28,Customer Engagement Score,North,Spirits,High-Value,Direct Mail,Fall,Low Value,128.93,2024-12
+2024-12-29,Customer Engagement Score,North,Spirits,Medium-Value,Email,Spring,High Value,76.93,2024-12
+2024-12-30,Customer Engagement Score,North,Spirits,Medium-Value,Social Media,Winter,Mid Value,109.68,2024-12
+2024-12-01,CLV,North,Beer,High-Value,Email,Fall,Low Value,99.97,2024-12
+2024-12-02,CLV,North,Beer,High-Value,Social Media,Spring,Mid Value,103.17,2024-12
+2024-12-03,CLV,North,Beer,High-Value,SMS,Summer,Low Value,51.94,2024-12
+2024-12-04,CLV,North,Beer,High-Value,Direct Mail,Summer,Mid Value,55.32,2024-12
+2024-12-05,CLV,North,Beer,Medium-Value,Email,Summer,Low Value,122.52,2024-12
+2024-12-06,CLV,North,Beer,Medium-Value,Social Media,Fall,High Value,80.22,2024-12
+2024-12-07,CLV,North,Beer,Medium-Value,SMS,Spring,Mid Value,110.31,2024-12
+2024-12-08,CLV,North,Beer,Medium-Value,Direct Mail,Summer,Low Value,72.26,2024-12
+2024-12-09,CLV,North,Beer,Low-Value,Email,Summer,Mid Value,140.41,2024-12
+2024-12-10,CLV,North,Beer,Low-Value,Social Media,Spring,High Value,67.54,2024-12
+2024-12-11,CLV,North,Beer,Low-Value,SMS,Spring,High Value,147.7,2024-12
+2024-12-12,CLV,North,Beer,Low-Value,Direct Mail,Winter,Low Value,78.46,2024-12
+2024-12-13,CLV,North,Wine,High-Value,Email,Winter,Low Value,88.43,2024-12
+2024-12-14,CLV,North,Wine,High-Value,Social Media,Winter,High Value,127.14,2024-12
+2024-12-15,CLV,North,Wine,High-Value,SMS,Fall,Mid Value,77.5,2024-12
+2024-12-16,CLV,North,Wine,High-Value,Direct Mail,Spring,Mid Value,115.33,2024-12
+2024-12-17,CLV,North,Wine,Medium-Value,Email,Spring,High Value,108.01,2024-12
+2024-12-18,CLV,North,Wine,Medium-Value,Social Media,Winter,High Value,131.31,2024-12
+2024-12-19,CLV,North,Wine,Medium-Value,SMS,Spring,Low Value,332.14,2024-12
+2024-12-20,CLV,North,Wine,Medium-Value,Direct Mail,Spring,Mid Value,146.56,2024-12
+2024-12-21,CLV,North,Wine,Low-Value,Email,Summer,High Value,114.81,2024-12
+2024-12-22,CLV,North,Wine,Low-Value,Social Media,Fall,Low Value,126.15,2024-12
+2024-12-23,CLV,North,Wine,Low-Value,SMS,Spring,High Value,110.3,2024-12
+2024-12-24,CLV,North,Wine,Low-Value,Direct Mail,Fall,Low Value,81.23,2024-12
+2024-12-25,CLV,North,Spirits,High-Value,Email,Summer,Low Value,93.07,2024-12
+2024-12-26,CLV,North,Spirits,High-Value,Social Media,Summer,High Value,68.72,2024-12
+2024-12-27,CLV,North,Spirits,High-Value,SMS,Fall,Mid Value,89.41,2024-12
+2024-12-28,CLV,North,Spirits,High-Value,Direct Mail,Spring,High Value,53.68,2024-12
+2024-12-29,CLV,North,Spirits,Medium-Value,Email,Spring,High Value,114.98,2024-12
+2024-12-30,CLV,North,Spirits,Medium-Value,Social Media,Winter,Mid Value,121.34,2024-12
+2024-12-01,Repeat Purchase Rate,North,Beer,High-Value,Email,Fall,Low Value,100.78,2024-12
+2024-12-02,Repeat Purchase Rate,North,Beer,High-Value,Social Media,Winter,High Value,65.94,2024-12
+2024-12-03,Repeat Purchase Rate,North,Beer,High-Value,SMS,Winter,Mid Value,109.39,2024-12
+2024-12-04,Repeat Purchase Rate,North,Beer,High-Value,Direct Mail,Fall,Mid Value,65.06,2024-12
+2024-12-05,Repeat Purchase Rate,North,Beer,Medium-Value,Email,Fall,High Value,112.1,2024-12
+2024-12-06,Repeat Purchase Rate,North,Beer,Medium-Value,Social Media,Spring,Mid Value,74.66,2024-12
+2024-12-07,Repeat Purchase Rate,North,Beer,Medium-Value,SMS,Spring,Low Value,128.1,2024-12
+2024-12-08,Repeat Purchase Rate,North,Beer,Medium-Value,Direct Mail,Winter,Mid Value,88.4,2024-12
+2024-12-09,Repeat Purchase Rate,North,Beer,Low-Value,Email,Winter,High Value,59.34,2024-12
+2024-12-10,Repeat Purchase Rate,North,Beer,Low-Value,Social Media,Spring,Mid Value,54.29,2024-12
+2024-12-11,Repeat Purchase Rate,North,Beer,Low-Value,SMS,Fall,Low Value,116.41,2024-12
+2024-12-12,Repeat Purchase Rate,North,Beer,Low-Value,Direct Mail,Summer,Mid Value,147.18,2024-12
+2024-12-13,Repeat Purchase Rate,North,Wine,High-Value,Email,Summer,Mid Value,112.63,2024-12
+2024-12-14,Repeat Purchase Rate,North,Wine,High-Value,Social Media,Winter,Low Value,138.76,2024-12
+2024-12-15,Repeat Purchase Rate,North,Wine,High-Value,SMS,Winter,Low Value,134.94,2024-12
+2024-12-16,Repeat Purchase Rate,North,Wine,High-Value,Direct Mail,Summer,Mid Value,91.33,2024-12
+2024-12-17,Repeat Purchase Rate,North,Wine,Medium-Value,Email,Summer,High Value,217.35,2024-12
+2024-12-18,Repeat Purchase Rate,North,Wine,Medium-Value,Social Media,Summer,High Value,110.85,2024-12
+2024-12-19,Repeat Purchase Rate,North,Wine,Medium-Value,SMS,Winter,Low Value,127.5,2024-12
+2024-12-20,Repeat Purchase Rate,North,Wine,Medium-Value,Direct Mail,Fall,High Value,73.44,2024-12
+2024-12-21,Repeat Purchase Rate,North,Wine,Low-Value,Email,Summer,High Value,112.9,2024-12
+2024-12-22,Repeat Purchase Rate,North,Wine,Low-Value,Social Media,Winter,High Value,66.9,2024-12
+2024-12-23,Repeat Purchase Rate,North,Wine,Low-Value,SMS,Fall,High Value,80.3,2024-12
+2024-12-24,Repeat Purchase Rate,North,Wine,Low-Value,Direct Mail,Summer,Mid Value,104.69,2024-12
+2024-12-25,Repeat Purchase Rate,North,Spirits,High-Value,Email,Fall,Mid Value,107.55,2024-12
+2024-12-26,Repeat Purchase Rate,North,Spirits,High-Value,Social Media,Fall,Low Value,62.76,2024-12
+2024-12-27,Repeat Purchase Rate,North,Spirits,High-Value,SMS,Summer,Mid Value,110.94,2024-12
+2024-12-28,Repeat Purchase Rate,North,Spirits,High-Value,Direct Mail,Fall,Mid Value,119.58,2024-12
+2024-12-29,Repeat Purchase Rate,North,Spirits,Medium-Value,Email,Winter,High Value,115.14,2024-12
+2024-12-30,Repeat Purchase Rate,North,Spirits,Medium-Value,Social Media,Spring,High Value,119.53,2024-12
+2024-12-01,Campaign Conversion Rate,North,Beer,High-Value,Email,Fall,Mid Value,140.32,2024-12
+2024-12-02,Campaign Conversion Rate,North,Beer,High-Value,Social Media,Winter,High Value,117.89,2024-12
+2024-12-03,Campaign Conversion Rate,North,Beer,High-Value,SMS,Winter,Low Value,75.78,2024-12
+2024-12-04,Campaign Conversion Rate,North,Beer,High-Value,Direct Mail,Winter,Mid Value,81.9,2024-12
+2024-12-05,Campaign Conversion Rate,North,Beer,Medium-Value,Email,Winter,Low Value,87.4,2024-12
+2024-12-06,Campaign Conversion Rate,North,Beer,Medium-Value,Social Media,Summer,Mid Value,212.2,2024-12
+2024-12-07,Campaign Conversion Rate,North,Beer,Medium-Value,SMS,Spring,Low Value,92.21,2024-12
+2024-12-08,Campaign Conversion Rate,North,Beer,Medium-Value,Direct Mail,Winter,Low Value,59.41,2024-12
+2024-12-09,Campaign Conversion Rate,North,Beer,Low-Value,Email,Fall,High Value,72.38,2024-12
+2024-12-10,Campaign Conversion Rate,North,Beer,Low-Value,Social Media,Fall,Mid Value,152.82,2024-12
+2024-12-11,Campaign Conversion Rate,North,Beer,Low-Value,SMS,Spring,Mid Value,57.9,2024-12
+2024-12-12,Campaign Conversion Rate,North,Beer,Low-Value,Direct Mail,Summer,High Value,68.66,2024-12
+2024-12-13,Campaign Conversion Rate,North,Wine,High-Value,Email,Spring,Low Value,87.01,2024-12
+2024-12-14,Campaign Conversion Rate,North,Wine,High-Value,Social Media,Spring,High Value,82.05,2024-12
+2024-12-15,Campaign Conversion Rate,North,Wine,High-Value,SMS,Spring,High Value,122.13,2024-12
+2024-12-16,Campaign Conversion Rate,North,Wine,High-Value,Direct Mail,Summer,Mid Value,129.32,2024-12
+2024-12-17,Campaign Conversion Rate,North,Wine,Medium-Value,Email,Winter,Mid Value,91.05,2024-12
+2024-12-18,Campaign Conversion Rate,North,Wine,Medium-Value,Social Media,Winter,High Value,146.72,2024-12
+2024-12-19,Campaign Conversion Rate,North,Wine,Medium-Value,SMS,Summer,Low Value,140.5,2024-12
+2024-12-20,Campaign Conversion Rate,North,Wine,Medium-Value,Direct Mail,Summer,Low Value,98.32,2024-12
+2024-12-21,Campaign Conversion Rate,North,Wine,Low-Value,Email,Winter,Mid Value,82.26,2024-12
+2024-12-22,Campaign Conversion Rate,North,Wine,Low-Value,Social Media,Summer,Low Value,59.71,2024-12
+2024-12-23,Campaign Conversion Rate,North,Wine,Low-Value,SMS,Spring,Low Value,94.52,2024-12
+2024-12-24,Campaign Conversion Rate,North,Wine,Low-Value,Direct Mail,Winter,Low Value,137.95,2024-12
+2024-12-25,Campaign Conversion Rate,North,Spirits,High-Value,Email,Winter,High Value,52.23,2024-12
+2024-12-26,Campaign Conversion Rate,North,Spirits,High-Value,Social Media,Spring,Mid Value,115.91,2024-12
+2024-12-27,Campaign Conversion Rate,North,Spirits,High-Value,SMS,Summer,Mid Value,61.15,2024-12
+2024-12-28,Campaign Conversion Rate,North,Spirits,High-Value,Direct Mail,Winter,Low Value,68.06,2024-12
+2024-12-29,Campaign Conversion Rate,North,Spirits,Medium-Value,Email,Spring,High Value,61.81,2024-12
+2024-12-30,Campaign Conversion Rate,North,Spirits,Medium-Value,Social Media,Fall,High Value,69.64,2024-12
